@@ -12,7 +12,7 @@ Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento
 ```
 composer require mageplaza/magento-2-portuguese-language-pack:*
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy pl-pl
+php bin/magento setup:static-content:deploy pt-br
 
 ```
 
