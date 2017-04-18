@@ -4935,7 +4935,7 @@ Freight,Frete,module,Magento_Fedex
 "National Freight","Frete Nacional",module,Magento_Fedex
 "Regular Pickup","Coleta regular",module,Magento_Fedex
 "Request Courier","Solicitação de Courier",module,Magento_Fedex
-"Drop Box","Drop Box",module,Magento_Fedex
+"Drop Box","Caixa de Depósito",module,Magento_Fedex
 "Business Service Center","Central de Serviços Comerciais",module,Magento_Fedex
 Station,Estação,module,Magento_Fedex
 "FedEx Envelope","Envelope FedEx",module,Magento_Fedex
@@ -5289,7 +5289,7 @@ Message,Mensagem,module,Magento_GiftRegistry
 "Share Gift Registry","Compartilhar lista de presente",module,Magento_GiftRegistry
 "Gift Registry","Lista de presente",module,Magento_GiftRegistry
 Event,Evento,module,Magento_GiftRegistry
-Registrants,Registrants,module,Magento_GiftRegistry
+Registrants,Registantes,module,Magento_GiftRegistry
 "Event Date","Data do evento",module,Magento_GiftRegistry
 "Total Items","Total de itens",module,Magento_GiftRegistry
 Remaining,Restantes,module,Magento_GiftRegistry
@@ -6020,7 +6020,7 @@ Customers,Clientes,module,Magento_Invitation
 "We skipped %1 of the selected invitations.","We skipped %1 of the selected invitations.",module,Magento_Invitation
 "Something went wrong while sending invitations.","Ocorreu um erro durante o envio do(s) convite(s).",module,Magento_Invitation
 "No invitations have been resent.","Nenhum convite foi reenviado.",module,Magento_Invitation
-"You sent %1 of %2 invitation(s).","You sent %1 of %2 invitation(s).",module,Magento_Invitation
+"You sent %1 of %2 invitation(s).","Enviou %1 de %2 convite(s).",module,Magento_Invitation
 "Something went wrong while sending %1 invitations.","Algo algum erro ao enviar %1 convites.",module,Magento_Invitation
 "We discarded %1 invitation(s) addressed to current customers.","We discarded %1 invitation(s) addressed to current customers.",module,Magento_Invitation
 "Please specify at least one email address.","Por favor especifique pelo menos um endereço de email.",module,Magento_Invitation
@@ -6331,7 +6331,7 @@ Database,"Banco de dados",module,Magento_MediaStorage
 "Storage Configuration for Media","Configuração de Armazenamento para Midia",module,Magento_MediaStorage
 "Media Storage","Armazenamento de Mídia",module,Magento_MediaStorage
 "Select Media Database","Selecione a Base de Dados de Mídia",module,Magento_MediaStorage
-"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Após selecionar uma nova localização de armazenamento mídia, clique no botão Sincronizar para transferir todos os ficheiros de mídia para a nova localização. Os arquivos só estarão disponíveis na nova localização quando o processo de sincronização terminar.",module,Magento_MediaStorage
 "Environment Update Time","Tempo de Atualização do Ambiente",module,Magento_MediaStorage
 "Some exception","Alguma exceção",module,Magento_MessageQueue
 "To see product price, add this item to your cart. You can always remove it later.","Para ver o preço do produto, o adicione no seu carrinho. Você poderá removê-lo depois se desejar.",module,Magento_Msrp
@@ -6371,7 +6371,7 @@ Edit,Editar,module,Magento_MultipleLocationInventory
 "Warehouse Information","Informação de Armazéns",module,Magento_MultipleLocationInventory
 "Use default address","Usar endereço padrão",module,Magento_MultipleLocationInventory
 "Street Address",Endereço,module,Magento_MultipleLocationInventory
-"Add New Warehouse","Add New Warehouse",module,Magento_MultipleLocationInventory
+"Add New Warehouse","Adicionar Novo Armazém",module,Magento_MultipleLocationInventory
 ID,ID,module,Magento_MultipleLocationInventory
 Name,Nome,module,Magento_MultipleLocationInventory
 "Contact Name","Nome do contato",module,Magento_MultipleLocationInventory
@@ -6405,7 +6405,7 @@ Customers,Clientes,module,Magento_MultipleWishlist
 "We can't find %1 items.","Não podemos encontrar %1 itens.",module,Magento_MultipleWishlist
 "We can't copy %1 items.","Não podemos copiar %1 itens.",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 itens já estão presentes em %2: %3.",module,Magento_MultipleWishlist
-"%1 items were copied to %2: %3.","%1 items were copied to %2: %3.",module,Magento_MultipleWishlist
+"%1 items were copied to %2: %3.","%1 itens foram copiados para %2: %3.",module,Magento_MultipleWishlist
 "You can't delete the default wish list.","Você não pode excluir a lista padrão.",module,Magento_MultipleWishlist
 "Wish List ""%1"" has been deleted.","Wish List ""%1"" has been deleted.",module,Magento_MultipleWishlist
 "We can't delete the wish list right now.","Não podemos excluir a lista de desejo agora.",module,Magento_MultipleWishlist
@@ -6806,7 +6806,7 @@ Title,Título,module,Magento_OfflinePayments
 "Purchase Order","Ordem de compra",module,Magento_OfflinePayments
 "Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
 Instructions,Instruções,module,Magento_OfflinePayments
-"Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
+"Cash On Delivery Payment","Pagamento Contra Entrega",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Checkout com Subtotal Zero",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
 Country,País,module,Magento_OfflineShipping
@@ -6829,15 +6829,15 @@ None,Nenhum,module,Magento_OfflineShipping
 "Unable to import data","Não é possível importar dados",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Algo deu errado ao importar a tabela de tarifas.",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","Não foi possível importar este arquivo porque ocorreu esses erros: %1",module,Magento_OfflineShipping
-"Requested column ""%1"" cannot be resolved","Requested column ""%1"" cannot be resolved",module,Magento_OfflineShipping
+"Requested column ""%1"" cannot be resolved","Coluna solicitada ""%1"" não pode ser resolvida",module,Magento_OfflineShipping
 "Column ""%1"" not found","Coluna ""%1"" não foi encontrada",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Por favor corrija o formato das taxas tabeladas na linha #%1.",module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Por favor corrija a Região/Estado ""%1"" na Linha #%2.",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Por favor, corrija o %1 ""%2"" na linha #%3.",module,Magento_OfflineShipping
-"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Shipping Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija o Valor dos Portes ""%1"" na Linha #%2.",module,Magento_OfflineShipping
 "Duplicate Row #%1 (duplicates row #%2)","Duplicate Row #%1 (duplicates row #%2)",module,Magento_OfflineShipping
-"Please correct Table Rates File Format.","Please correct Table Rates File Format.",module,Magento_OfflineShipping
+"Please correct Table Rates File Format.","Por favor corrija o formato de ficheiro das taxas tabeladas.",module,Magento_OfflineShipping
 No,Não,module,Magento_OfflineShipping
 "For matching items only","Apenas para os itens correspondentes",module,Magento_OfflineShipping
 "For shipment with matching items","Para envio com os itens correspondentes",module,Magento_OfflineShipping
@@ -6971,9 +6971,9 @@ Purchased,Comprado,module,Magento_Paypal
 "View Transaction Details","View Transaction Details",module,Magento_Paypal
 "Reference Information","Informação da Referência",module,Magento_Paypal
 "Transaction Information","Informação de Transações",module,Magento_Paypal
-"PayPal Fee Information","PayPal Fee Information",module,Magento_Paypal
+"PayPal Fee Information","Informação da Taxa PayPal",module,Magento_Paypal
 "PayPal Settlement Reports","Relatórios de Liquidação do PayPal",module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Estamos a ligar ao servidor SFTP do PayPal para obter novos relatórios. Tem certeza que deseja continuar?",module,Magento_Paypal
 "Fetch Updates","Buscar Atualizações",module,Magento_Paypal
 button_label,button_label,module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
@@ -7663,12 +7663,12 @@ Hidden,Oculto,module,Magento_ProductVideo
 "Image Resolution","Resolução da Imagem",module,Magento_ProductVideo
 "{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
 Title:,Título:,module,Magento_ProductVideo
-Uploaded:,Uploaded:,module,Magento_ProductVideo
+Uploaded:,Carregado:,module,Magento_ProductVideo
 Uploader:,Uploader:,module,Magento_ProductVideo
 Duration:,Duration:,module,Magento_ProductVideo
 "Video Error","Erro de Vídeo",module,Magento_ProductVideo
-"Unknown video type","Unknown video type",module,Magento_ProductVideo
-"Invalid video url","Invalid video url",module,Magento_ProductVideo
+"Unknown video type","Tipo de vídeo desconhecido",module,Magento_ProductVideo
+"Invalid video url","Url de vídeo inválido",module,Magento_ProductVideo
 "Youtube API key is invalid","Chave da API do YouTube é inválida",module,Magento_ProductVideo
 "Video cant be shown due to the following reason:","Video cant be shown due to the following reason:",module,Magento_ProductVideo
 "Video not found","Vídeo não encontrado",module,Magento_ProductVideo
@@ -7711,14 +7711,14 @@ Subtotal,Subtotal,module,Magento_Quote
 "We found an invalid item option format.","Encontramos um formato de opção de item inválido.",module,Magento_Quote
 "An item option with code %1 already exists.","Uma opção de item com o código %1 já existe.",module,Magento_Quote
 "Item qty declaration error","Erro de declaração de qtd de item",module,Magento_Quote
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options.",module,Magento_Quote
+"Some of the products below do not have all the required options.","Alguns dos produtos abaixo não têm todas as opções necessárias.",module,Magento_Quote
 "Something went wrong during the item options declaration.","Houve algum erro durante a declaração das opções do item.",module,Magento_Quote
 "We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
 "Some of the selected options are not currently available.","Algumas das opções selecionadas não estão disponíveis de momento.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
-"Some item options or their combination are not currently available.","Some item options or their combination are not currently available.",module,Magento_Quote
+"Some item options or their combination are not currently available.","Algumas opções de itens ou a sua combinação não estão disponíveis de momento.",module,Magento_Quote
 "Cart %1 does not contain item %2","Cart %1 does not contain item %2",module,Magento_Quote
-"Could not save quote","Could not save quote",module,Magento_Quote
+"Could not save quote","Não foi possível gravar o orçamento",module,Magento_Quote
 "Cart %1 doesn't contain item  %2","O carrinho %1 não contém o tem %2",module,Magento_Quote
 "Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
 "The qty value is required to update quote item.","O valor da qtd é necessário para atualizar o item do orçamento.",module,Magento_Quote
@@ -7770,12 +7770,12 @@ Yes,Sim,module,Magento_Reminder
 Coupon,Cupom,module,Magento_Reminder
 N/A,"Não Disponível",module,Magento_Reminder
 "Coupon Use Limit","Limite de Uso do Cupom",module,Magento_Reminder
-"Coupon Use Per Customer","Coupon Use Per Customer",module,Magento_Reminder
+"Coupon Use Per Customer","Usos do Cupão Por Utilizador",module,Magento_Reminder
 "Emails Sent","E-mails Enviados",module,Magento_Reminder
 "Emails Failed","Emails Failed",module,Magento_Reminder
 "Last Sent","Enviado Pela Última Vez",module,Magento_Reminder
 "General Information","Informações gerais",module,Magento_Reminder
-"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.",module,Magento_Reminder
+"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Os emails de lembretes podem promover uma regra de preço de carrinho com ou sem um cupão. Se uma regra de preço de carrinho definir um cupão gerado automaticamente, esta regra de lembrete irá gerar um código de cupão aleatório para cada cliente.",module,Magento_Reminder
 "Rule Name","Nome da regra",module,Magento_Reminder
 Description,Descrição,module,Magento_Reminder
 "Cart Price Rule","Regra de preço no carrinho",module,Magento_Reminder
@@ -7933,7 +7933,7 @@ CSV,CSV,module,Magento_Reports
 "Excel XML","Excel, XML",module,Magento_Reports
 Unlimited,Ilimitado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
-"Products Ordered","Products Ordered",module,Magento_Reports
+"Products Ordered","Produtos ordenados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
 "Show Report","Show Report",module,Magento_Reports
 Interval,Intervalo,module,Magento_Reports
@@ -8294,16 +8294,16 @@ Comment,Comentar,module,Magento_Reward
 "Reward Points Notifications","Notificações de Pontos de Recompensa",module,Magento_Reward
 "Subscribe for Balance Updates","Inscrever-se para Atualizações do Saldo",module,Magento_Reward
 "Subscribe for Points Expiration Notifications","Inscrever-se para Notificações de Pontos de Expiração",module,Magento_Reward
-"Reward Exchange Rates","Reward Exchange Rates",module,Magento_Reward
+"Reward Exchange Rates","Taxas de câmbio de recompensa",module,Magento_Reward
 "Add New Rate","Adicionar nova taxa",module,Magento_Reward
 "Edit Reward Exchange Rate","Edit Reward Exchange Rate",module,Magento_Reward
 "New Reward Exchange Rate","Nova Taxa de Câmbio de Recompensa",module,Magento_Reward
 "Reward Exchange Rate Information","Reward Exchange Rate Information",module,Magento_Reward
 "Customer Group","Grupo de clientes",module,Magento_Reward
 Direction,Direction,module,Magento_Reward
-Rate,Rate,module,Magento_Reward
+Rate,Avaliação,module,Magento_Reward
 "Use your reward points; %1 are available.","Use os seus pontos de recompensa; %1 estão disponíveis.",module,Magento_Reward
-"Learn more","Learn more",module,Magento_Reward
+"Learn more","Saiba mais",module,Magento_Reward
 "This applies only to registered users and may vary when a user is logged in.","Isso se aplica somente a usuários cadastrados e pode variar quando um usuário está logado.",module,Magento_Reward
 "You removed the orphan points.","You removed the orphan points.",module,Magento_Reward
 Customers,Clientes,module,Magento_Reward
@@ -8864,7 +8864,7 @@ To,Até,module,Magento_Sales
 Message,Mensagem,module,Magento_Sales
 "Edit Order #%1","Editar pedido #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Criar novo pedido para %1 em %2",module,Magento_Sales
-"Create New Order in %1","Create New Order in %1",module,Magento_Sales
+"Create New Order in %1","Criar nova ordem em %1",module,Magento_Sales
 "Create New Order for %1","Criar novo pedido para %1",module,Magento_Sales
 "Create New Order for New Customer","Criar novo pedido, para um novo cliente",module,Magento_Sales
 "Items Ordered","Itens comprados",module,Magento_Sales
@@ -9729,7 +9729,7 @@ Conditions,Condições,module,Magento_SalesRule
 "Code Format","Formato do código",module,Magento_SalesRule
 "Code Prefix","Prefixo do código",module,Magento_SalesRule
 "Code Suffix","Sufixo do código",module,Magento_SalesRule
-"Dash Every X Characters","Dash Every X Characters",module,Magento_SalesRule
+"Dash Every X Characters","Hífen a Cada X Caracteres",module,Magento_SalesRule
 "If empty no separation.","Se estiver vazio não há separação.",module,Magento_SalesRule
 Generate,Gerar,module,Magento_SalesRule
 "Coupon Code","Código do cupom",module,Magento_SalesRule
@@ -9889,11 +9889,11 @@ Description,Descrição,module,Magento_SalesRuleStaging
 "End Date","Data de Término",module,Magento_SalesRuleStaging
 "Rule Information","Informações da Regra",module,Magento_SalesRuleStaging
 Websites,Websites,module,Magento_SalesRuleStaging
-"Customer Groups","Customer Groups",module,Magento_SalesRuleStaging
+"Customer Groups","Grupos de Cliente",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Público No Feed RSS",module,Magento_SalesRuleStaging
 Conditions,Conditions,module,Magento_SalesRuleStaging
 Actions,Ações,module,Magento_SalesRuleStaging
-Apply,Apply,module,Magento_SalesRuleStaging
+Apply,Aplicar,module,Magento_SalesRuleStaging
 "Discount Amount","Quantidade do Desconto",module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Incremento de Desconto de Qtd (Compre X)",module,Magento_SalesRuleStaging
@@ -9956,8 +9956,8 @@ Password,Senha,module,Magento_ScheduledImportExport
 "Failed Email Receiver","Receptor do Email falhou",module,Magento_ScheduledImportExport
 "Failed Email Sender","Failed Email Sender",module,Magento_ScheduledImportExport
 "Failed Email Template","Modelo de E-mail de Falha",module,Magento_ScheduledImportExport
-"Send Failed Email Copy To","Send Failed Email Copy To",module,Magento_ScheduledImportExport
-"Send Failed Email Copy Method","Send Failed Email Copy Method",module,Magento_ScheduledImportExport
+"Send Failed Email Copy To","Enviar cópia de E-mail falhou para",module,Magento_ScheduledImportExport
+"Send Failed Email Copy Method","Enviar E-mail falha de método de cópia",module,Magento_ScheduledImportExport
 "Export Settings","Exportar Configurações",module,Magento_ScheduledImportExport
 "Export File Information","Formato do arquivo de exportação",module,Magento_ScheduledImportExport
 "Export Failed Emails","Export Failed Emails",module,Magento_ScheduledImportExport
@@ -10167,9 +10167,9 @@ None,Nenhum,module,Magento_Security
 "IP Address","Endereço de IP",module,Magento_Security
 "Time of session start","Tempo de início de sessão",module,Magento_Security
 "Are you sure that you want to log out all other sessions?","Tem a certeza que deseja sair de todas as outras sessões?",module,Magento_Security
-"Log out all other sessions","Log out all other sessions",module,Magento_Security
+"Log out all other sessions","Finalizem todas as outras sessões",module,Magento_Security
 "This computer is using IP address %1.","Este computador está usando o IP endereço %1.",module,Magento_Security
-"Admin Account Sharing","Admin Account Sharing",module,Magento_Security
+"Admin Account Sharing","Partilha de Conta de Administrador",module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Se definida como Sim, você pode logar de vários computadores em uma mesma conta. Configuração padrão Não melhora a segurança.",module,Magento_Security
 "Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
 "Max Number of Password Reset Requests","Número máximo solicitações de redefinição de senha",module,Magento_Security
@@ -10197,8 +10197,8 @@ None,Nenhum,module,Magento_Security
 "No Category Exception.","Nenhuma exceção de categoria.",module,Magento_SendFriend
 "Some error","Algum erro",module,Magento_SendFriend
 "Localized Exception.","Exceção local (Localized Exception).",module,Magento_SendFriend
-Exception.,Exception.,module,Magento_SendFriend
-"Remove Recipent","Remove Recipent",module,Magento_SendFriend
+Exception.,Excepção.,module,Magento_SendFriend
+"Remove Recipent","Remover o estrangeiro",module,Magento_SendFriend
 Remove,Remover,module,Magento_SendFriend
 Name,Nome,module,Magento_SendFriend
 Email,E-mail,module,Magento_SendFriend
@@ -10421,14 +10421,14 @@ Error,Erro,module,Magento_Signifyd
 "Message is generated.","Mensagem é gerada.",module,Magento_Signifyd
 "Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
 "Case Status","Caso de Status",module,Magento_Signifyd
-"Case Score","Case Score",module,Magento_Signifyd
-"Guarantee Eligible","Guarantee Eligible",module,Magento_Signifyd
-"Guarantee Disposition","Guarantee Disposition",module,Magento_Signifyd
+"Case Score","Caso a Pontuação",module,Magento_Signifyd
+"Guarantee Eligible","Garantia elegíveis",module,Magento_Signifyd
+"Guarantee Disposition","Disposição de garantia",module,Magento_Signifyd
 "Associated Team","Associated Team",module,Magento_Signifyd
 "Review Disposition","Review Disposition",module,Magento_Signifyd
-"Case Created","Case Created",module,Magento_Signifyd
-"Case Updated","Case Updated",module,Magento_Signifyd
-"Fraud Protection Section","Fraud Protection Section",module,Magento_Signifyd
+"Case Created","Caso criado",module,Magento_Signifyd
+"Case Updated","Caso atualizado",module,Magento_Signifyd
+"Fraud Protection Section","Seção de proteção de fraude",module,Magento_Signifyd
 "Fraud Protection","Fraud Protection",module,Magento_Signifyd
 Signifyd,Signifyd,module,Magento_Signifyd
 "Enable this Solution","Enable this Solution",module,Magento_Signifyd
@@ -10538,13 +10538,13 @@ Save,Salvar,module,Magento_Staging
 "Invalid action type %1.","%1 do tipo de ação inválida.",module,Magento_Staging
 "Invalid action.","Ação inválida.",module,Magento_Staging
 "Invalid parameter %1.","%1 parâmetro inválido.",module,Magento_Staging
-"Something went wrong while removing the %1.","Something went wrong while removing the %1.",module,Magento_Staging
+"Something went wrong while removing the %1.","Algo deu errado durante a gravação de %1.",module,Magento_Staging
 "The 'mode' value is unexpected.","O valor de 'modo' é inesperado.",module,Magento_Staging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
 "Something went wrong while saving the %1.","Algo deu errado durante a gravação de %1.",module,Magento_Staging
-"Requested type does not have corresponding implementation","Requested type does not have corresponding implementation",module,Magento_Staging
+"Requested type does not have corresponding implementation","Tipo solicitado não tem implementação correspondente",module,Magento_Staging
 "Repository should return instance of %s","Repositório deve retornar a instância de %s",module,Magento_Staging
-"Can not be rescheduled","Can not be rescheduled",module,Magento_Staging
+"Can not be rescheduled","Não podem ser reprogramadas",module,Magento_Staging
 "Action class must implement ActionDataProviderInterface","Action class must implement ActionDataProviderInterface",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
 "Delete Update","Delete Update",module,Magento_Staging
@@ -10643,11 +10643,11 @@ Support,Atendimento,module,Magento_Support
 "Data Collector","Coletor de dados",module,Magento_Support
 "The backup has been saved.","The backup has been saved.",module,Magento_Support
 "Failed to save backup with error: %1","Falha ao salvar o backup com o erro: %1",module,Magento_Support
-"An error occurred while saving backup","An error occurred while saving backup",module,Magento_Support
+"An error occurred while saving backup","Ocorreu um erro ao salvar o backup",module,Magento_Support
 "All processes should be complete","Todos os processos devem ser completos",module,Magento_Support
 "Wrong param id","Wrong param id",module,Magento_Support
 "The backup has been deleted.","O backup foi excluído.",module,Magento_Support
-"Cannot delete backup","Cannot delete backup",module,Magento_Support
+"Cannot delete backup","Não é possível excluir backup",module,Magento_Support
 "File does not exist","O arquivo não existe",module,Magento_Support
 "Log Details","Detalhes do Log",module,Magento_Support
 "An error occurred during mass deletion of data collector backups. Please review log and try again.","An error occurred during mass deletion of data collector backups. Please review log and try again.",module,Magento_Support
@@ -10924,15 +10924,15 @@ Inactive,Inativo,module,Magento_TargetRule
 "Apply To","Aplicar a",module,Magento_TargetRule
 From,De,module,Magento_TargetRule
 To,Até,module,Magento_TargetRule
-"Result Limit","Result Limit",module,Magento_TargetRule
+"Result Limit","Limite de resultado",module,Magento_TargetRule
 "Maximum number of products this rule can apply to (up to 20).","Número máximo de produtos (até 20) a que se pode aplicar esta regra.",module,Magento_TargetRule
-"Product Rule Information","Product Rule Information",module,Magento_TargetRule
+"Product Rule Information","Informações de produto de regras",module,Magento_TargetRule
 "Undefined Catalog Product List Type","Tipo de lista de produtos catálogo indefinido",module,Magento_TargetRule
 "You deleted the rule.","Você excluiu a regra.",module,Magento_TargetRule
 "We can't find a page to delete.","Não é possível encontrar uma página para excluir.",module,Magento_TargetRule
 "This rule no longer exists.","Esta regra não existe mais.",module,Magento_TargetRule
 "New Related Products Rule","Regra de Produtos Relacionados",module,Magento_TargetRule
-"Related Products Rules","Related Products Rules",module,Magento_TargetRule
+"Related Products Rules","Regra de Produtos Relacionados",module,Magento_TargetRule
 "You saved the rule.","Você gravou a regra.",module,Magento_TargetRule
 "We can't save the product rule right now.","Não podemos salvar a regra do produto no momento.",module,Magento_TargetRule
 "Please specify a correct rule.","Please specify a correct rule.",module,Magento_TargetRule
@@ -11020,13 +11020,13 @@ Reset,Reiniciar,module,Magento_Tax
 "Save Rate","Gravar Taxa",module,Magento_Tax
 "Manage Tax Rules","Gerenciar Taxas de Imposto",module,Magento_Tax
 "Add New Tax Rule","Adicionar Nova Regra de Taxa",module,Magento_Tax
-"Save Rule","Save Rule",module,Magento_Tax
+"Save Rule","Gravar Regra",module,Magento_Tax
 "Delete Rule","Excluir a regra",module,Magento_Tax
 "Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Tax
 "Tax Rule Information","Informação da Regra de Taxa",module,Magento_Tax
 Name,Nome,module,Magento_Tax
 "Customer Tax Class","Classe de Imposto do Cliente",module,Magento_Tax
-"Product Tax Class","Product Tax Class",module,Magento_Tax
+"Product Tax Class","Taxa de Imposto do Cliente",module,Magento_Tax
 "Tax Rate",Taxa,module,Magento_Tax
 Priority,Prioridade,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded.",module,Magento_Tax
@@ -11542,8 +11542,8 @@ CSV,CSV,module,Magento_Ui
 "Next Day Air Early AM","Next Day Air Early AM",module,Magento_Ups
 "Next Day Air Early AM Letter","Next Day Air Early AM Letter",module,Magento_Ups
 "Next Day Air","Next Day Air",module,Magento_Ups
-"Next Day Air Letter","Next Day Air Letter",module,Magento_Ups
-"Next Day Air Intra (Puerto Rico)","Next Day Air Intra (Puerto Rico)",module,Magento_Ups
+"Next Day Air Letter","No próximo dia ar letra",module,Magento_Ups
+"Next Day Air Intra (Puerto Rico)","No próximo dia ar Intra (Puerto Rico)",module,Magento_Ups
 "Next Day Air Saver","Next Day Air Saver",module,Magento_Ups
 "Next Day Air Saver Letter","Next Day Air Saver Letter",module,Magento_Ups
 "2nd Day Air AM","2nd Day Air AM",module,Magento_Ups
@@ -11651,7 +11651,7 @@ Title,Título,module,Magento_UrlRewrite
 "URL Key","Chave URL",module,Magento_UrlRewrite
 "Store View","Visão de Loja",module,Magento_UrlRewrite
 "Edit URL Rewrite","Edite o Reescrita de URL",module,Magento_UrlRewrite
-"Add New URL Rewrite","Add New URL Rewrite",module,Magento_UrlRewrite
+"Add New URL Rewrite","Adicionar Nova Reescrita de URL",module,Magento_UrlRewrite
 Reset,Reiniciar,module,Magento_UrlRewrite
 Back,Voltar,module,Magento_UrlRewrite
 Delete,Excluir,module,Magento_UrlRewrite
@@ -11848,15 +11848,15 @@ Unlocked,Desbloqueado,module,Magento_User
 "Priority Mail Express Sunday/Holiday Delivery Flat Rate Envelope","Priority Mail Express Envelope de taxa fixa de entrega de domingo/feriado",module,Magento_Usps
 "Priority Mail Express Flat Rate Envelope Hold For Pickup","Prioritário Tarifa de Envelo para o Coletor Mail Express",module,Magento_Usps
 "Priority Mail Small Flat Rate Box","Caixa postal prioridade fixa em pequenas",module,Magento_Usps
-"Priority Mail Padded Flat Rate Envelope","Priority Mail Padded Flat Rate Envelope",module,Magento_Usps
+"Priority Mail Padded Flat Rate Envelope","Prioridade Mail acolchoado forfetária Envelope",module,Magento_Usps
 "Priority Mail Express Legal Flat Rate Envelope","Priority Mail Express Legal Flat Rate Envelope",module,Magento_Usps
-"Priority Mail Express Legal Flat Rate Envelope Hold For Pickup","Priority Mail Express Legal Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope","Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope",module,Magento_Usps
+"Priority Mail Express Legal Flat Rate Envelope Hold For Pickup","Prioritário Tarifa de Envelo para o Coletor Mail Express",module,Magento_Usps
+"Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope","Priority Mail Express Envelope de taxa fixa de entrega de domingo/feriado",module,Magento_Usps
 "Priority Mail Hold For Pickup","Priority Mail Hold For Pickup",module,Magento_Usps
 "Priority Mail Large Flat Rate Box Hold For Pickup","Priority Mail Large Flat Rate Box Hold For Pickup",module,Magento_Usps
-"Priority Mail Medium Flat Rate Box Hold For Pickup","Priority Mail Medium Flat Rate Box Hold For Pickup",module,Magento_Usps
-"Priority Mail Small Flat Rate Box Hold For Pickup","Priority Mail Small Flat Rate Box Hold For Pickup",module,Magento_Usps
-"Priority Mail Flat Rate Envelope Hold For Pickup","Priority Mail Flat Rate Envelope Hold For Pickup",module,Magento_Usps
+"Priority Mail Medium Flat Rate Box Hold For Pickup","Prioridade Mail médio taxa fixa caixa espera Pickup",module,Magento_Usps
+"Priority Mail Small Flat Rate Box Hold For Pickup","Prioridade Mail pequena taxa fixa caixa espera Pickup",module,Magento_Usps
+"Priority Mail Flat Rate Envelope Hold For Pickup","Prioridade correio taxa fixa Envelope Hold para Pickup",module,Magento_Usps
 "Priority Mail Gift Card Flat Rate Envelope","Priority Mail Gift Card Flat Rate Envelope",module,Magento_Usps
 "Priority Mail Gift Card Flat Rate Envelope Hold For Pickup","Priority Mail Gift Card Flat Rate Envelope Hold For Pickup",module,Magento_Usps
 "Priority Mail Window Flat Rate Envelope","Priority Mail Window Flat Rate Envelope",module,Magento_Usps
@@ -12025,7 +12025,7 @@ Frame,Quadro,module,Magento_VersionsCms
 "Set the number of links to display at one time.","Defina o número de links para mostrar por vez.",module,Magento_VersionsCms
 "Frame Skip","Frame Skip",module,Magento_VersionsCms
 "If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","Se a Posição Atual do quadro não cobrir o total de páginas, iremos criar um link para a Posição Atual mais ou menos esse Valor",module,Magento_VersionsCms
-"Page Navigation Menu Options","Page Navigation Menu Options",module,Magento_VersionsCms
+"Page Navigation Menu Options","Opções de Menu de navegação de página",module,Magento_VersionsCms
 "Exclude from Navigation Menu","Excluir do menu de navegação",module,Magento_VersionsCms
 "Show in navigation menu.","Mostrar no menu de navegação.",module,Magento_VersionsCms
 "Menu Layout","Layout do menu",module,Magento_VersionsCms
@@ -12149,13 +12149,13 @@ Bottom,Botão,module,Magento_VisualMerchandiser
 "Date Modified (days ago)","Data Modificada (dias atrás)",module,Magento_VisualMerchandiser
 "Error in reading category rules","Erro na leitura de regras de categoria",module,Magento_VisualMerchandiser
 "There was no category rules to apply","Não há nenhuma regra de categoria para aplicar",module,Magento_VisualMerchandiser
-"Category rules applied","Category rules applied",module,Magento_VisualMerchandiser
+"Category rules applied","Regras de categoria aplicadas",module,Magento_VisualMerchandiser
 Equal,Igualdade,module,Magento_VisualMerchandiser
 "Not equal","Not equal",module,Magento_VisualMerchandiser
 "Greater than","Maior que",module,Magento_VisualMerchandiser
-"Greater than or equal to","Greater than or equal to",module,Magento_VisualMerchandiser
+"Greater than or equal to","Maior que ou igual a",module,Magento_VisualMerchandiser
 "Less than","Menor que",module,Magento_VisualMerchandiser
-"Less than or equal to","Less than or equal to",module,Magento_VisualMerchandiser
+"Less than or equal to","Menor que ou igual a",module,Magento_VisualMerchandiser
 Contains,Contém,module,Magento_VisualMerchandiser
 "Error in yes/no format","Erro no formato de Sim/não",module,Magento_VisualMerchandiser
 "Category ID '%1' not found","ID de categoria '%1' não encontrado",module,Magento_VisualMerchandiser
@@ -12240,7 +12240,7 @@ Message,Mensagem,module,Magento_Webapi
 "Magento Web API","Magento Web API",module,Magento_Webapi
 "SOAP Settings","Definições SOAP",module,Magento_Webapi
 "Default Response Charset","Charset de Resposta Pré-definido",module,Magento_Webapi
-"If empty, UTF-8 will be used.","If empty, UTF-8 will be used.",module,Magento_Webapi
+"If empty, UTF-8 will be used.","Se estiver vazio será usado UTF-8.",module,Magento_Webapi
 "Web Services Configuration","Configuração de Web Services",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","REST and SOAP configurations, generated WSDL file",module,Magento_Webapi
 "Web API Security","Segurança de Web API",module,Magento_WebapiSecurity
@@ -12278,15 +12278,15 @@ Action,Ação,module,Magento_Weee
 "Excl. Tax","Excl. Impostos",module,Magento_Weee
 Total,Total,module,Magento_Weee
 "Incl. Tax","Imposto Incl.",module,Magento_Weee
-"Total Incl. Tax","Total Incl. Tax",module,Magento_Weee
+"Total Incl. Tax","Total de impostos incluídos",module,Magento_Weee
 "Final Price","Preço Final",module,Magento_Weee
-"Fixed Product Taxes","Fixed Product Taxes",module,Magento_Weee
+"Fixed Product Taxes","Impostos Fixos do Produto",module,Magento_Weee
 "Enable FPT","Ativar Impostos Fixos de Produto",module,Magento_Weee
 "Display Prices In Product Lists","Display Prices In Product Lists",module,Magento_Weee
 "Display Prices On Product View Page","Mostrar preços na página de visualização do produto",module,Magento_Weee
-"Display Prices In Sales Modules","Display Prices In Sales Modules",module,Magento_Weee
+"Display Prices In Sales Modules","Mostrar Preços em Módulos de Vendas",module,Magento_Weee
 "Display Prices In Emails","Mostrar Preços em Emails",module,Magento_Weee
-"Apply Tax To FPT","Apply Tax To FPT",module,Magento_Weee
+"Apply Tax To FPT","Aplicar Imposto sobre os IFP",module,Magento_Weee
 "Include FPT In Subtotal","Incluir IFP no Subtotal",module,Magento_Weee
 "Widget Insertion","Inserção de Widget",module,Magento_Widget
 "Insert Widget","Inserir Widget",module,Magento_Widget
