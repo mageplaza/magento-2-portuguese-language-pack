@@ -2726,6 +2726,7 @@ Payment,Pagamento,module,Magento_Checkout
 "Not yet calculated","Ainda não calculado",module,Magento_Checkout
 "We received your order!","Recebemos o seu pedido!",module,Magento_Checkout
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Checkout
+"Go to Checkout","Finalizar Compra",module,Magento_Checkout
 "Terms and Conditions","Termos e Condições",module,Magento_CheckoutAgreements
 "Add New Condition","Adicionar Nova Condição",module,Magento_CheckoutAgreements
 "Save Condition","Salvar Condição",module,Magento_CheckoutAgreements
@@ -10419,7 +10420,7 @@ No,Não,module,Magento_Signifyd
 Error,Erro,module,Magento_Signifyd
 "Cannot generate message.","Não é possível gerar a mensagem.",module,Magento_Signifyd
 "Message is generated.","Mensagem é gerada.",module,Magento_Signifyd
-"Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
+"Fraud Protection Information","Informações de proteção contra fraude",module,Magento_Signifyd
 "Case Status","Caso de Status",module,Magento_Signifyd
 "Case Score","Caso a Pontuação",module,Magento_Signifyd
 "Guarantee Eligible","Garantia elegíveis",module,Magento_Signifyd
