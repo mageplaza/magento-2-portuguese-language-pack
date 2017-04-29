@@ -2209,7 +2209,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","O máximo que você pode comprar é %1.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","Não temos o total de ""%1"" que você solicitou.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Não temos o total de ""%1"" que você solicitou, mas ainda restam disponíveis %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, então vamos disponibilizar os %2 restantes.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Você pode comprar %1 somente em quantidades de %2 de cada vez.",module,Magento_CatalogInventory
@@ -2322,7 +2322,7 @@ Promo,Promoção,module,Magento_CatalogRule
 "Unable to remove rule %1","Não foi possível remover a regra %1",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Não poderia reconstruir o índice da matriz de produtos vazio",module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_CatalogRule
-"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
+"Catalog rule indexing failed. See details in exception log.","Regra de indexação do catálogo falhou. Veja detalhes no log de exceções.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","Percentual de desconto deve ser entre 0 e 100.",module,Magento_CatalogRule
 "Discount value should be 0 or greater.","Valor de desconto deve ser maior do que 0.",module,Magento_CatalogRule
 "Unknown action.","Ação desconhecida.",module,Magento_CatalogRule
@@ -2727,6 +2727,9 @@ Payment,Pagamento,module,Magento_Checkout
 "We received your order!","Recebemos o seu pedido!",module,Magento_Checkout
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Checkout
 "Go to Checkout","Finalizar Compra",module,Magento_Checkout
+"View and edit cart","Visualizar e editar carrinho",module,Magento_Checkout
+"Item in Cart","Item no Carrinho",module,Magento_Checkout
+"Items in Cart","Itens no Carrinho",module,Magento_Checkout
 "Terms and Conditions","Termos e Condições",module,Magento_CheckoutAgreements
 "Add New Condition","Adicionar Nova Condição",module,Magento_CheckoutAgreements
 "Save Condition","Salvar Condição",module,Magento_CheckoutAgreements
@@ -4964,7 +4967,7 @@ FedEx,FedEx,module,Magento_Fedex
 "Enabled for Checkout","Ativado para Finalizar Compra",module,Magento_Fedex
 Title,Título,module,Magento_Fedex
 "Account ID","ID da conta",module,Magento_Fedex
-"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
+"Please make sure to use only digits here. No dashes are allowed.","Por favor, certifique-se de usar apenas dígitos aqui. Nenhum traço é permitido.",module,Magento_Fedex
 "Meter Number","Número do medidor",module,Magento_Fedex
 Key,Chave,module,Magento_Fedex
 Password,Senha,module,Magento_Fedex
@@ -4975,16 +4978,16 @@ Password,Senha,module,Magento_Fedex
 Packaging,Embalagem,module,Magento_Fedex
 Dropoff,Entrega,module,Magento_Fedex
 "Weight Unit","Unidade de Peso",module,Magento_Fedex
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Peso máximo do pacote (por favor, consulte a sua operadora de transporte para máxima suportada de transporte de peso)",module,Magento_Fedex
 "Calculate Handling Fee","Calcular Taxa de Manuseio",module,Magento_Fedex
 "Handling Applied","Manuseio Aplicado",module,Magento_Fedex
 "Handling Fee","Taxa de Manuseio",module,Magento_Fedex
 "Residential Delivery","Entrega Residencial",module,Magento_Fedex
 "Allowed Methods","Métodos Permitidos",module,Magento_Fedex
 "Hub ID","ID do Hub",module,Magento_Fedex
-"The field is applicable if the Smart Post method is selected.","The field is applicable if the Smart Post method is selected.",module,Magento_Fedex
+"The field is applicable if the Smart Post method is selected.","O campo é aplicável se o método Smart Post estiver selecionado.",module,Magento_Fedex
 "Free Method","Método Gratuito",module,Magento_Fedex
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Fedex
+"Enable Free Shipping Threshold","Habilitar limite de envio gratuito",module,Magento_Fedex
 "Free Shipping Amount Threshold","Limite de Volume de Envios Gratuito",module,Magento_Fedex
 "Displayed Error Message","Mensagem de Erro Exibida",module,Magento_Fedex
 "Ship to Applicable Countries","Enviar para Países Aplicáveis",module,Magento_Fedex
@@ -5399,10 +5402,10 @@ Customers,Clientes,module,Magento_GiftRegistry
 label,rótulo,module,Magento_GiftRegistry
 "Product has required options.","O produto possui opções obrigatórias.",module,Magento_GiftRegistry
 "You need to enter sender data.","Você precisa informar os dados do remetente.",module,Magento_GiftRegistry
-"Please add invitees.","Please add invitees.",module,Magento_GiftRegistry
-"You cannot send emails to more than %1 recipients at once","You cannot send emails to more than %1 recipients at once",module,Magento_GiftRegistry
+"Please add invitees.","Por favor, adicione os convidados.",module,Magento_GiftRegistry
+"You cannot send emails to more than %1 recipients at once","Não pode enviar emails a mais do que %1 destinatários de uma só vez",module,Magento_GiftRegistry
 "Please enter a valid invitee email address.","Por favor insira um convite de endereço de e-mail válido.",module,Magento_GiftRegistry
-"Please enter an invitee name.","Please enter an invitee name.",module,Magento_GiftRegistry
+"Please enter an invitee name.","Por favor insira um nome de convidado.",module,Magento_GiftRegistry
 "You shared the gift registry for %1 emails.","Você compartilhou a lista de presente para %1 e-mail(s).",module,Magento_GiftRegistry
 "We couldn't share the registry.","Não foi possível compartilhar a lista.",module,Magento_GiftRegistry
 Private,Privado,module,Magento_GiftRegistry
@@ -5415,22 +5418,22 @@ Active,Ativo,module,Magento_GiftRegistry
 "Please correct the  gift registry item quantity.","Por favor, corrija a quantidade do item na lista de presente.",module,Magento_GiftRegistry
 "Please correct the gift registry item ID.","Por favor, corrija o ID do item na lista de presente.",module,Magento_GiftRegistry
 "The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","A quantidade ""%1"" do produto adicionado ao carrinho excede a quantidade pretendida pelo proprietário da lista de presente. A quantidade adicionada foi ajustada para %2 e atender quantidade restante.",module,Magento_GiftRegistry
-"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.",module,Magento_GiftRegistry
+"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","A quantidade existente do produto ""%1"" no carrinho foi substituída com a quantidade %2 que foi pedida.",module,Magento_GiftRegistry
 "This product(s) is out of stock.","Este produto está em falta.",module,Magento_GiftRegistry
 "Please correct the product for adding the item to the quote.","Por favor, corrija o produto para adicionar o item no orçamento.",module,Magento_GiftRegistry
-"Please correct the item option format.","Please correct the item option format.",module,Magento_GiftRegistry
+"Please correct the item option format.","Por favor corrija o formato da opção do item.",module,Magento_GiftRegistry
 "An item option with code %1 already exists.","Uma opção de item com o código %1 já existe.",module,Magento_GiftRegistry
 New,Novo,module,Magento_GiftRegistry
 "Please enter the first name.","Por favor, informe o nome.",module,Magento_GiftRegistry
 "Please enter the last name.","Por favor, informe o sobrenome.",module,Magento_GiftRegistry
 "Please enter a valid email address(for example, daniel@x.com).","Por favor adicione um e-mail válido (por exemplo, daniel@x.com).",module,Magento_GiftRegistry
-"Ship to the recipient's address.","Ship to the recipient's address.",module,Magento_GiftRegistry
+"Ship to the recipient's address.","Enviar para a morada do destinatário.",module,Magento_GiftRegistry
 "-- All --","-- Todos --",module,Magento_GiftRegistry
 "Unknown gift registry identifier","Identificador desconhecido de lista de presente",module,Magento_GiftRegistry
 "All Forms","Todas as formas",module,Magento_GiftRegistry
-"Registrant Name Search","Registrant Name Search",module,Magento_GiftRegistry
-"Registrant Email Search","Registrant Email Search",module,Magento_GiftRegistry
-"Gift Registry ID Search","Gift Registry ID Search",module,Magento_GiftRegistry
+"Registrant Name Search","Pesquisa por Nome de Registante",module,Magento_GiftRegistry
+"Registrant Email Search","Pesquisa por Email de Registante",module,Magento_GiftRegistry
+"Gift Registry ID Search","Pesquisa por ID de Lista de Ofertas",module,Magento_GiftRegistry
 Type,Tipo,module,Magento_GiftRegistry
 Owner,Proprietário,module,Magento_GiftRegistry
 "Created on","Criado na",module,Magento_GiftRegistry
@@ -5441,7 +5444,7 @@ Owner,Proprietário,module,Magento_GiftRegistry
 "Attribute Group","Grupo de atributos",module,Magento_GiftRegistry
 "Is Required","É necessário",module,Magento_GiftRegistry
 "Is Searcheable","É pesquisável",module,Magento_GiftRegistry
-"We found an attribute with this static input type already in the gift registry type. Please select a different input type.","We found an attribute with this static input type already in the gift registry type. Please select a different input type.",module,Magento_GiftRegistry
+"We found an attribute with this static input type already in the gift registry type. Please select a different input type.","Encontrámos um atributo com este tipo de input estático no tipo de lista de ofertas. Por favor selecione um tipo de input diferente.",module,Magento_GiftRegistry
 "Show Region","Mostrar a região",module,Magento_GiftRegistry
 "Date Format","Formato de data",module,Magento_GiftRegistry
 "Is Default","É o Padrão",module,Magento_GiftRegistry
@@ -5461,7 +5464,7 @@ Fax,Fax,module,Magento_GiftRegistry
 "Use the gift registry shipping address","Usar o endereço de entrega da lista de presente",module,Magento_GiftRegistry
 "Added On","Adicionado em",module,Magento_GiftRegistry
 Qty,Qtd,module,Magento_GiftRegistry
-"Qty Fulfilled","Qty Fulfilled",module,Magento_GiftRegistry
+"Qty Fulfilled","Quantidade Satisfeita",module,Magento_GiftRegistry
 "Update Gift Registry","Atualizar lista de presente",module,Magento_GiftRegistry
 Back,Voltar,module,Magento_GiftRegistry
 "This gift registry has no items.","Esta lista de presente não tem nenhum item.",module,Magento_GiftRegistry
@@ -5478,34 +5481,34 @@ Email,E-mail,module,Magento_GiftRegistry
 "* Required Fields","* Campos Obrigatórios",module,Magento_GiftRegistry
 Sender,Remetente,module,Magento_GiftRegistry
 Invitee,Convidado,module,Magento_GiftRegistry
-"Maximum %1 email addresses.","Maximum %1 email addresses.",module,Magento_GiftRegistry
+"Maximum %1 email addresses.","Máximo de %1 endereços de email.",module,Magento_GiftRegistry
 "Add Invitee","Adicionar convidado",module,Magento_GiftRegistry
 "Gift Registry Type","Tipo de lista de presente",module,Magento_GiftRegistry
 "Please select a gift registry type.","Por favor, selecione um tipo de lista de presente.",module,Magento_GiftRegistry
 Next,Próximo,module,Magento_GiftRegistry
 "Last Name",Sobrenome,module,Magento_GiftRegistry
-"Registrant Information","Registrant Information",module,Magento_GiftRegistry
-"Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
-"Add Registrant","Add Registrant",module,Magento_GiftRegistry
+"Registrant Information","Informação do Registante",module,Magento_GiftRegistry
+"Maximum %1 registrants.","Máximo %1 registantes.",module,Magento_GiftRegistry
+"Add Registrant","Adicionar Registante",module,Magento_GiftRegistry
 Type:,Tipo:,module,Magento_GiftRegistry
 "Privacy Settings","Configurações de privacidade",module,Magento_GiftRegistry
 Status,Status,module,Magento_GiftRegistry
 "Gift Registry Items Updated","Os itens da lista de presente foram atualizados",module,Magento_GiftRegistry
 "Product Name","Nome do produto",module,Magento_GiftRegistry
 "Requested Quantity","Quantidade solicitada",module,Magento_GiftRegistry
-"Fulfilled Quantity","Fulfilled Quantity",module,Magento_GiftRegistry
-"Total Fulfilled Quantity","Total Fulfilled Quantity",module,Magento_GiftRegistry
+"Fulfilled Quantity","Quantidade Enviada",module,Magento_GiftRegistry
+"Total Fulfilled Quantity","Total de Quantidade Enviada",module,Magento_GiftRegistry
 "Remaining Quantity","Quantidade restante",module,Magento_GiftRegistry
 Quantity:,Quantidade:,module,Magento_GiftRegistry
 "Customize and Add to Gift Registry","Personalizar e adicionar a lista de presente",module,Magento_GiftRegistry
 "This won't take long . . .","Não vai demorar.",module,Magento_GiftRegistry
 "Required Fields","Campos Obrigatórios",module,Magento_GiftRegistry
 "Search Options","Opções de pesquisa",module,Magento_GiftRegistry
-"For better search results, first choose a gift registry type. By default, we search all registry types.","For better search results, first choose a gift registry type. By default, we search all registry types.",module,Magento_GiftRegistry
+"For better search results, first choose a gift registry type. By default, we search all registry types.","Para obter melhores resultados de pesquisa, escolha primeiro um tipo de lista de ofertas. Pesquisamos todos os tipos de registo por pré-definição.",module,Magento_GiftRegistry
 "Type Specific Options","Opções específicas do tipo",module,Magento_GiftRegistry
 Search,Pesquisa,module,Magento_GiftRegistry
-"Registrant Email","Registrant Email",module,Magento_GiftRegistry
-"Gift Registry ID","Gift Registry ID",module,Magento_GiftRegistry
+"Registrant Email","Email do Registante",module,Magento_GiftRegistry
+"Gift Registry ID","ID da Lista de Oferta",module,Magento_GiftRegistry
 "Search Results","Resultados da busca",module,Magento_GiftRegistry
 Location,Localização,module,Magento_GiftRegistry
 Actions,Ações,module,Magento_GiftRegistry
@@ -5516,55 +5519,55 @@ View,Visualizar,module,Magento_GiftRegistry
 "Please enter at least two letters.","Por favor, insira pelo menos duas letras.",module,Magento_GiftRegistry
 "Unit Price","Preço unitário",module,Magento_GiftRegistry
 "Add to Cart","Adicionar ao Carrinho",module,Magento_GiftRegistry
-"Gift Registry created at %store_name","Gift Registry created at %store_name",module,Magento_GiftRegistry
+"Gift Registry created at %store_name","Lista de ofertas criada na %store_name",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Você criou com sucesso o novo registro gift ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Sua mensagem da lista de presente",module,Magento_GiftRegistry
-"Now you can add products to your gift registry.","Now you can add products to your gift registry.",module,Magento_GiftRegistry
-"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.",module,Magento_GiftRegistry
-"You can then add the products to your registry from your shopping cart or wish list page.","You can then add the products to your registry from your shopping cart or wish list page.",module,Magento_GiftRegistry
-"You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.",module,Magento_GiftRegistry
-"Or you can email the following link and gift registry ID to them:","Or you can email the following link and gift registry ID to them:",module,Magento_GiftRegistry
+"Now you can add products to your gift registry.","Agora já pode adicionar produtos à sua lista de ofertas.",module,Magento_GiftRegistry
+"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Simplesmente aceda a <a href=""%store_url"">%store_name</a> e adicione os produtos que quiser ao seu carrinho de compras ou lista de desejos.",module,Magento_GiftRegistry
+"You can then add the products to your registry from your shopping cart or wish list page.","Pode depois adicionar os produtos ao seu registo a partir da página do carrinho de compras ou da lista de desejos.",module,Magento_GiftRegistry
+"You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","Pode também partilhar com os seus amigos e família ao iniciar sessão e visitar o separador Lista de Ofertas.",module,Magento_GiftRegistry
+"Or you can email the following link and gift registry ID to them:","Ou pode enviar o seguinte link:",module,Magento_GiftRegistry
 "Registry Location:","Local da lista:",module,Magento_GiftRegistry
-"Registry ID:","Registry ID:",module,Magento_GiftRegistry
-"Gift Registry shared at %store_name","Gift Registry shared at %store_name",module,Magento_GiftRegistry
-"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
+"Registry ID:","ID do Registo:",module,Magento_GiftRegistry
+"Gift Registry shared at %store_name","Lista de ofertas partilhada na %store_name",module,Magento_GiftRegistry
+"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","Você pode ver e comprar itens deste registro de gift em <a href=""%account_url"">%store_name</a>.",module,Magento_GiftRegistry
 "Gift Registry:","Lista de presente:",module,Magento_GiftRegistry
 "Created For:","Criado por:",module,Magento_GiftRegistry
-"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.",module,Magento_GiftRegistry
-"Gift Registry updated at %store_name","Gift Registry updated at %store_name",module,Magento_GiftRegistry
+"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Você pode criar a sua própria lista de presentes em <a href=""%account_url"">%store_name</a> e compartilhar com amigos e família.",module,Magento_GiftRegistry
+"Gift Registry updated at %store_name","Lista de ofertas atualizada na %store_name",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","Os seguintes itens foram comprados a partir do seu registro de gift ""%registry_name"":",module,Magento_GiftRegistry
-"You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
-"Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
+"You can sign in to your account to view more details about this gift registry.","Pode iniciar sessão para ver mais detalhes acerca desta lista de ofertas.",module,Magento_GiftRegistry
+"Ship to Recipient Address","Enviar para a Morada do Destinatário",module,Magento_GiftRegistry
 "Ship Here","Entregue Aqui",module,Magento_GiftRegistry
-"Recipient Address","Recipient Address",module,Magento_GiftRegistry
-"Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
-"The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
+"Recipient Address","Endereço do Destinatário",module,Magento_GiftRegistry
+"Use gift registry shipping address","Usar o endereço de entrega da lista de presentes",module,Magento_GiftRegistry
+"The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","O único local para alterar o número de itens da lista de ofertas é na página de Informação da Lista de Ofertas ou diretamente no seu carrinho.",module,Magento_GiftRegistry
 Text,Texto,module,Magento_GiftRegistry
-"Gift Registry Details","Gift Registry Details",module,Magento_GiftRegistry
+"Gift Registry Details","Detalhes da Lista de Ofertas",module,Magento_GiftRegistry
 Role,Função,module,Magento_GiftRegistry
 "Event Data","Data do evento",module,Magento_GiftRegistry
 "Event Information","Informações do evento",module,Magento_GiftRegistry
 "Event Country","País do evento",module,Magento_GiftRegistry
-"My event special","My event special",module,Magento_GiftRegistry
-"My special attribute","My special attribute",module,Magento_GiftRegistry
-"Gift Registry Section","Gift Registry Section",module,Magento_GiftRegistry
+"My event special","O meu evento especial",module,Magento_GiftRegistry
+"My special attribute","O meu atributo especial",module,Magento_GiftRegistry
+"Gift Registry Section","Secção da Lista de Ofertas",module,Magento_GiftRegistry
 "General Options","Opções gerais",module,Magento_GiftRegistry
 "Enable Gift Registry","Habilitar lista de presente",module,Magento_GiftRegistry
-"Maximum Registrants","Maximum Registrants",module,Magento_GiftRegistry
+"Maximum Registrants","Registantes Máximos",module,Magento_GiftRegistry
 "Owner Notification","Notificação do proprietário",module,Magento_GiftRegistry
 "Email Template","Template de E-mail",module,Magento_GiftRegistry
 "Email Sender","Remetente do e-mail",module,Magento_GiftRegistry
 "Gift Registry Sharing","Compartilhamento de lista de presente",module,Magento_GiftRegistry
-"Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
-"Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
+"Maximum Sent Emails Threshold","Limite Máximo de Emails Enviados",module,Magento_GiftRegistry
+"Gift Registry Update","Atualização da Lista de Ofertas",module,Magento_GiftRegistry
 Select,Selecione,module,Magento_GiftRegistry
 Date,Data,module,Magento_GiftRegistry
-"Event Region Id","Event Region Id",module,Magento_GiftRegistry
-"Event Region Text","Event Region Text",module,Magento_GiftRegistry
+"Event Region Id","Id da Região do Evento",module,Magento_GiftRegistry
+"Event Region Text","Texto da Região do Evento",module,Magento_GiftRegistry
 "Event Location","Local do evento",module,Magento_GiftRegistry
-"Gift Registry Quick Search Form","Gift Registry Quick Search Form",module,Magento_GiftRegistry
-"Quick Search Form Types","Quick Search Form Types",module,Magento_GiftRegistry
+"Gift Registry Quick Search Form","Formulário de Pesquisa Rápida da Lista de Ofertas",module,Magento_GiftRegistry
+"Quick Search Form Types","Tipos de Formulário de Pesquisa Rápida",module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
 "Default Template","Modelo padrão",module,Magento_GiftRegistry
 Listed,Listado,module,Magento_GiftRegistry
@@ -5903,7 +5906,7 @@ View,Visualizar,module,Magento_Integration
 Edit,Editar,module,Magento_Integration
 Activate,Ativar,module,Magento_Integration
 Reauthorize,Reautorizar,module,Magento_Integration
-"Integration not secure","Integration not secure",module,Magento_Integration
+"Integration not secure","Integração não segura",module,Magento_Integration
 "Uninstall the extension to remove integration '%1'.","Desinstale a extensão para remover esta integração '%1'.",module,Magento_Integration
 "This integration no longer exists.","Esta integração já não existe.",module,Magento_Integration
 "The integration '%1' has been deleted.","A integração '%1' foi eliminada.",module,Magento_Integration
@@ -6014,19 +6017,19 @@ General,Geral,module,Magento_Invitation
 N/A,"Não Disponível",module,Magento_Invitation
 "Status History","Histórico de Status",module,Magento_Invitation
 Customers,Clientes,module,Magento_Invitation
-"Order Conversion Rate","Order Conversion Rate",module,Magento_Invitation
+"Order Conversion Rate","Taxa de Conversão da Encomenda",module,Magento_Invitation
 "We can't find this invitation.","Não foi possível encontrar este convite.",module,Magento_Invitation
 "Please select invitations.","Por favor, selecione os convites.",module,Magento_Invitation
 "We discarded %1 of %2 invitations.","Descartamos %1 de %2 convites.",module,Magento_Invitation
-"We skipped %1 of the selected invitations.","We skipped %1 of the selected invitations.",module,Magento_Invitation
+"We skipped %1 of the selected invitations.","Saltámos %1 dos convites selecionados.",module,Magento_Invitation
 "Something went wrong while sending invitations.","Ocorreu um erro durante o envio do(s) convite(s).",module,Magento_Invitation
 "No invitations have been resent.","Nenhum convite foi reenviado.",module,Magento_Invitation
 "You sent %1 of %2 invitation(s).","Enviou %1 de %2 convite(s).",module,Magento_Invitation
 "Something went wrong while sending %1 invitations.","Algo algum erro ao enviar %1 convites.",module,Magento_Invitation
-"We discarded %1 invitation(s) addressed to current customers.","We discarded %1 invitation(s) addressed to current customers.",module,Magento_Invitation
+"We discarded %1 invitation(s) addressed to current customers.","Descartámos %1 convites dirigidos aos clientes atuais.",module,Magento_Invitation
 "Please specify at least one email address.","Por favor especifique pelo menos um endereço de email.",module,Magento_Invitation
 "We sent %1 invitation(s).","Enviamos %1 convite(s).",module,Magento_Invitation
-"Something went wrong while sending %1 of %2 invitations.","Something went wrong while sending %1 of %2 invitations.",module,Magento_Invitation
+"Something went wrong while sending %1 of %2 invitations.","Algo deu errado durante o envio de %1 de %2 de convites.",module,Magento_Invitation
 "%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 convite(s) não foram enviados, porque já existem contas de cliente para esses endereços de email.",module,Magento_Invitation
 "The invitation has been saved.","O convite foi salvo.",module,Magento_Invitation
 Reports,Relatórios,module,Magento_Invitation
@@ -6309,6 +6312,7 @@ Partners,Parceiros,module,Magento_Marketplace
 "Read More","Leia mais",module,Magento_Marketplace
 "Partner Page","Página do parceiro",module,Magento_Marketplace
 "No partners were found","Não foram encontrados parceiros",module,Magento_Marketplace
+"Find Partners & Extensions","Encontrar Parceiros & Extensões",module,Magento_Marketplace
 Synchronize,Sincronizar,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Sincronizando %1 para %2",module,Magento_MediaStorage
 Synchronizing...,Sincronizando...,module,Magento_MediaStorage
@@ -6408,7 +6412,7 @@ Customers,Clientes,module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 itens já estão presentes em %2: %3.",module,Magento_MultipleWishlist
 "%1 items were copied to %2: %3.","%1 itens foram copiados para %2: %3.",module,Magento_MultipleWishlist
 "You can't delete the default wish list.","Você não pode excluir a lista padrão.",module,Magento_MultipleWishlist
-"Wish List ""%1"" has been deleted.","Wish List ""%1"" has been deleted.",module,Magento_MultipleWishlist
+"Wish List ""%1"" has been deleted.","Lista de desejos ""%1"" foi Excluída.",module,Magento_MultipleWishlist
 "We can't delete the wish list right now.","Não podemos excluir a lista de desejo agora.",module,Magento_MultipleWishlist
 """%1"" was moved to %2.","""%1"" foi movido para %2.",module,Magento_MultipleWishlist
 "We can't find an item with this ID.","Não podemos encontrar um item com este ID.",module,Magento_MultipleWishlist
@@ -6536,7 +6540,7 @@ Total,Total,module,Magento_Multishipping
 "Please check billing address information.","Por favor, verifique as informações do endereço de cobrança.",module,Magento_Multishipping
 "Please select shipping methods for all addresses.","Por favor, selecione os métodos de envio para todos os endereços.",module,Magento_Multishipping
 "A payment method is not defined.","O método de pagamento não foi definido.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","O método de pagamento solicitado não está disponível para envios em simultâneo.",module,Magento_Multishipping
 "Item not found or already ordered","O item não foi encontrado ou já foi comprado",module,Magento_Multishipping
 "Please specify a payment method.","Por favor, especifique um método de pagamento.",module,Magento_Multishipping
 "Please check shipping addresses information.","Por favor, verifique as informações dos endereços de envio.",module,Magento_Multishipping
@@ -6805,11 +6809,11 @@ Title,Título,module,Magento_OfflinePayments
 "Minimum Order Total","Valor Mínimo do Pedido",module,Magento_OfflinePayments
 "Maximum Order Total","Valor Total do Pedido",module,Magento_OfflinePayments
 "Purchase Order","Ordem de compra",module,Magento_OfflinePayments
-"Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
+"Bank Transfer Payment","Pagamento por Transferência Bancária",module,Magento_OfflinePayments
 Instructions,Instruções,module,Magento_OfflinePayments
 "Cash On Delivery Payment","Pagamento Contra Entrega",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Checkout com Subtotal Zero",module,Magento_OfflinePayments
-"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Facturar Automaticamente Todos os Artigos",module,Magento_OfflinePayments
 Country,País,module,Magento_OfflineShipping
 Region/State,Região/estado,module,Magento_OfflineShipping
 "Zip/Postal Code",CEP,module,Magento_OfflineShipping
@@ -6833,16 +6837,16 @@ None,Nenhum,module,Magento_OfflineShipping
 "Requested column ""%1"" cannot be resolved","Coluna solicitada ""%1"" não pode ser resolvida",module,Magento_OfflineShipping
 "Column ""%1"" not found","Coluna ""%1"" não foi encontrada",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Por favor corrija o formato das taxas tabeladas na linha #%1.",module,Magento_OfflineShipping
-"Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Country ""%1"" in the Row #%2.","Por favor corrija o País ""%1"" na Linha #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Por favor corrija a Região/Estado ""%1"" na Linha #%2.",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Por favor, corrija o %1 ""%2"" na linha #%3.",module,Magento_OfflineShipping
 "Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija o Valor dos Portes ""%1"" na Linha #%2.",module,Magento_OfflineShipping
-"Duplicate Row #%1 (duplicates row #%2)","Duplicate Row #%1 (duplicates row #%2)",module,Magento_OfflineShipping
+"Duplicate Row #%1 (duplicates row #%2)","Duplicar a linha #%1 (duplica a linha #%2)",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Por favor corrija o formato de ficheiro das taxas tabeladas.",module,Magento_OfflineShipping
 No,Não,module,Magento_OfflineShipping
 "For matching items only","Apenas para os itens correspondentes",module,Magento_OfflineShipping
 "For shipment with matching items","Para envio com os itens correspondentes",module,Magento_OfflineShipping
-Field,Field,module,Magento_OfflineShipping
+Field,Campo,module,Magento_OfflineShipping
 "is required.","é necessário.",module,Magento_OfflineShipping
 "Flat Rate","Taxa Fixa",module,Magento_OfflineShipping
 Enabled,Habilitado,module,Magento_OfflineShipping
@@ -6969,14 +6973,14 @@ Purchased,Comprado,module,Magento_Paypal
 "Order Total","Total do Pedido",module,Magento_Paypal
 "Purchase Point","Ponto de compra",module,Magento_Paypal
 "Billing Agreement View","Visualizar Termos de Serviço de Faturamento",module,Magento_Paypal
-"View Transaction Details","View Transaction Details",module,Magento_Paypal
+"View Transaction Details","Exibir Detalhes da Transacção",module,Magento_Paypal
 "Reference Information","Informação da Referência",module,Magento_Paypal
 "Transaction Information","Informação de Transações",module,Magento_Paypal
 "PayPal Fee Information","Informação da Taxa PayPal",module,Magento_Paypal
 "PayPal Settlement Reports","Relatórios de Liquidação do PayPal",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Estamos a ligar ao servidor SFTP do PayPal para obter novos relatórios. Tem certeza que deseja continuar?",module,Magento_Paypal
 "Fetch Updates","Buscar Atualizações",module,Magento_Paypal
-button_label,button_label,module,Magento_Paypal
+button_label,"rótulo do botão",module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
 Help,Ajuda,module,Magento_Paypal
 Configure,Configurar,module,Magento_Paypal
@@ -7666,12 +7670,12 @@ Hidden,Oculto,module,Magento_ProductVideo
 Title:,Título:,module,Magento_ProductVideo
 Uploaded:,Carregado:,module,Magento_ProductVideo
 Uploader:,Uploader:,module,Magento_ProductVideo
-Duration:,Duration:,module,Magento_ProductVideo
+Duration:,Duração:,module,Magento_ProductVideo
 "Video Error","Erro de Vídeo",module,Magento_ProductVideo
 "Unknown video type","Tipo de vídeo desconhecido",module,Magento_ProductVideo
 "Invalid video url","Url de vídeo inválido",module,Magento_ProductVideo
 "Youtube API key is invalid","Chave da API do YouTube é inválida",module,Magento_ProductVideo
-"Video cant be shown due to the following reason:","Video cant be shown due to the following reason:",module,Magento_ProductVideo
+"Video cant be shown due to the following reason:","Vídeo não pode ser mostrado devido à seguinte razão:",module,Magento_ProductVideo
 "Video not found","Vídeo não encontrado",module,Magento_ProductVideo
 "New Video","Novo vídeo",module,Magento_ProductVideo
 Save,Salvar,module,Magento_ProductVideo
@@ -7714,17 +7718,17 @@ Subtotal,Subtotal,module,Magento_Quote
 "Item qty declaration error","Erro de declaração de qtd de item",module,Magento_Quote
 "Some of the products below do not have all the required options.","Alguns dos produtos abaixo não têm todas as opções necessárias.",module,Magento_Quote
 "Something went wrong during the item options declaration.","Houve algum erro durante a declaração das opções do item.",module,Magento_Quote
-"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
+"We found an item options declaration error.","Encontrámos um erro de declaração das opções do item.",module,Magento_Quote
 "Some of the selected options are not currently available.","Algumas das opções selecionadas não estão disponíveis de momento.",module,Magento_Quote
-"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
+"Selected option(s) or their combination is not currently available.","Opção (ões) selecionada ou sua combinação não está atualmente disponível.",module,Magento_Quote
 "Some item options or their combination are not currently available.","Algumas opções de itens ou a sua combinação não estão disponíveis de momento.",module,Magento_Quote
-"Cart %1 does not contain item %2","Cart %1 does not contain item %2",module,Magento_Quote
+"Cart %1 does not contain item %2","O carrinho %1 não contém o item %2",module,Magento_Quote
 "Could not save quote","Não foi possível gravar o orçamento",module,Magento_Quote
 "Cart %1 doesn't contain item  %2","O carrinho %1 não contém o tem %2",module,Magento_Quote
-"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
+"Could not remove item from quote","Não foi possível remover um item do orçamento",module,Magento_Quote
 "The qty value is required to update quote item.","O valor da qtd é necessário para atualizar o item do orçamento.",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
-"Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
+"Minimum order amount is %1","O valor mínimo do pedido é %1",module,Magento_Quote
+"Invalid customer id %1","%1 de identificação de cliente inválido",module,Magento_Quote
 "Invalid address id %1","Id do endereço inválido %1",module,Magento_Quote
 "Invalid customer address id %1","Id do endereço inválido %1",module,Magento_Quote
 "Cannot create quote","Não foi possível criar o orçamento",module,Magento_Quote
@@ -7773,14 +7777,14 @@ N/A,"Não Disponível",module,Magento_Reminder
 "Coupon Use Limit","Limite de Uso do Cupom",module,Magento_Reminder
 "Coupon Use Per Customer","Usos do Cupão Por Utilizador",module,Magento_Reminder
 "Emails Sent","E-mails Enviados",module,Magento_Reminder
-"Emails Failed","Emails Failed",module,Magento_Reminder
+"Emails Failed","Emails Falhados",module,Magento_Reminder
 "Last Sent","Enviado Pela Última Vez",module,Magento_Reminder
 "General Information","Informações gerais",module,Magento_Reminder
 "Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Os emails de lembretes podem promover uma regra de preço de carrinho com ou sem um cupão. Se uma regra de preço de carrinho definir um cupão gerado automaticamente, esta regra de lembrete irá gerar um código de cupão aleatório para cada cliente.",module,Magento_Reminder
 "Rule Name","Nome da regra",module,Magento_Reminder
 Description,Descrição,module,Magento_Reminder
 "Cart Price Rule","Regra de preço no carrinho",module,Magento_Reminder
-"Promotion rule this reminder will advertise.","Promotion rule this reminder will advertise.",module,Magento_Reminder
+"Promotion rule this reminder will advertise.","Regra de promoção que este lembrete irá anunciar.",module,Magento_Reminder
 "Assigned to Website","Atribuído ao Website",module,Magento_Reminder
 Status,Status,module,Magento_Reminder
 Active,Ativo,module,Magento_Reminder
@@ -7936,7 +7940,7 @@ Unlimited,Ilimitado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
 "Products Ordered","Produtos ordenados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
-"Show Report","Show Report",module,Magento_Reports
+"Show Report","Mostrar relatório",module,Magento_Reports
 Interval,Intervalo,module,Magento_Reports
 Total,Total,module,Magento_Reports
 Price,Preço,module,Magento_Reports
@@ -8297,19 +8301,19 @@ Comment,Comentar,module,Magento_Reward
 "Subscribe for Points Expiration Notifications","Inscrever-se para Notificações de Pontos de Expiração",module,Magento_Reward
 "Reward Exchange Rates","Taxas de câmbio de recompensa",module,Magento_Reward
 "Add New Rate","Adicionar nova taxa",module,Magento_Reward
-"Edit Reward Exchange Rate","Edit Reward Exchange Rate",module,Magento_Reward
+"Edit Reward Exchange Rate","Editar a taxa de câmbio de recompensa",module,Magento_Reward
 "New Reward Exchange Rate","Nova Taxa de Câmbio de Recompensa",module,Magento_Reward
-"Reward Exchange Rate Information","Reward Exchange Rate Information",module,Magento_Reward
+"Reward Exchange Rate Information","Informações de taxa de câmbio de recompensa",module,Magento_Reward
 "Customer Group","Grupo de clientes",module,Magento_Reward
-Direction,Direction,module,Magento_Reward
+Direction,Direção,module,Magento_Reward
 Rate,Avaliação,module,Magento_Reward
 "Use your reward points; %1 are available.","Use os seus pontos de recompensa; %1 estão disponíveis.",module,Magento_Reward
 "Learn more","Saiba mais",module,Magento_Reward
 "This applies only to registered users and may vary when a user is logged in.","Isso se aplica somente a usuários cadastrados e pode variar quando um usuário está logado.",module,Magento_Reward
-"You removed the orphan points.","You removed the orphan points.",module,Magento_Reward
+"You removed the orphan points.","Você removeu os órfãos pontos.",module,Magento_Reward
 Customers,Clientes,module,Magento_Reward
 "Manage Reward Exchange Rates","Gerenciar Taxa de Câmbio de Recompensa",module,Magento_Reward
-"You deleted the rate.","You deleted the rate.",module,Magento_Reward
+"You deleted the rate.","Você excluiu a taxa.",module,Magento_Reward
 "You saved the rate.","Você salvou a tarifa.",module,Magento_Reward
 "We can't save this rate right now.","Não podemos salvar essa taxa agora.",module,Magento_Reward
 "Please enter all rate information.","Por favor insira todas as informações de tarifa.",module,Magento_Reward
@@ -8827,9 +8831,9 @@ contains,contém,module,Magento_Rule
 Add,Adicionar,module,Magento_Rule
 Remove,Remover,module,Magento_Rule
 ALL,TODOS,module,Magento_Rule
-ANY,ANY,module,Magento_Rule
+ANY,QUALQUER,module,Magento_Rule
 TRUE,VERDADEIRO,module,Magento_Rule
-FALSE,FALSE,module,Magento_Rule
+FALSE,FALSO,module,Magento_Rule
 "If %1 of these conditions are %2:","Se %1 destas condições forem %2:",module,Magento_Rule
 "Conditions Combination","Combinação de Condições",module,Magento_Rule
 "Attribute Set","Conjunto de Atributos",module,Magento_Rule
@@ -9653,13 +9657,13 @@ Archive,Arquivo,module,Magento_SalesArchive
 "Orders, Invoices, Shipments, Credit Memos Archiving","Arquivo de Encomendas, Faturas, Expedições e Notas de Crédito",module,Magento_SalesArchive
 "Enable Archiving","Habilitar o arquivamento",module,Magento_SalesArchive
 "Archive Orders Purchased","Ordens de Arquivo Compradas",module,Magento_SalesArchive
-"Order Statuses to be Archived","Order Statuses to be Archived",module,Magento_SalesArchive
+"Order Statuses to be Archived","Estados das Encomenda a serem Arquivadas",module,Magento_SalesArchive
 "Mass Add","Adicionar em Massa",module,Magento_SalesArchive
 Add,Adicionar,module,Magento_SalesArchive
 "Sales Archive","Arquivo de Vendas",module,Magento_SalesArchive
 "All Store Views","Todas as Visões de Loja",module,Magento_SalesArchive
 "Purchased From","Comprado De",module,Magento_SalesArchive
-"PDF Credit Memos","PDF Credit Memos",module,Magento_SalesArchive
+"PDF Credit Memos","Notas de Crédito em PDF",module,Magento_SalesArchive
 "Credit Memo","Memorando de Crédito",module,Magento_SalesArchive
 Created,Criado,module,Magento_SalesArchive
 Order,Pedido,module,Magento_SalesArchive
@@ -9892,16 +9896,16 @@ Description,Descrição,module,Magento_SalesRuleStaging
 Websites,Websites,module,Magento_SalesRuleStaging
 "Customer Groups","Grupos de Cliente",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Público No Feed RSS",module,Magento_SalesRuleStaging
-Conditions,Conditions,module,Magento_SalesRuleStaging
+Conditions,Condições,module,Magento_SalesRuleStaging
 Actions,Ações,module,Magento_SalesRuleStaging
 Apply,Aplicar,module,Magento_SalesRuleStaging
 "Discount Amount","Quantidade do Desconto",module,Magento_SalesRuleStaging
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
+"Maximum Qty Discount is Applied To","Desconto Máximo Qtd é Aplicado Para",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Incremento de Desconto de Qtd (Compre X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Aplicar à Quantidade de Envio",module,Magento_SalesRuleStaging
-"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
+"Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_SalesRuleStaging
 Labels,Etiquetas,module,Magento_SalesRuleStaging
-"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","Rótulo de regra padrão para loja All Views",module,Magento_SalesRuleStaging
 "Save as a New Update","Salvar como uma Nova Atualização",module,Magento_SalesRuleStaging
 "Move to Another Update","Move to Another Update",module,Magento_SalesRuleStaging
 "Delete the Update","Delete the Update",module,Magento_SalesRuleStaging
@@ -9955,21 +9959,21 @@ Password,Senha,module,Magento_ScheduledImportExport
 "File Mode","Modo de Ficheiro",module,Magento_ScheduledImportExport
 "Passive Mode","Modo Passivo",module,Magento_ScheduledImportExport
 "Failed Email Receiver","Receptor do Email falhou",module,Magento_ScheduledImportExport
-"Failed Email Sender","Failed Email Sender",module,Magento_ScheduledImportExport
+"Failed Email Sender","Remetente do Email falhou",module,Magento_ScheduledImportExport
 "Failed Email Template","Modelo de E-mail de Falha",module,Magento_ScheduledImportExport
 "Send Failed Email Copy To","Enviar cópia de E-mail falhou para",module,Magento_ScheduledImportExport
 "Send Failed Email Copy Method","Enviar E-mail falha de método de cópia",module,Magento_ScheduledImportExport
 "Export Settings","Exportar Configurações",module,Magento_ScheduledImportExport
 "Export File Information","Formato do arquivo de exportação",module,Magento_ScheduledImportExport
-"Export Failed Emails","Export Failed Emails",module,Magento_ScheduledImportExport
+"Export Failed Emails","Exportar E-mails falhou",module,Magento_ScheduledImportExport
 "File Format","Formato do arquivo",module,Magento_ScheduledImportExport
 "Entity Attributes","Atributos de Entidade",module,Magento_ScheduledImportExport
 "Import Settings","Importar Configurações",module,Magento_ScheduledImportExport
 "Import File Information","Informações do Arquivo de Importação",module,Magento_ScheduledImportExport
-"Import Failed Emails","Import Failed Emails",module,Magento_ScheduledImportExport
+"Import Failed Emails","E-mails falha ao importar",module,Magento_ScheduledImportExport
 "Import Behavior","Comportamento de Importação",module,Magento_ScheduledImportExport
 "Field separator","Separador de Campos",module,Magento_ScheduledImportExport
-"Multiple value separator","Multiple value separator",module,Magento_ScheduledImportExport
+"Multiple value separator","Separador de valor múltiplo",module,Magento_ScheduledImportExport
 "On Error","No erro",module,Magento_ScheduledImportExport
 "File Name","File Name",module,Magento_ScheduledImportExport
 "Images File Directory","Diretório do arquivos de imagens",module,Magento_ScheduledImportExport
@@ -10084,14 +10088,14 @@ Yes,Sim,module,Magento_Search
 "Search Query","Termos de Pesquisa",module,Magento_Search
 Store,Loja,module,Magento_Search
 "Number of results","Número de resultados",module,Magento_Search
-"Number of results (For the last time placed)","Number of results (For the last time placed)",module,Magento_Search
+"Number of results (For the last time placed)","Número de resultados (Colocados pela última vez)",module,Magento_Search
 "For the last time placed.","Colocados pela última vez.",module,Magento_Search
 "Number of Uses","Número de Usos",module,Magento_Search
 "Redirect URL","URL de redirecionamento",module,Magento_Search
 "ex. http://domain.com","ex. http://domain.com",module,Magento_Search
 "Display in Suggested Terms","Exibir em termos sugeridos",module,Magento_Search
 "The synonym group has been deleted.","O grupo de sinónimos foi eliminado.",module,Magento_Search
-"An error was encountered while performing delete operation.","An error was encountered while performing delete operation.",module,Magento_Search
+"An error was encountered while performing delete operation.","Foi encontrado um erro ao executar a operação de exclusão.",module,Magento_Search
 "We can't find a synonym group to delete.","Não conseguimos encontrar um grupo de sinónimos para eliminar.",module,Magento_Search
 "This synonyms group no longer exists.","O grupo de sinónimos já não existe maix.",module,Magento_Search
 "Edit Synonym Group","Edit Synonym Group",module,Magento_Search
@@ -10172,9 +10176,9 @@ None,Nenhum,module,Magento_Security
 "This computer is using IP address %1.","Este computador está usando o IP endereço %1.",module,Magento_Security
 "Admin Account Sharing","Partilha de Conta de Administrador",module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Se definida como Sim, você pode logar de vários computadores em uma mesma conta. Configuração padrão Não melhora a segurança.",module,Magento_Security
-"Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
+"Password Reset Protection Type","Tipo de proteção de redefinição de senha",module,Magento_Security
 "Max Number of Password Reset Requests","Número máximo solicitações de redefinição de senha",module,Magento_Security
-"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Limite o número de pedido de redefinição de senha por hora. Utilize 0 para desactivar.",module,Magento_Security
 "Min Time Between Password Reset Requests","Tempo mínimo entre Solicitações de redefinição de senha",module,Magento_Security
 "Delay in minutes between password reset requests. Use 0 to disable.","Atraso em minutos entre as solicitações de redefinição de senha Use 0 para desabilitar.",module,Magento_Security
 "Page not found.","Página não encontrada.",module,Magento_SendFriend
@@ -10207,7 +10211,7 @@ Email,E-mail,module,Magento_SendFriend
 Sender,Remetente,module,Magento_SendFriend
 Message,Mensagem,module,Magento_SendFriend
 Invitee,Convidado,module,Magento_SendFriend
-"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","São permitidos até %1 endereços de email.",module,Magento_SendFriend
 "Add Invitee","Adicionar convidado",module,Magento_SendFriend
 "Send Email","Enviar e-mail",module,Magento_SendFriend
 Back,Voltar,module,Magento_SendFriend
@@ -10425,17 +10429,17 @@ Error,Erro,module,Magento_Signifyd
 "Case Score","Caso a Pontuação",module,Magento_Signifyd
 "Guarantee Eligible","Garantia elegíveis",module,Magento_Signifyd
 "Guarantee Disposition","Disposição de garantia",module,Magento_Signifyd
-"Associated Team","Associated Team",module,Magento_Signifyd
-"Review Disposition","Review Disposition",module,Magento_Signifyd
+"Associated Team","Equipe associada",module,Magento_Signifyd
+"Review Disposition","Disposição de revisão",module,Magento_Signifyd
 "Case Created","Caso criado",module,Magento_Signifyd
 "Case Updated","Caso atualizado",module,Magento_Signifyd
 "Fraud Protection Section","Seção de proteção de fraude",module,Magento_Signifyd
-"Fraud Protection","Fraud Protection",module,Magento_Signifyd
+"Fraud Protection","Proteção contra fraudes",module,Magento_Signifyd
 Signifyd,Signifyd,module,Magento_Signifyd
-"Enable this Solution","Enable this Solution",module,Magento_Signifyd
-"API Key","API Key",module,Magento_Signifyd
-"API URL","API URL",module,Magento_Signifyd
-Debug,Debug,module,Magento_Signifyd
+"Enable this Solution","Ativar esta Solução",module,Magento_Signifyd
+"API Key","Chave de API",module,Magento_Signifyd
+"API URL","URL da API",module,Magento_Signifyd
+Debug,Depurar,module,Magento_Signifyd
 "Save & Generate","Salvar e gerar",module,Magento_Sitemap
 "Edit Sitemap","Editar mapa do site",module,Magento_Sitemap
 "New Sitemap","Novo mapa do site",module,Magento_Sitemap
@@ -10541,17 +10545,17 @@ Save,Salvar,module,Magento_Staging
 "Invalid parameter %1.","%1 parâmetro inválido.",module,Magento_Staging
 "Something went wrong while removing the %1.","Algo deu errado durante a gravação de %1.",module,Magento_Staging
 "The 'mode' value is unexpected.","O valor de 'modo' é inesperado.",module,Magento_Staging
-"You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
+"You saved this %1 update.","Gravou a atualização %1.",module,Magento_Staging
 "Something went wrong while saving the %1.","Algo deu errado durante a gravação de %1.",module,Magento_Staging
 "Requested type does not have corresponding implementation","Tipo solicitado não tem implementação correspondente",module,Magento_Staging
 "Repository should return instance of %s","Repositório deve retornar a instância de %s",module,Magento_Staging
 "Can not be rescheduled","Não podem ser reprogramadas",module,Magento_Staging
-"Action class must implement ActionDataProviderInterface","Action class must implement ActionDataProviderInterface",module,Magento_Staging
+"Action class must implement ActionDataProviderInterface","Classe da ação deve implementar ActionDataProviderInterface",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
-"Delete Update","Delete Update",module,Magento_Staging
+"Delete Update","Excluir a atualização",module,Magento_Staging
 View/Edit,Ver/Editar,module,Magento_Staging
 Active,Ativo,module,Magento_Staging
-Upcoming,Upcoming,module,Magento_Staging
+Upcoming,Próximos,module,Magento_Staging
 "Please select Name for Future Update.","Por favor, selecione o nome para a Futura Atualização.",module,Magento_Staging
 "Please select Start Time for Future Update.","Por favor, selecione a Data Inicial para a Atualização Futura.",module,Magento_Staging
 "Future Update Start Time cannot be earlier than current time.","Hora de início de Atualização Futura não pode ser anterior à hora atual.",module,Magento_Staging
@@ -10642,21 +10646,21 @@ Report,Relatório,module,Magento_Support
 "A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_Support
 Support,Atendimento,module,Magento_Support
 "Data Collector","Coletor de dados",module,Magento_Support
-"The backup has been saved.","The backup has been saved.",module,Magento_Support
+"The backup has been saved.","O backup foi salvo.",module,Magento_Support
 "Failed to save backup with error: %1","Falha ao salvar o backup com o erro: %1",module,Magento_Support
 "An error occurred while saving backup","Ocorreu um erro ao salvar o backup",module,Magento_Support
 "All processes should be complete","Todos os processos devem ser completos",module,Magento_Support
-"Wrong param id","Wrong param id",module,Magento_Support
+"Wrong param id","ID de parâmetro errado",module,Magento_Support
 "The backup has been deleted.","O backup foi excluído.",module,Magento_Support
 "Cannot delete backup","Não é possível excluir backup",module,Magento_Support
 "File does not exist","O arquivo não existe",module,Magento_Support
 "Log Details","Detalhes do Log",module,Magento_Support
-"An error occurred during mass deletion of data collector backups. Please review log and try again.","An error occurred during mass deletion of data collector backups. Please review log and try again.",module,Magento_Support
+"An error occurred during mass deletion of data collector backups. Please review log and try again.","Ocorreu um erro durante a exclusão em massa de backups de coletor de dados. Por favor, revise o log e tente novamente.",module,Magento_Support
 "After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Depois de fazer suas seleções, clique no botão ""Criar"". Então aguarde enquanto o Sistema de Relatório é gerado. Isto pode levar alguns minutos. Uma vez que essa etapa for concluída, você receberá uma notificação.",module,Magento_Support
-"Create System Report","Create System Report",module,Magento_Support
+"Create System Report","Criar relatório de sistema",module,Magento_Support
 "Unable to find a system report to delete.","Não é possível o relatório de sistema para excluir.",module,Magento_Support
 "The system report has been deleted.","O relatório de sistema foi excluído.",module,Magento_Support
-"An error occurred while deleting the system report. Please review log and try again.","An error occurred while deleting the system report. Please review log and try again.",module,Magento_Support
+"An error occurred while deleting the system report. Please review log and try again.","Ocorreu um erro ao excluir o relatório de sistema. Por favor, revise o log e tente novamente.",module,Magento_Support
 "Requested system report no longer exists.","Relatório do sistema solicitado não existe mais.",module,Magento_Support
 "Unable to read system report data to display.","Unable to read system report data to display.",module,Magento_Support
 "No groups were specified to generate system report.","Nenhum grupo foi especificado para gerar o relatório de sistema.",module,Magento_Support
@@ -10899,9 +10903,9 @@ Options,Opções,module,Magento_Swatches
 "Swatches per Product","Amostras por Produto",module,Magento_Swatches
 "Swatch Image","Imagem de amostra",module,Magento_Swatches
 Image,Imagem,module,Magento_Swatches
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Swatches
+"Allowed file types: jpeg, gif, png.","Tipos de arquivo permitidos: jpeg, gif, png.",module,Magento_Swatches
 "Image Opacity","Opacidade da Imagem",module,Magento_Swatches
-"Image Size","Image Size",module,Magento_Swatches
+"Image Size","Tamanho da imagem",module,Magento_Swatches
 "Example format: 200x300.","Exemplo de formato: 200x300.",module,Magento_Swatches
 "Image Position","Posição da Imagem",module,Magento_Swatches
 "Default Store View","Frente de Loja Padrão",module,Magento_Swatches
@@ -10936,9 +10940,9 @@ To,Até,module,Magento_TargetRule
 "Related Products Rules","Regra de Produtos Relacionados",module,Magento_TargetRule
 "You saved the rule.","Você gravou a regra.",module,Magento_TargetRule
 "We can't save the product rule right now.","Não podemos salvar a regra do produto no momento.",module,Magento_TargetRule
-"Please specify a correct rule.","Please specify a correct rule.",module,Magento_TargetRule
+"Please specify a correct rule.","Por favor, especifique uma regra correta.",module,Magento_TargetRule
 "Invalid product list type","Tipo de lista do produto inválido",module,Magento_TargetRule
-"Invalid rotation mode type","Invalid rotation mode type",module,Magento_TargetRule
+"Invalid rotation mode type","Tipo de modo de rotação inválido",module,Magento_TargetRule
 "Conditions Combination","Combinação de Condições",module,Magento_TargetRule
 Type,Tipo,module,Magento_TargetRule
 "Product %1%2%3%4%5%6%7","Product %1%2%3%4%5%6%7",module,Magento_TargetRule
@@ -11030,11 +11034,11 @@ Name,Nome,module,Magento_Tax
 "Product Tax Class","Taxa de Imposto do Cliente",module,Magento_Tax
 "Tax Rate",Taxa,module,Magento_Tax
 Priority,Prioridade,module,Magento_Tax
-"Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded.",module,Magento_Tax
+"Tax rates at the same priority are added, others are compounded.","Taxas de imposto na mesma prioridade são adicionadas, outros são agravados.",module,Magento_Tax
 "Calculate Off Subtotal Only","Calcular apenas fora Subtotal",module,Magento_Tax
 "Sort Order",Ordernação,module,Magento_Tax
 "Do you really want to delete this tax class?","Você realmente deseja excluir esta tarifa?",module,Magento_Tax
-"Add New Tax Class","Add New Tax Class",module,Magento_Tax
+"Add New Tax Class","Adicionar a nova classe de imposto",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Frete incl. imposto (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Frete excl. imposto (%1)",module,Magento_Tax
 "Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
@@ -11540,18 +11544,18 @@ CSV,CSV,module,Magento_Ui
 "UPS Today Express","Hoje UPS Express",module,Magento_Ups
 "UPS Today Express Saver","Hoje UPS Express Saver",module,Magento_Ups
 "UPS Express Plus","UPS Express Plus",module,Magento_Ups
-"Next Day Air Early AM","Next Day Air Early AM",module,Magento_Ups
-"Next Day Air Early AM Letter","Next Day Air Early AM Letter",module,Magento_Ups
+"Next Day Air Early AM","Next Day Air cedo estou",module,Magento_Ups
+"Next Day Air Early AM Letter","No próximo dia ar cedo AM letra",module,Magento_Ups
 "Next Day Air","Next Day Air",module,Magento_Ups
 "Next Day Air Letter","No próximo dia ar letra",module,Magento_Ups
 "Next Day Air Intra (Puerto Rico)","No próximo dia ar Intra (Puerto Rico)",module,Magento_Ups
-"Next Day Air Saver","Next Day Air Saver",module,Magento_Ups
-"Next Day Air Saver Letter","Next Day Air Saver Letter",module,Magento_Ups
-"2nd Day Air AM","2nd Day Air AM",module,Magento_Ups
-"2nd Day Air AM Letter","2nd Day Air AM Letter",module,Magento_Ups
-"2nd Day Air","2nd Day Air",module,Magento_Ups
-"2nd Day Air Letter","2nd Day Air Letter",module,Magento_Ups
-"3 Day Select","3 Day Select",module,Magento_Ups
+"Next Day Air Saver","Protetor de ar no próximo dia",module,Magento_Ups
+"Next Day Air Saver Letter","No próximo dia ar Saver letra",module,Magento_Ups
+"2nd Day Air AM","2º dia ar AM",module,Magento_Ups
+"2nd Day Air AM Letter","2º dia ar AM letra",module,Magento_Ups
+"2nd Day Air","2º dia de ar",module,Magento_Ups
+"2nd Day Air Letter","2º dia ar letra",module,Magento_Ups
+"3 Day Select","Dia 3 Selecione",module,Magento_Ups
 Ground,Terreno,module,Magento_Ups
 "Ground Commercial","Terreno comercial",module,Magento_Ups
 "Ground Residential","Ground Residential",module,Magento_Ups
@@ -11659,9 +11663,9 @@ Delete,Excluir,module,Magento_UrlRewrite
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_UrlRewrite
 Save,Salvar,module,Magento_UrlRewrite
 "Block Information","Informação do Bloco",module,Magento_UrlRewrite
-"URL Rewrite Information","URL Rewrite Information",module,Magento_UrlRewrite
+"URL Rewrite Information","Informação de Reescrita de URL",module,Magento_UrlRewrite
 "Request Path","Caminho da Solicitação",module,Magento_UrlRewrite
-"Target Path","Target Path",module,Magento_UrlRewrite
+"Target Path","Caminho de Destino",module,Magento_UrlRewrite
 "Redirect Type","Tipo de Redirecionamento",module,Magento_UrlRewrite
 Description,Descrição,module,Magento_UrlRewrite
 Store,Loja,module,Magento_UrlRewrite
@@ -11853,18 +11857,18 @@ Unlocked,Desbloqueado,module,Magento_User
 "Priority Mail Express Legal Flat Rate Envelope","Priority Mail Express Legal Flat Rate Envelope",module,Magento_Usps
 "Priority Mail Express Legal Flat Rate Envelope Hold For Pickup","Prioritário Tarifa de Envelo para o Coletor Mail Express",module,Magento_Usps
 "Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope","Priority Mail Express Envelope de taxa fixa de entrega de domingo/feriado",module,Magento_Usps
-"Priority Mail Hold For Pickup","Priority Mail Hold For Pickup",module,Magento_Usps
-"Priority Mail Large Flat Rate Box Hold For Pickup","Priority Mail Large Flat Rate Box Hold For Pickup",module,Magento_Usps
+"Priority Mail Hold For Pickup","Espera de correio prioridade para o coletor",module,Magento_Usps
+"Priority Mail Large Flat Rate Box Hold For Pickup","Prioridade correio grande taxa fixa caixa espera Pickup",module,Magento_Usps
 "Priority Mail Medium Flat Rate Box Hold For Pickup","Prioridade Mail médio taxa fixa caixa espera Pickup",module,Magento_Usps
 "Priority Mail Small Flat Rate Box Hold For Pickup","Prioridade Mail pequena taxa fixa caixa espera Pickup",module,Magento_Usps
 "Priority Mail Flat Rate Envelope Hold For Pickup","Prioridade correio taxa fixa Envelope Hold para Pickup",module,Magento_Usps
-"Priority Mail Gift Card Flat Rate Envelope","Priority Mail Gift Card Flat Rate Envelope",module,Magento_Usps
-"Priority Mail Gift Card Flat Rate Envelope Hold For Pickup","Priority Mail Gift Card Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Window Flat Rate Envelope","Priority Mail Window Flat Rate Envelope",module,Magento_Usps
-"Priority Mail Window Flat Rate Envelope Hold For Pickup","Priority Mail Window Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Small Flat Rate Envelope","Priority Mail Small Flat Rate Envelope",module,Magento_Usps
-"Priority Mail Small Flat Rate Envelope Hold For Pickup","Priority Mail Small Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Legal Flat Rate Envelope","Priority Mail Legal Flat Rate Envelope",module,Magento_Usps
+"Priority Mail Gift Card Flat Rate Envelope","Prioridade Mail presente cartão Envelope de taxa fixa",module,Magento_Usps
+"Priority Mail Gift Card Flat Rate Envelope Hold For Pickup","Prioridade Mail presente cartão taxa fixa Envelope mantenha pressionado para Pickup",module,Magento_Usps
+"Priority Mail Window Flat Rate Envelope","Prioridade Envelope do correio janela taxa fixa",module,Magento_Usps
+"Priority Mail Window Flat Rate Envelope Hold For Pickup","Prioridade correio janela taxa fixa Envelope mantenha pressionado para Pickup",module,Magento_Usps
+"Priority Mail Small Flat Rate Envelope","Envelope de pequena taxa fixa prioritários Mail",module,Magento_Usps
+"Priority Mail Small Flat Rate Envelope Hold For Pickup","Prioridade Mail forfetária pequeno Envelope Hold para Pickup",module,Magento_Usps
+"Priority Mail Legal Flat Rate Envelope","Prioridade Mail Legal forfetária Envelope",module,Magento_Usps
 "Priority Mail Legal Flat Rate Envelope Hold For Pickup","Priority Mail Legal Flat Rate Envelope Hold For Pickup",module,Magento_Usps
 "Priority Mail Padded Flat Rate Envelope Hold For Pickup","Priority Mail Padded Flat Rate Envelope Hold For Pickup",module,Magento_Usps
 "Priority Mail Regional Rate Box A","Priority Mail Regional Rate Box A",module,Magento_Usps
@@ -12035,10 +12039,10 @@ Frame,Quadro,module,Magento_VersionsCms
 "Menu Detalization","Menu Detalization",module,Magento_VersionsCms
 "Maximal Depth","Profundidade máxima",module,Magento_VersionsCms
 "Node Levels to Include","Níveis de Nó para incluir",module,Magento_VersionsCms
-"List Type","List Type",module,Magento_VersionsCms
+"List Type","Tipo de Lista",module,Magento_VersionsCms
 "List Style","Tipo de Lista",module,Magento_VersionsCms
-"Main Navigation Menu Options","Main Navigation Menu Options",module,Magento_VersionsCms
-"Add selected page(s) to the tree","Add selected page(s) to the tree",module,Magento_VersionsCms
+"Main Navigation Menu Options","Opções de Menu de navegação principal",module,Magento_VersionsCms
+"Add selected page(s) to the tree","Adicionar página (s) selecionados para a árvore",module,Magento_VersionsCms
 "Remove from tree.","Remover da árvore.",module,Magento_VersionsCms
 Cancel,Cancelar,module,Magento_VersionsCms
 Save,Salvar,module,Magento_VersionsCms
@@ -12152,7 +12156,7 @@ Bottom,Botão,module,Magento_VisualMerchandiser
 "There was no category rules to apply","Não há nenhuma regra de categoria para aplicar",module,Magento_VisualMerchandiser
 "Category rules applied","Regras de categoria aplicadas",module,Magento_VisualMerchandiser
 Equal,Igualdade,module,Magento_VisualMerchandiser
-"Not equal","Not equal",module,Magento_VisualMerchandiser
+"Not equal","Não é igual a",module,Magento_VisualMerchandiser
 "Greater than","Maior que",module,Magento_VisualMerchandiser
 "Greater than or equal to","Maior que ou igual a",module,Magento_VisualMerchandiser
 "Less than","Menor que",module,Magento_VisualMerchandiser
@@ -12161,8 +12165,8 @@ Contains,Contém,module,Magento_VisualMerchandiser
 "Error in yes/no format","Erro no formato de Sim/não",module,Magento_VisualMerchandiser
 "Category ID '%1' not found","ID de categoria '%1' não encontrado",module,Magento_VisualMerchandiser
 "%1 doesn't implement SortInterface","%1 não implementa SortInterface",module,Magento_VisualMerchandiser
-"Move low stock to top","Move low stock to top",module,Magento_VisualMerchandiser
-"Name: A - Z","Name: A - Z",module,Magento_VisualMerchandiser
+"Move low stock to top","Baixo estoque de mover para o topo",module,Magento_VisualMerchandiser
+"Name: A - Z","Nome: A - Z",module,Magento_VisualMerchandiser
 "Name: Z - A","Nome: Z - A",module,Magento_VisualMerchandiser
 "Newest products first","Newest products first",module,Magento_VisualMerchandiser
 "Move out of stock to bottom","Mover fora de estoque para baixo",module,Magento_VisualMerchandiser
@@ -12243,7 +12247,7 @@ Message,Mensagem,module,Magento_Webapi
 "Default Response Charset","Charset de Resposta Pré-definido",module,Magento_Webapi
 "If empty, UTF-8 will be used.","Se estiver vazio será usado UTF-8.",module,Magento_Webapi
 "Web Services Configuration","Configuração de Web Services",module,Magento_Webapi
-"REST and SOAP configurations, generated WSDL file","REST and SOAP configurations, generated WSDL file",module,Magento_Webapi
+"REST and SOAP configurations, generated WSDL file","Configurações REST e SOAP, ficheiro WSDL gerado",module,Magento_Webapi
 "Web API Security","Segurança de Web API",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Permitir o Acesso de Visitantes Anônimos",module,Magento_WebapiSecurity
 "503 Service Unavailable","503 Serviço Indisponível",module,Magento_WebsiteRestriction
@@ -12283,7 +12287,7 @@ Total,Total,module,Magento_Weee
 "Final Price","Preço Final",module,Magento_Weee
 "Fixed Product Taxes","Impostos Fixos do Produto",module,Magento_Weee
 "Enable FPT","Ativar Impostos Fixos de Produto",module,Magento_Weee
-"Display Prices In Product Lists","Display Prices In Product Lists",module,Magento_Weee
+"Display Prices In Product Lists","Mostrar Preços nas Listas de Produtos",module,Magento_Weee
 "Display Prices On Product View Page","Mostrar preços na página de visualização do produto",module,Magento_Weee
 "Display Prices In Sales Modules","Mostrar Preços em Módulos de Vendas",module,Magento_Weee
 "Display Prices In Emails","Mostrar Preços em Emails",module,Magento_Weee
