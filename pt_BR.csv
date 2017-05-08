@@ -3723,7 +3723,7 @@ Email,E-mail,module,Magento_Customer
 Save,Salvar,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Por favor, digite seu endereço de e-mail abaixo para receber o link para redefinição de senha.",module,Magento_Customer
 "Reset My Password","Redefinir Minha Senha",module,Magento_Customer
-"Registered Customers","Clientes registados",module,Magento_Customer
+"Registered Customers","Clientes Registados",module,Magento_Customer
 "If you have an account, sign in with your email address.","Se você tiver uma conta, acesse com seu endereço de e-mail e senha.",module,Magento_Customer
 Password,Senha,module,Magento_Customer
 "Forgot Your Password?","Esqueceu a sua senha?",module,Magento_Customer
