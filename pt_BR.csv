@@ -5608,7 +5608,7 @@ None,Nenhum,module,Magento_GiftWrapping
 "The image extension ""%1"" not allowed.","A extensão de imagem ""%1"" não é permitida.",module,Magento_GiftWrapping
 "Provided image name contains forbidden characters.","O nome de arquivo fornecido contém caracteres proibidos.",module,Magento_GiftWrapping
 "The image MIME type is not valid or not supported.","A tipo MIME da imagem não é válido ou não é suportado.",module,Magento_GiftWrapping
-"Gift Wrapping with specified ID ""%1"" not found.","Gift Wrapping with specified ID ""%1"" not found.",module,Magento_GiftWrapping
+"Gift Wrapping with specified ID ""%1"" not found.","Embrulho de Presente com ID ""%1"" especificado não encontrado.",module,Magento_GiftWrapping
 "Please enter valid currency code: %1","Por favor, digite um código de moeda válida: %1",module,Magento_GiftWrapping
 "Unable to remove gift wrapping %1","Não foi possível remover a embalagem de presente %1",module,Magento_GiftWrapping
 "Printed Card","Cartão impresso",module,Magento_GiftWrapping
@@ -5624,10 +5624,10 @@ None,Nenhum,module,Magento_GiftWrapping
 "Excl. Tax","Excl. Impostos",module,Magento_GiftWrapping
 "Incl. Tax","Imposto Incl.",module,Magento_GiftWrapping
 Preview,Pré-visualização,module,Magento_GiftWrapping
-"Gift wrapping","Gift wrapping",module,Magento_GiftWrapping
+"Gift wrapping","Embrulho de presente",module,Magento_GiftWrapping
 "Printed card","Cartão impresso",module,Magento_GiftWrapping
-"Gift receipt","Gift receipt",module,Magento_GiftWrapping
-"Pick a paper of your choice (optional)","Pick a paper of your choice (optional)",module,Magento_GiftWrapping
+"Gift receipt","Vale presente",module,Magento_GiftWrapping
+"Pick a paper of your choice (optional)","Selecione um papel de sua preferência (opcional)",module,Magento_GiftWrapping
 "No image","No image",module,Magento_GiftWrapping
 Remove,Remover,module,Magento_GiftWrapping
 "Gift Receipt","Gift Receipt",module,Magento_GiftWrapping
