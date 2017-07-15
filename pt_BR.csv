@@ -6732,7 +6732,7 @@ Paused,Pausado,module,Magento_Newsletter
 "Duplicate template code","Código do template duplicado",module,Magento_Newsletter
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Siga este link para descadastrar <!..--Essa marca é para cancelar assinatura link--> <a href=""{{var subscriber.getUnsubscriptionLink()}}""> {{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
 "No such entity with %fieldName = %fieldValue","Não há tal entidade com %fieldName = %fieldValue",module,Magento_Newsletter
-"Choose Store View:","Choose Store View:",module,Magento_Newsletter
+"Choose Store View:","Escolha o visual da Loja:",module,Magento_Newsletter
 "Newsletter Message Preview","Pré-visualização da Mensagem da Newsletter",module,Magento_Newsletter
 "Add to Queue","Adicionar à Fila",module,Magento_Newsletter
 "Are you sure that you want to strip all tags?","Tem a certeza que pretende remover as tags?",module,Magento_Newsletter
@@ -6754,13 +6754,13 @@ Subscribe,Assinar,module,Magento_Newsletter
 "Subscription Options","Opções de assinaturas",module,Magento_Newsletter
 "Allow Guest Subscription","Permitir Subscrição a Utilizadores Não Registados",module,Magento_Newsletter
 "Need to Confirm","Pedir Confirmação",module,Magento_Newsletter
-"Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
-"Confirmation Email Template","Confirmation Email Template",module,Magento_Newsletter
+"Confirmation Email Sender","E-mail remetente de confirmação",module,Magento_Newsletter
+"Confirmation Email Template","Confirmação do E-mail template",module,Magento_Newsletter
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Newsletter
-"Success Email Sender","Success Email Sender",module,Magento_Newsletter
-"Success Email Template","Success Email Template",module,Magento_Newsletter
-"Unsubscription Email Sender","Unsubscription Email Sender",module,Magento_Newsletter
-"Unsubscription Email Template","Unsubscription Email Template",module,Magento_Newsletter
+"Success Email Sender","E-mail remetente de Sucesso",module,Magento_Newsletter
+"Success Email Template","E-mail template de Sucesso",module,Magento_Newsletter
+"Unsubscription Email Sender","Cancelamento do E-mail remetente",module,Magento_Newsletter
+"Unsubscription Email Template","Cancelamento do E-mail template",module,Magento_Newsletter
 "We found no problems.","Não encontrámos problemas.",module,Magento_Newsletter
 Subscriber,Assinante,module,Magento_Newsletter
 "Queue Start Date","Data de Início da Fila",module,Magento_Newsletter
@@ -7006,26 +7006,26 @@ Sales,Vendas,module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Obtivemos %1 linhas de relatório do ""%2@%3.""",module,Magento_Paypal
 "We can't fetch reports from ""%1@%2.""","Não foi possível obter relatórios de ""%1@%2.""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","O acordo de faturamento ""%1"" foi cancelado.",module,Magento_Paypal
-"The billing agreement ""%1"" has been created.","The billing agreement ""%1"" has been created.",module,Magento_Paypal
+"The billing agreement ""%1"" has been created.","O acordo de cobrança ""%1"" foi criado.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Não conseguimos  terminar o assistente de acordo faturamento.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","Nós Não podemos iniciar o assistente de acordo faturamento.",module,Magento_Paypal
-"Billing Agreement # %1","Billing Agreement # %1",module,Magento_Paypal
+"Billing Agreement # %1","Acordo de Faturamento # %1",module,Magento_Paypal
 "We can't initialize Express Checkout.","Não foi possível inicializar Express Checkout.",module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","O Token do PayPal Checkout Express não existe.",module,Magento_Paypal
-"A wrong PayPal Express Checkout Token is specified.","A wrong PayPal Express Checkout Token is specified.",module,Magento_Paypal
-"Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
-"Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
-"Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.","Um token incorreto do PayPal Express Checkout foi especificado.",module,Magento_Paypal
+"Express Checkout and Order have been canceled.","O Express Checkout e o Pedido foram cancelados.",module,Magento_Paypal
+"Express Checkout has been canceled.","O Express Checkout foi cancelado.",module,Magento_Paypal
+"Unable to cancel Express Checkout","Não foi possível cancelar o Express Checkout",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_Paypal
 "We can't place the order.","Não foi possível fazer o pedido.",module,Magento_Paypal
 "We can't process Express Checkout approval.","Não podemos processar o pedido de aprovação Express Checkout.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","Não foi possível inicializar o Express Checkout de avaliação.",module,Magento_Paypal
 "We can't update shipping method.","Não é possível atualizar o método de envio.",module,Magento_Paypal
 "We can't start Express Checkout.","Não podemos começar Express Checkout.",module,Magento_Paypal
-"To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_Paypal
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Paypal
+"To check out, please sign in with your email address.","Para finalizar, por favor, faça o login com seu e-mail.",module,Magento_Paypal
+"Sorry, but something went wrong","Desculpe, mas houve algum problema",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Seu pagamento foi recusado. Por favor, tente novamente.",module,Magento_Paypal
-"Requested payment method does not match with order.","Requested payment method does not match with order.",module,Magento_Paypal
+"Requested payment method does not match with order.","O método de pagamento solicitado não coincide com o do pedido.",module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
 "Error processing payment, please try again later.","Error processing payment, please try again later.",module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
@@ -8943,18 +8943,18 @@ Capture,Captura,module,Magento_Sales
 "Invalid parent block for this block","O bloco pai é inválido para este bloco",module,Magento_Sales
 "Order Statuses","Status do pedido",module,Magento_Sales
 "Create New Status","Criar novo status",module,Magento_Sales
-"Assign Status to State","Assign Status to State",module,Magento_Sales
-"Save Status Assignment","Save Status Assignment",module,Magento_Sales
-"Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
+"Assign Status to State","Atribuir Status ao estado",module,Magento_Sales
+"Save Status Assignment","Salvar atribuição de status",module,Magento_Sales
+"Assign Order Status to State","Atribuir status do pedido ao estado",module,Magento_Sales
 "Assignment Information","Informações de atribuição",module,Magento_Sales
 "Order Status","Situação do pedido",module,Magento_Sales
-"Order State","Order State",module,Magento_Sales
-"Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
-"Visible On Storefront","Visible On Storefront",module,Magento_Sales
-"Edit Order Status","Edit Order Status",module,Magento_Sales
+"Order State","Situação do pedido",module,Magento_Sales
+"Use Order Status As Default","Usar status do pedido como padrão",module,Magento_Sales
+"Visible On Storefront","Visível na loja",module,Magento_Sales
+"Edit Order Status","Editar status do pedido",module,Magento_Sales
 "Save Status","Salvar status",module,Magento_Sales
-"New Order Status","New Order Status",module,Magento_Sales
-"Order Status Information","Order Status Information",module,Magento_Sales
+"New Order Status","Novo status do pedido",module,Magento_Sales
+"Order Status Information","Informações do pedido",module,Magento_Sales
 "Status Code","Código de status",module,Magento_Sales
 "Status Label","Rótulo do status",module,Magento_Sales
 "Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
