@@ -6868,7 +6868,7 @@ Export,Exportar,module,Magento_OfflineShipping
 Import,Importar,module,Magento_OfflineShipping
 "Free Shipping","Frete grátis",module,Magento_OfflineShipping
 "Minimum Order Amount","Quantidade mínima do Pedido",module,Magento_OfflineShipping
-"-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
+"-- Please Select --","-- Selecione uma opção --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","Exportar VCL para Varnish %1",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","O valor TTL ""%1"" não é válido. Por favor use apenas números maiores ou iguais a zero.",module,Magento_PageCache
 "Built-in Cache","Cache Incorporada",module,Magento_PageCache
@@ -7735,9 +7735,9 @@ Subtotal,Subtotal,module,Magento_Quote
 "Cannot assign customer to the given cart. The cart belongs to different store.","Não é possível atribuir o carrinho ao cliente. O carrinho pertence a outra loja.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Não foi possível associar o cliente ao carrinho. O carrinho não é anônimo.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","Não foi possível associar o cliente ao carrinho especificado. O cliente já tem um carrinho ativo.",module,Magento_Quote
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Quote
-"Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
+"An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente fazer o pedido novamente.",module,Magento_Quote
+"Only 1 shipping assignment can be set","Apenas 1 transportadora pode ser definida",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","Este preço do item ou quantidade não é válido para efetuar o checkout.",module,Magento_Quote
 "Please check the shipping address information. %1","Por favor verifique as informações de envio. %1",module,Magento_Quote
 "Please specify a shipping method.","Por favor, especifique um método de envio.",module,Magento_Quote
 "Please check the billing address information. %1","Por favor verifique as informações do endereço de envio. %1",module,Magento_Quote
@@ -7746,14 +7746,14 @@ Subtotal,Subtotal,module,Magento_Quote
 Discount,Desconto,module,Magento_Quote
 Tax,Taxa,module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping address is not applicable.","O carrinho contem somente produtos virtuais. Endereço de entrega não se aplica.",module,Magento_Quote
-"Shipping address not set.","Shipping address not set.",module,Magento_Quote
+"Shipping address not set.","Endereço de envio não está definido.",module,Magento_Quote
 "Cannot set shipping method. %1","Não foi possível definir o método de envio. %1",module,Magento_Quote
 "Shipping method is not applicable for empty cart","Método de envio não aplicável para Carrinho de Compras vazio",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","O carrinho contem somente produtos digitais. Endereço de entrega não se aplica.",module,Magento_Quote
 error345,error345,module,Magento_Quote
-"Incorrect amount","Incorrect amount",module,Magento_Quote
-Carts,Carts,module,Magento_Quote
-"Manage carts","Manage carts",module,Magento_Quote
+"Incorrect amount","Valor incorreto",module,Magento_Quote
+Carts,Carrinhos,module,Magento_Quote
+"Manage carts","Gerenciar carrinhos",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Esta regra está atribuída a %1 lembrete(s) de regra automatizados. Excluir esta regra causa a desatribuição automaticamente.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Regras de Lembrete de Marketing Automático por Email",module,Magento_Reminder
 "Add New Rule","Adicionar Nova Regra",module,Magento_Reminder
@@ -7796,7 +7796,7 @@ To,Até,module,Magento_Reminder
 "Select Rule...","Selecione uma Regra...",module,Magento_Reminder
 "Email Templates","Modelos de e-mail",module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Apenas os clientes que têm uma conta para uma vista de loja irão receber emails relacionados com essa frente de loja.",module,Magento_Reminder
-"Default Titles and Description","Default Titles and Description",module,Magento_Reminder
+"Default Titles and Description","Títulos e descrição padrão",module,Magento_Reminder
 "You can find and edit rule label and descriptions, per store view, in email templates.","Pode encontrar e editar a etiqueta da regra e as descrições, por frente de loja, nos templates de email.",module,Magento_Reminder
 "Rule Title for All Store Views","Título da Regra para Todas as Frentes de Loja",module,Magento_Reminder
 "Rule Description for All Store Views","Descrição de regra para todas as Lojas",module,Magento_Reminder
@@ -7805,19 +7805,19 @@ To,Até,module,Magento_Reminder
 "Rule Information","Informações da Regra",module,Magento_Reminder
 "Emails and Labels","Etiquetas e Emails",module,Magento_Reminder
 "Matched Customers","Clientes Correspondentes",module,Magento_Reminder
-"Please correct the reminder rule you requested.","Please correct the reminder rule you requested.",module,Magento_Reminder
+"Please correct the reminder rule you requested.","Por favor corrija a regra de lembrete que solicitou.",module,Magento_Reminder
 "You deleted the reminder rule.","Eliminou a regra do lembrete.",module,Magento_Reminder
 "We can't delete the reminder rule right now.","No momento não podemos excluir a regra de lembrete.",module,Magento_Reminder
-"Reminder Rules","Reminder Rules",module,Magento_Reminder
+"Reminder Rules","Regras de Lembrete",module,Magento_Reminder
 "Email Reminders","Lembretes de Email",module,Magento_Reminder
-"New Reminder Rule","New Reminder Rule",module,Magento_Reminder
+"New Reminder Rule","Nova Regra de Lembrete",module,Magento_Reminder
 "Edit Rule","Editar Regra",module,Magento_Reminder
-"You matched the reminder rule.","You matched the reminder rule.",module,Magento_Reminder
-"Reminder rule matching error.","Reminder rule matching error.",module,Magento_Reminder
-"You saved the reminder rule.","You saved the reminder rule.",module,Magento_Reminder
-"We could not save the reminder rule.","We could not save the reminder rule.",module,Magento_Reminder
-"Minute Intervals","Minute Intervals",module,Magento_Reminder
-Hourly,Hourly,module,Magento_Reminder
+"You matched the reminder rule.","Correspondeu a regra do lembrete.",module,Magento_Reminder
+"Reminder rule matching error.","Erro de correspondência da regra do lembrete.",module,Magento_Reminder
+"You saved the reminder rule.","Você salvou a regra de lembrete.",module,Magento_Reminder
+"We could not save the reminder rule.","Não conseguimos gravar a regra do lembrete.",module,Magento_Reminder
+"Minute Intervals","Intervalos de minuto",module,Magento_Reminder
+Hourly,"Por hora",module,Magento_Reminder
 Daily,Diário,module,Magento_Reminder
 "5 minutes","5 minutos",module,Magento_Reminder
 "10 minutes","10 minutos",module,Magento_Reminder
@@ -7825,90 +7825,90 @@ Daily,Diário,module,Magento_Reminder
 "20 minutes","20 minutos",module,Magento_Reminder
 "30 minutes","30 minutos",module,Magento_Reminder
 "Unknown operator specified.","O operador especificado é desconhecido.",module,Magento_Reminder
-for,for,module,Magento_Reminder
-"for greater than","for greater than",module,Magento_Reminder
-"for or greater than","for or greater than",module,Magento_Reminder
-"Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:","Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:",module,Magento_Reminder
-"The root shopping cart condition should have a days value of 0 or greater.","The root shopping cart condition should have a days value of 0 or greater.",module,Magento_Reminder
-"Total Amount","Total Amount",module,Magento_Reminder
+for,para,module,Magento_Reminder
+"for greater than","por maior que",module,Magento_Reminder
+"for or greater than","para ou superior a",module,Magento_Reminder
+"Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:","Carrinho de compras não está vazio e foi abandonado %1 %2 dias e %3 dessas condições correspondem:",module,Magento_Reminder
+"The root shopping cart condition should have a days value of 0 or greater.","A condição do carrinho de compras raiz deve ter um valor de dias maior ou igual a 0.",module,Magento_Reminder
+"Total Amount","Valor Total",module,Magento_Reminder
 subtotal,subtotal,module,Magento_Reminder
-"grand total","grand total",module,Magento_Reminder
-"Shopping cart %1 amount %2 %3:","Shopping cart %1 amount %2 %3:",module,Magento_Reminder
-"Unknown quote total specified","Unknown quote total specified",module,Magento_Reminder
-"Numeric Attribute","Numeric Attribute",module,Magento_Reminder
-weight,weight,module,Magento_Reminder
-"row weight","row weight",module,Magento_Reminder
-quantity,quantity,module,Magento_Reminder
-"base price","base price",module,Magento_Reminder
-"base cost","base cost",module,Magento_Reminder
+"grand total","total geral",module,Magento_Reminder
+"Shopping cart %1 amount %2 %3:","Carrinho de compras %1 quantidade %2 %3:",module,Magento_Reminder
+"Unknown quote total specified","O total do orçamento especificado é desconhecido",module,Magento_Reminder
+"Numeric Attribute","Atributo numérico",module,Magento_Reminder
+weight,peso,module,Magento_Reminder
+"row weight","altura da linha",module,Magento_Reminder
+quantity,quantidade,module,Magento_Reminder
+"base price","preço base",module,Magento_Reminder
+"base cost","base de custo",module,Magento_Reminder
 "Item %1 %2 %3:","Item %1 %2 %3:",module,Magento_Reminder
-"Unknown attribute specified","Unknown attribute specified",module,Magento_Reminder
-"Items Subselection","Items Subselection",module,Magento_Reminder
+"Unknown attribute specified","O atributo especificado é desconhecido",module,Magento_Reminder
+"Items Subselection","Sub-seleção de Itens",module,Magento_Reminder
 "Coupon Code","Código do cupom",module,Magento_Reminder
-"Shopping cart %1 a coupon applied","Shopping cart %1 a coupon applied",module,Magento_Reminder
+"Shopping cart %1 a coupon applied","O carrinho de compras %1 um cupom aplicado",module,Magento_Reminder
 has,tem,module,Magento_Reminder
 "does not have","não tem",module,Magento_Reminder
-"Cart Line Items","Cart Line Items",module,Magento_Reminder
-"Number of shopping cart line items %1 %2:","Number of shopping cart line items %1 %2:",module,Magento_Reminder
+"Cart Line Items","Itens da Linha do Carrinho",module,Magento_Reminder
+"Number of shopping cart line items %1 %2:","Número de itens na linha do carrinho de compras %1 %2:",module,Magento_Reminder
 SKU,SKU,module,Magento_Reminder
-"Item SKU %1 %2","Item SKU %1 %2",module,Magento_Reminder
+"Item SKU %1 %2","Ref. do Item %1 %2",module,Magento_Reminder
 "Store View","Visão de Loja",module,Magento_Reminder
-"The item was added to shopping cart %1, store view %2.","The item was added to shopping cart %1, store view %2.",module,Magento_Reminder
+"The item was added to shopping cart %1, store view %2.","O item foi adicionado ao carrinho de compras %1, vista de loja %2.",module,Magento_Reminder
 from,de,module,Magento_Reminder
-"not from","not from",module,Magento_Reminder
+"not from","não é de",module,Magento_Reminder
 found,encontrados,module,Magento_Reminder
 "not found","não encontrado",module,Magento_Reminder
-"If an item is %1 in the shopping cart and %2 of these conditions match:","If an item is %1 in the shopping cart and %2 of these conditions match:",module,Magento_Reminder
-"Items Quantity","Items Quantity",module,Magento_Reminder
-"Total shopping cart items quantity %1 %2:","Total shopping cart items quantity %1 %2:",module,Magento_Reminder
-"Virtual Only","Virtual Only",module,Magento_Reminder
-"Shopping cart %1 only virtual items","Shopping cart %1 only virtual items",module,Magento_Reminder
+"If an item is %1 in the shopping cart and %2 of these conditions match:","Se um item estiver %1 no carrinho de compras e %2 destas condições sejam verdadeiras:",module,Magento_Reminder
+"Items Quantity","Quantidade de Itens",module,Magento_Reminder
+"Total shopping cart items quantity %1 %2:","Quantidade total de itens do carrinho de compras %1 %2:",module,Magento_Reminder
+"Virtual Only","Apenas Virtual",module,Magento_Reminder
+"Shopping cart %1 only virtual items","Carrinho de compras %1 possui somente itens virtuais",module,Magento_Reminder
 "Wish List","Lista de desejos",module,Magento_Reminder
 "Shopping Cart","Carrinho de Compras",module,Magento_Reminder
-"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:",module,Magento_Reminder
-"The root wish list condition should have a days value of 1 or greater.","The root wish list condition should have a days value of 1 or greater.",module,Magento_Reminder
+"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","A lista de desejos não está vazia e foi abandonada %1 %2 dias e %3 destas condições são verdadeiras:",module,Magento_Reminder
+"The root wish list condition should have a days value of 1 or greater.","A condição da lista de desejos raiz deve ter um valor de dias maior ou igual a 1.",module,Magento_Reminder
 "Product Attributes","Atributos de Produto",module,Magento_Reminder
 "Product %1","Produto %1",module,Magento_Reminder
-"Number of Items","Number of Items",module,Magento_Reminder
-"Number of wish list items %1 %2","Number of wish list items %1 %2",module,Magento_Reminder
-Sharing,Sharing,module,Magento_Reminder
-"Wish List %1 shared","Wish List %1 shared",module,Magento_Reminder
+"Number of Items","Número de Itens",module,Magento_Reminder
+"Number of wish list items %1 %2","Número de itens da lista de desejos %1 %2",module,Magento_Reminder
+Sharing,Compartilhando,module,Magento_Reminder
+"Wish List %1 shared","Lista de desejos %1 compartilhado",module,Magento_Reminder
 is,é,module,Magento_Reminder
 "is not","não é",module,Magento_Reminder
-"The item was added to wish list %1, store view %2.","The item was added to wish list %1, store view %2.",module,Magento_Reminder
-"If an item is %1 in the wish list and %2 of these conditions match:","If an item is %1 in the wish list and %2 of these conditions match:",module,Magento_Reminder
-"Condition type is unexpected","Condition type is unexpected",module,Magento_Reminder
-"Please specify a valid number of minute.","Please specify a valid number of minute.",module,Magento_Reminder
-"Unable to save Cron expression","Unable to save Cron expression",module,Magento_Reminder
-"<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
-"Validate error 1","Validate error 1",module,Magento_Reminder
-"Validate error 2","Validate error 2",module,Magento_Reminder
+"The item was added to wish list %1, store view %2.","O item foi adicionado à lista de desejos %1, vista de loja %2.",module,Magento_Reminder
+"If an item is %1 in the wish list and %2 of these conditions match:","Se um item estiver %1 na lista de desejos e %2 destas condições sejam verdadeiras:",module,Magento_Reminder
+"Condition type is unexpected","O tipo de condição não é o esperado",module,Magento_Reminder
+"Please specify a valid number of minute.","Por favor especifique um número válido de minutos.",module,Magento_Reminder
+"Unable to save Cron expression","Não é possível salvar a expressão Cron",module,Magento_Reminder
+"<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Importante</b>: Se selecionar ""Usar Geração Automática"", esta regra deixará de ser usada em qualquer lembrete de email automático para carrinhos de compras abandonados",module,Magento_Reminder
+"Validate error 1","Erro de validação 1",module,Magento_Reminder
+"Validate error 2","Erro de validação 2",module,Magento_Reminder
 LocalizedException,ExceçãoLocalizada,module,Magento_Reminder
-text,text,module,Magento_Reminder
-"Promotion reminder at %store_name","Promotion reminder at %store_name",module,Magento_Reminder
+text,texto,module,Magento_Reminder
+"Promotion reminder at %store_name","Lembrete de promoção no %store_name",module,Magento_Reminder
 "%name,","%name,",module,Magento_Reminder
-"Hurry up to take advantage of our %promotion_name promotion!","Hurry up to take advantage of our %promotion_name promotion!",module,Magento_Reminder
-"Hurry up to take advantage of this promotion!","Hurry up to take advantage of this promotion!",module,Magento_Reminder
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.",module,Magento_Reminder
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
-"This coupon can be used only up to %coupon_limit time(s) by you or other customers.","This coupon can be used only up to %coupon_limit time(s) by you or other customers.",module,Magento_Reminder
-"You can use this coupon up to %coupon_limit time(s).","You can use this coupon up to %coupon_limit time(s).",module,Magento_Reminder
-"Promo Section","Promo Section",module,Magento_Reminder
-"Automated Email Reminder Rules","Automated Email Reminder Rules",module,Magento_Reminder
-"Enable Reminder Emails","Enable Reminder Emails",module,Magento_Reminder
+"Hurry up to take advantage of our %promotion_name promotion!","Apresse-se para aproveitar nossa promoção de %promotion_name!",module,Magento_Reminder
+"Hurry up to take advantage of this promotion!","Apresse-se para aproveitar esta promoção!",module,Magento_Reminder
+"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Para aproveitar a promoção você precisa entrar no <a href=""%account_url"">%store_name</a> e aplicar o cupom ""%coupon_code"" no carrinho de compras.",module,Magento_Reminder
+"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","Para aproveitar a promoção você precisa entrar no <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
+"This coupon can be used only up to %coupon_limit time(s) by you or other customers.","Este cupom pode ser usado somente até o tempo de %coupon_limit (s) por você ou por outros clientes.",module,Magento_Reminder
+"You can use this coupon up to %coupon_limit time(s).","Você pode usar este cupom até %coupon_limit vez (es).",module,Magento_Reminder
+"Promo Section","Seção de promo",module,Magento_Reminder
+"Automated Email Reminder Rules","Regras de lembrete de e-mail automático",module,Magento_Reminder
+"Enable Reminder Emails","Permitir e-mails de lembrete",module,Magento_Reminder
 Frequency,Frequência,module,Magento_Reminder
 Interval,Intervalo,module,Magento_Reminder
-"Set this value equal or greater to your Magento cron job launch period.","Set this value equal or greater to your Magento cron job launch period.",module,Magento_Reminder
-"Minute of the Hour","Minute of the Hour",module,Magento_Reminder
+"Set this value equal or greater to your Magento cron job launch period.","Defina esse valor maior ou igual ao seu período de lançamento de trabalho cron Magento.",module,Magento_Reminder
+"Minute of the Hour","Minuto da hora",module,Magento_Reminder
 "Valid range: 0-59 (default 0).","Intervalo válido: 0-59 (padrão 0).",module,Magento_Reminder
 "Start Time","Hora de Início",module,Magento_Reminder
-"Maximum Emails per One Run","Maximum Emails per One Run",module,Magento_Reminder
-"Email Send Failure Threshold","Email Send Failure Threshold",module,Magento_Reminder
-"Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.",module,Magento_Reminder
+"Maximum Emails per One Run","Máximos e-mails por uma execução",module,Magento_Reminder
+"Email Send Failure Threshold","Limite de falha ao enviar e-mail",module,Magento_Reminder
+"Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Certifique-se que insere um valor limite, ou os emails de lembrete serão re-enviados aos clientes num ciclo.",module,Magento_Reminder
 "Reminder Email Sender","Remetente do Email de Lembrete",module,Magento_Reminder
 Rule,Regra,module,Magento_Reminder
 Start,Ínicio,module,Magento_Reminder
-End,End,module,Magento_Reminder
+End,Final,module,Magento_Reminder
 Website,Website,module,Magento_Reminder
 "New Accounts","Nova Conta",module,Magento_Reports
 "Customers by number of orders","Clientes por número de pedidos",module,Magento_Reports
@@ -8957,18 +8957,18 @@ Capture,Captura,module,Magento_Sales
 "Order Status Information","Informações do pedido",module,Magento_Sales
 "Status Code","Código de status",module,Magento_Sales
 "Status Label","Rótulo do status",module,Magento_Sales
-"Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
+"Store View Specific Labels","Rótulos Específicos para Visão de Loja",module,Magento_Sales
 "Total Paid","Total pago",module,Magento_Sales
 "Total Refunded","Total reembolsado",module,Magento_Sales
 "Total Due","Total devido",module,Magento_Sales
 Edit,Editar,module,Magento_Sales
 "Are you sure you want to send an order email to customer?","Tem certeza de que deseja enviar um e-mail de pedido para o cliente?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Será criado um reembolso off-line. Para criar um reembolso on-line, abra uma fatura e crie uma nota de crédito. Você deseja continuar?",module,Magento_Sales
 "Are you sure you want to void the payment?","Você tem certeza que deseja anular o pagamento?",module,Magento_Sales
-Hold,Hold,module,Magento_Sales
-hold,hold,module,Magento_Sales
-Unhold,Unhold,module,Magento_Sales
-unhold,unhold,module,Magento_Sales
+Hold,"Em Espera",module,Magento_Sales
+hold,"em espera",module,Magento_Sales
+Unhold,Liberar,module,Magento_Sales
+unhold,liberar,module,Magento_Sales
 "Are you sure you want to accept this payment?","Você tem certeza que deseja aceitar este pagamento?",module,Magento_Sales
 "Accept Payment","Aceitar pagamento",module,Magento_Sales
 "Are you sure you want to deny this payment?","Você tem certeza que deseja negar este pagamento?",module,Magento_Sales
@@ -8979,7 +8979,7 @@ Invoice,Fatura,module,Magento_Sales
 Ship,Enviar,module,Magento_Sales
 Reorder,"Refazer pedido",module,Magento_Sales
 "Order # %1 %2 | %3","Pedido # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Esta pedido contém os itens (%1) e, portanto, não pode ser editado através da interface de administração. Se você deseja continuar editando, os itens (%2) serão removidos, o pedido será cancelado e um novo pedido será criado.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Você tem certeza? Este pedido será cancelado e um novo será criado.",module,Magento_Sales
 "Save Gift Message","Salvar a mensagem de presente",module,Magento_Sales
 [deleted],[apagado],module,Magento_Sales
@@ -9068,8 +9068,8 @@ Sales,Vendas,module,Magento_Sales
 "Edit Order","Editar pedido",module,Magento_Sales
 "You sent the order email.","Você enviou o e-mail do pedido.",module,Magento_Sales
 "We can't send the email order right now.","Não foi possível enviar o e-mail do pedido.",module,Magento_Sales
-"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
-"You put the order on hold.","You put the order on hold.",module,Magento_Sales
+"You have not put the order on hold.","Você não colocou o pedido em espera.",module,Magento_Sales
+"You put the order on hold.","Você colocou o pedido em espera.",module,Magento_Sales
 "You canceled the invoice.","Você cancelou a fatura.",module,Magento_Sales
 "Invoice canceling error","Erro ao cancelar a fatura",module,Magento_Sales
 "The invoice has been captured.","A fatura foi capturada.",module,Magento_Sales
@@ -9077,7 +9077,7 @@ Sales,Vendas,module,Magento_Sales
 "You can't create an invoice without products.","Não é possível criar uma fatura sem produtos.",module,Magento_Sales
 "New Invoice","Nova fatura",module,Magento_Sales
 "We can't save the invoice right now.","Não foi possível salvar a fatura.",module,Magento_Sales
-"The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","A fatura e o envio foram criados. A etiqueta de envio não pode ser criada no momento.",module,Magento_Sales
 "You created the invoice and shipment.","Você criou a fatura e a postagem.",module,Magento_Sales
 "The invoice has been created.","A fatura foi criada.",module,Magento_Sales
 "We can't send the invoice email right now.","Não foi possível enviar o e-mail da fatura.",module,Magento_Sales
@@ -9085,12 +9085,12 @@ Sales,Vendas,module,Magento_Sales
 "Cannot update item quantity.","Não foi possível atualizar a quantidade do item.",module,Magento_Sales
 "The invoice has been voided.","A fatura foi anulada.",module,Magento_Sales
 "Invoice voiding error","Ocorreu um erro ao anular a fatura",module,Magento_Sales
-"%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled.",module,Magento_Sales
+"%1 order(s) cannot be canceled.","%1 pedido(s) não puderam ser cancelados.",module,Magento_Sales
 "You cannot cancel the order(s).","Você não pode cancelar o(s) pedido(s).",module,Magento_Sales
 "We canceled %1 order(s).","Nós cancelamos %1 pedido(s).",module,Magento_Sales
-"%1 order(s) were not put on hold.","%1 order(s) were not put on hold.",module,Magento_Sales
-"No order(s) were put on hold.","No order(s) were put on hold.",module,Magento_Sales
-"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
+"%1 order(s) were not put on hold.","%1 pedidos não foram colocados em espera.",module,Magento_Sales
+"No order(s) were put on hold.","Nenhum pedido foi colocado em espera.",module,Magento_Sales
+"You have put %1 order(s) on hold.","Você colocou %1 pedido(s) em espera.",module,Magento_Sales
 "%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
 "No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
 "%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
@@ -10370,30 +10370,30 @@ Action,Ação,module,Magento_Shipping
 SKU,SKU,module,Magento_Shipping
 "Order tracking","Order tracking",module,Magento_Shipping
 "Tracking Number:","Tracking Number:",module,Magento_Shipping
-Carrier:,Carrier:,module,Magento_Shipping
-Error:,Error:,module,Magento_Shipping
-"Tracking information is currently not available. Please","Tracking information is currently not available. Please",module,Magento_Shipping
+Carrier:,Transportadora:,module,Magento_Shipping
+Error:,Erro:,module,Magento_Shipping
+"Tracking information is currently not available. Please","Informações de rastreamento atualmente não está disponível. Por favor",module,Magento_Shipping
 "contact us","contact us",module,Magento_Shipping
 "for more information or","para obter mais informações ou",module,Magento_Shipping
-"email us at","email us at",module,Magento_Shipping
+"email us at","envie e-mail para",module,Magento_Shipping
 Info:,Info:,module,Magento_Shipping
-Track:,Track:,module,Magento_Shipping
+Track:,Rastrear:,module,Magento_Shipping
 ". ':'",". ':'",module,Magento_Shipping
 "Delivered on:","Entregue em:",module,Magento_Shipping
 N/A,"Não Disponível",module,Magento_Shipping
-"There is no tracking available for this shipment.","There is no tracking available for this shipment.",module,Magento_Shipping
-"There is no tracking available.","There is no tracking available.",module,Magento_Shipping
+"There is no tracking available for this shipment.","Não há nenhum rastreamento disponível para esta expedição.",module,Magento_Shipping
+"There is no tracking available.","Não há nenhum rastreamento disponível.",module,Magento_Shipping
 "Close Window","Fechar Janela",module,Magento_Shipping
 "Track history","Track history",module,Magento_Shipping
 Location,Localização,module,Magento_Shipping
 Date,Data,module,Magento_Shipping
-"Local Time","Local Time",module,Magento_Shipping
+"Local Time","Hora local",module,Magento_Shipping
 Description,Descrição,module,Magento_Shipping
 "See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
 "Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
 "Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
 "Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
-"Shipping Settings","Shipping Settings",module,Magento_Shipping
+"Shipping Settings","Detalhes do Envio",module,Magento_Shipping
 Origin,Origem,module,Magento_Shipping
 Country,País,module,Magento_Shipping
 Region/State,Região/estado,module,Magento_Shipping
@@ -10405,7 +10405,7 @@ City,Cidade,module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
 "Shipping Policy","Política de envio",module,Magento_Shipping
 "Shipping Methods","Métodos de envio",module,Magento_Shipping
-"Track your order","Track your order",module,Magento_Shipping
+"Track your order","Rastrear seu pedido",module,Magento_Shipping
 Yes,Sim,module,Magento_Signifyd
 No,Não,module,Magento_Signifyd
 "Submit Guarantee Request","Enviar solicitação de Garantia",module,Magento_Signifyd
