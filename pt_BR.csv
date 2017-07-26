@@ -7026,56 +7026,56 @@ Sales,Vendas,module,Magento_Paypal
 "Sorry, but something went wrong","Desculpe, mas houve algum problema",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Seu pagamento foi recusado. Por favor, tente novamente.",module,Magento_Paypal
 "Requested payment method does not match with order.","O método de pagamento solicitado não coincide com o do pedido.",module,Magento_Paypal
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
-"Error processing payment, please try again later.","Error processing payment, please try again later.",module,Magento_Paypal
-"Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Gostaria de assinar um acordo de faturamento para finalizar as suas futuras compras PayPal mais rapidamente?",module,Magento_Paypal
+"Error processing payment, please try again later.","Erro ao processar o pagamento, por favor tente novamente mais tarde.",module,Magento_Paypal
+"Payment Gateway is unreachable at the moment. Please use another payment option.","O Gateway de Pagamento está inacessível no momento. Por favor, use outra opção de pagamento.",module,Magento_Paypal
 "PayPal response hasn't required fields.","PayPal não tem exigido campos.",module,Magento_Paypal
-"Something went wrong while processing your order.","Something went wrong while processing your order.",module,Magento_Paypal
-"PayPal gateway has rejected request. %1","PayPal gateway has rejected request. %1",module,Magento_Paypal
-"The PayPal gateway rejected the request. %1","The PayPal gateway rejected the request. %1",module,Magento_Paypal
+"Something went wrong while processing your order.","Ocorreu um erro ao processar seu pedido.",module,Magento_Paypal
+"PayPal gateway has rejected request. %1","O gateway PayPal rejeitou a solicitação. %1",module,Magento_Paypal
+"The PayPal gateway rejected the request. %1","O gateway PayPal rejeitou a solicitação. %1",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Sinto muito - mas não fomos capazes de processar o pagamento. Por favor, tente outra forma de pagamento ou entre em contato conosco para que possamos ajudá-lo.",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Sinto muito - não foi capaz de concluir a transação. Entre em contato conosco para que possamos ajudá-lo.",module,Magento_Paypal
-"A match of the Shipping Address City, State, and Postal Code failed.","A match of the Shipping Address City, State, and Postal Code failed.",module,Magento_Paypal
-"The payment method code is not set.","The payment method code is not set.",module,Magento_Paypal
-"The reference ID is not set.","The reference ID is not set.",module,Magento_Paypal
-"Unable to save Billing Agreement:","Unable to save Billing Agreement:",module,Magento_Paypal
+"A match of the Shipping Address City, State, and Postal Code failed.","A Cidade de Entrega, Estado e Código Postal Estão Incorretos.",module,Magento_Paypal
+"The payment method code is not set.","O código do método de pagamento não está definido.",module,Magento_Paypal
+"The reference ID is not set.","O ID de referência não está definido.",module,Magento_Paypal
+"Unable to save Billing Agreement:","Não foi possível gravar o Acordo de Faturamento:",module,Magento_Paypal
 Active,Ativo,module,Magento_Paypal
 Canceled,Cancelado,module,Magento_Paypal
-"The customer ID is not set.","The customer ID is not set.",module,Magento_Paypal
-"The Billing Agreement status is not set.","The Billing Agreement status is not set.",module,Magento_Paypal
-"The PayPal certificate does not exist.","The PayPal certificate does not exist.",module,Magento_Paypal
-"We prefer PayPal (150 X 60)","We prefer PayPal (150 X 60)",module,Magento_Paypal
-"We prefer PayPal (150 X 40)","We prefer PayPal (150 X 40)",module,Magento_Paypal
-"Now accepting PayPal (150 X 60)","Now accepting PayPal (150 X 60)",module,Magento_Paypal
-"Now accepting PayPal (150 X 40)","Now accepting PayPal (150 X 40)",module,Magento_Paypal
-"Payments by PayPal (150 X 60)","Payments by PayPal (150 X 60)",module,Magento_Paypal
-"Payments by PayPal (150 X 40)","Payments by PayPal (150 X 40)",module,Magento_Paypal
-"Shop now using (150 X 60)","Shop now using (150 X 60)",module,Magento_Paypal
-"Shop now using (150 X 40)","Shop now using (150 X 40)",module,Magento_Paypal
+"The customer ID is not set.","O ID de cliente não está definido.",module,Magento_Paypal
+"The Billing Agreement status is not set.","O estado do Acordo de faturamento não está definido.",module,Magento_Paypal
+"The PayPal certificate does not exist.","O certificado PayPal não existe.",module,Magento_Paypal
+"We prefer PayPal (150 X 60)","Nós preferimos PayPal (150 X 60)",module,Magento_Paypal
+"We prefer PayPal (150 X 40)","Nós preferimos PayPal (150 X 40)",module,Magento_Paypal
+"Now accepting PayPal (150 X 60)","Aceitamos PayPal (150 X 60)",module,Magento_Paypal
+"Now accepting PayPal (150 X 40)","Aceitamos PayPal (150 X 40)",module,Magento_Paypal
+"Payments by PayPal (150 X 60)","Pagamentos por PayPal (150 X 60)",module,Magento_Paypal
+"Payments by PayPal (150 X 40)","Pagamentos por PayPal (150 X 40)",module,Magento_Paypal
+"Shop now using (150 X 60)","Compre agora usando (150 X 60)",module,Magento_Paypal
+"Shop now using (150 X 40)","Compre agora usando (150 X 40)",module,Magento_Paypal
 Dynamic,Dinâmico,module,Magento_Paypal
 Static,Estático,module,Magento_Paypal
-Shortcut,Shortcut,module,Magento_Paypal
-"Acceptance Mark Image","Acceptance Mark Image",module,Magento_Paypal
+Shortcut,Atalho,module,Magento_Paypal
+"Acceptance Mark Image","Imagem de Marca de Aceitação",module,Magento_Paypal
 Authorization,Autorização,module,Magento_Paypal
-Sale,Sale,module,Magento_Paypal
+Sale,Venda,module,Magento_Paypal
 Yes,Sim,module,Magento_Paypal
 No,Não,module,Magento_Paypal
-"For Virtual Quotes Only","For Virtual Quotes Only",module,Magento_Paypal
+"For Virtual Quotes Only","Apenas para Orçamentos Virtuais",module,Magento_Paypal
 Auto,Automático,module,Magento_Paypal
 "Ask Customer","Pergunte ao cliente",module,Magento_Paypal
 Never,Nunca,module,Magento_Paypal
-"IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) Only",module,Magento_Paypal
-"API Signature","API Signature",module,Magento_Paypal
-"API Certificate","API Certificate",module,Magento_Paypal
-"The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway.",module,Magento_Paypal
+"IPN (Instant Payment Notification) Only","Apenas IPN (Instant Payment Notification)",module,Magento_Paypal
+"API Signature","Assinatura da API",module,Magento_Paypal
+"API Certificate","Certificado da API",module,Magento_Paypal
+"The ordering amount of %1 is pending approval on the payment gateway.","O valor de %1 está com aprovação pendente no gateway de pagamentos.",module,Magento_Paypal
 "Ordered amount of %1","Valor comprado de %1",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Vamos autorizar a quantidade de %1  logo que o gateway de pagamento aprove.",module,Magento_Paypal
-"The authorized amount is %1.","The authorized amount is %1.",module,Magento_Paypal
-"The maximum number of child authorizations is reached.","The maximum number of child authorizations is reached.",module,Magento_Paypal
+"The authorized amount is %1.","O valor autorizado é %1.",module,Magento_Paypal
+"The maximum number of child authorizations is reached.","Foi atingido o número máximo de autorizações descendentes.",module,Magento_Paypal
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal não pode processar ordens com um zero saldo devido. Para finalizar sua compra, por favor, vá através do processo de compra standard.",module,Magento_Paypal
-"A payer is not identified.","A payer is not identified.",module,Magento_Paypal
-"Cannot get secure form URL from PayPal","Cannot get secure form URL from PayPal",module,Magento_Paypal
-"Last Transaction ID","Last Transaction ID",module,Magento_Paypal
+"A payer is not identified.","Um pagador não foi identificado.",module,Magento_Paypal
+"Cannot get secure form URL from PayPal","Não foi possível obter o URL de formulário seguro do PayPal",module,Magento_Paypal
+"Last Transaction ID","ID da Última Transação",module,Magento_Paypal
 "This customer didn't include a confirmed address.","Este cliente não incluiu um endereço confirmado.",module,Magento_Paypal
 "The payment is authorized but not settled.","The payment is authorized but not settled.",module,Magento_Paypal
 "The payment eCheck is not cleared.","The payment eCheck is not cleared.",module,Magento_Paypal
@@ -7090,10 +7090,10 @@ Never,Nunca,module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
 "A reversal has occurred on this transaction because you have given the customer a refund.","A reversal has occurred on this transaction because you have given the customer a refund.",module,Magento_Paypal
-"Reversal of an adjustment.","Reversal of an adjustment.",module,Magento_Paypal
+"Reversal of an adjustment.","Revogação de um ajuste.",module,Magento_Paypal
 "Transaction reversal due to fraud detected by PayPal administrators.","Transaction reversal due to fraud detected by PayPal administrators.",module,Magento_Paypal
 "Transaction reversal by PayPal administrators.","Transaction reversal by PayPal administrators.",module,Magento_Paypal
-"Reimbursement for a chargeback.","Reimbursement for a chargeback.",module,Magento_Paypal
+"Reimbursement for a chargeback.","Reembolso para uma devolução.",module,Magento_Paypal
 "Settlement of a chargeback.","Settlement of a chargeback.",module,Magento_Paypal
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",module,Magento_Paypal
 "Buyer claims that he did not receive goods or service.","Comprador afirma que ele não recebeu a mercadoria ou serviço.",module,Magento_Paypal
@@ -7134,62 +7134,62 @@ Dispute,Dispute,module,Magento_Paypal
 "Matched five-digit ZIP only (no Address)","Matched five-digit ZIP only (no Address)",module,Magento_Paypal
 "Matched Postal Code only (no Address)","Matched Postal Code only (no Address)",module,Magento_Paypal
 "N/A. Retry","N/A. Retry",module,Magento_Paypal
-"N/A. Service not Supported","N/A. Service not Supported",module,Magento_Paypal
-"N/A. Unavailable","N/A. Unavailable",module,Magento_Paypal
+"N/A. Service not Supported","N/D. Serviço não suportado",module,Magento_Paypal
+"N/A. Unavailable","N/D. Indisponível",module,Magento_Paypal
 "Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)",module,Magento_Paypal
 "Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP",module,Magento_Paypal
 "All the address information matched","All the address information matched",module,Magento_Paypal
 "None of the address information matched","None of the address information matched",module,Magento_Paypal
-"Part of the address information matched","Part of the address information matched",module,Magento_Paypal
+"Part of the address information matched","Parte das informações do endereço combinaram",module,Magento_Paypal
 "N/A. The merchant did not provide AVS information","N/A. The merchant did not provide AVS information",module,Magento_Paypal
 "N/A. Address not checked, or acquirer had no response. Service not available","N/A. Address not checked, or acquirer had no response. Service not available",module,Magento_Paypal
 "Matched (CVV2CSC)","Matched (CVV2CSC)",module,Magento_Paypal
-"No match","No match",module,Magento_Paypal
-"N/A. Not processed","N/A. Not processed",module,Magento_Paypal
-"N/A. Service not supported","N/A. Service not supported",module,Magento_Paypal
-"N/A. Service not available","N/A. Service not available",module,Magento_Paypal
-"N/A. No response","N/A. No response",module,Magento_Paypal
+"No match","Não corresponde",module,Magento_Paypal
+"N/A. Not processed","N/D. Não processado",module,Magento_Paypal
+"N/A. Service not supported","N/D. Serviço não suportado",module,Magento_Paypal
+"N/A. Service not available","N/D. Serviço não disponível",module,Magento_Paypal
+"N/A. No response","N/D. Nenhuma resposta",module,Magento_Paypal
 "Matched (CVV2)","Matched (CVV2)",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/A. The merchant has not implemented CVV2 code handling",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/A. Merchant has indicated that CVV2 is not present on card",module,Magento_Paypal
 CNPJ,CNPJ,module,Magento_Paypal
 CPF,CPF,module,Magento_Paypal
-"Note: %1","Note: %1",module,Magento_Paypal
+"Note: %1","Nota: %1",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.",module,Magento_Paypal
 "You notified customer about invoice #%1.","You notified customer about invoice #%1.",module,Magento_Paypal
-"We cannot cancel this order.","We cannot cancel this order.",module,Magento_Paypal
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""",module,Magento_Paypal
-"You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1.",module,Magento_Paypal
+"We cannot cancel this order.","Você não pode cancelar esse pedido.",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Valor da Transação %3. ID de Transação: ""%4""",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","Você notificou o cliente referente a nota de crédito #%1.",module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
-"Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
-"Unable to fetch transaction details.","Unable to fetch transaction details.",module,Magento_Paypal
-"Invalid method %1::%2","Invalid method %1::%2",module,Magento_Paypal
-"Transaction has been declined","Transaction has been declined",module,Magento_Paypal
-"Error processing payment. Please try again later.","Error processing payment. Please try again later.",module,Magento_Paypal
-"We cannot send the new order email.","We cannot send the new order email.",module,Magento_Paypal
-"Payment error. %value was not found.","Payment error. %value was not found.",module,Magento_Paypal
-"You cannot void a verification transaction.","You cannot void a verification transaction.",module,Magento_Paypal
-"You need an authorization transaction to void.","You need an authorization transaction to void.",module,Magento_Paypal
+"Payflow PNREF: #%1.","Fluxo de pagamento PNREF: #%1.",module,Magento_Paypal
+"Unable to fetch transaction details.","Não foi possível obter os detalhes da transação.",module,Magento_Paypal
+"Invalid method %1::%2","Método inválido %1::%2",module,Magento_Paypal
+"Transaction has been declined","A transação foi recusada",module,Magento_Paypal
+"Error processing payment. Please try again later.","Erro ao processar o pagamento. Por favor, tente novamente mais tarde.",module,Magento_Paypal
+"We cannot send the new order email.","Não conseguimos enviar o email do novo pedido.",module,Magento_Paypal
+"Payment error. %value was not found.","Erro de pagamento. % do valor não foi encontrado.",module,Magento_Paypal
+"You cannot void a verification transaction.","Você não pode anular uma transação de verificação.",module,Magento_Paypal
+"You need an authorization transaction to void.","Precisa de uma transação de autorização para anular.",module,Magento_Paypal
 "We can't issue a refund transaction because there is no capture transaction.","Não podemos emitir uma transação reembolso porque não há nenhuma operação de captura.",module,Magento_Paypal
-"We cannot create a target file for reading reports.","We cannot create a target file for reading reports.",module,Magento_Paypal
-"Report Date","Report Date",module,Magento_Paypal
-"Merchant Account","Merchant Account",module,Magento_Paypal
+"We cannot create a target file for reading reports.","Não conseguimos criar um arquivo de destino para a leitura de relatórios.",module,Magento_Paypal
+"Report Date","Data do Relatório",module,Magento_Paypal
+"Merchant Account","Conta de Comerciante",module,Magento_Paypal
 "Transaction ID","ID Transação",module,Magento_Paypal
-"Invoice ID","Invoice ID",module,Magento_Paypal
-"PayPal Reference ID","PayPal Reference ID",module,Magento_Paypal
-"PayPal Reference ID Type","PayPal Reference ID Type",module,Magento_Paypal
-"Event Code","Event Code",module,Magento_Paypal
+"Invoice ID","ID da Fatura",module,Magento_Paypal
+"PayPal Reference ID","ID de Referência PayPal",module,Magento_Paypal
+"PayPal Reference ID Type","Tipo do ID da Referência PayPal",module,Magento_Paypal
+"Event Code","Código do Evento",module,Magento_Paypal
 Event,Evento,module,Magento_Paypal
 "Start Date","Data de Início",module,Magento_Paypal
-"Finish Date","Finish Date",module,Magento_Paypal
-"Debit or Credit","Debit or Credit",module,Magento_Paypal
-"Gross Amount","Gross Amount",module,Magento_Paypal
-"Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
-"Fee Amount","Fee Amount",module,Magento_Paypal
+"Finish Date","Data de Término",module,Magento_Paypal
+"Debit or Credit","Débito ou Crédito",module,Magento_Paypal
+"Gross Amount","Montante Bruto",module,Magento_Paypal
+"Fee Debit or Credit","Taxa de Débito ou Crédito",module,Magento_Paypal
+"Fee Amount","Valor da Taxa",module,Magento_Paypal
 Custom,Personalizado,module,Magento_Paypal
 "Order ID","ID do Pedido",module,Magento_Paypal
-"Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
+"Preapproved Payment ID","ID do Pagamento Pré-aprovado",module,Magento_Paypal
 "Subscription ID","Subscription ID",module,Magento_Paypal
 Credit,Credit,module,Magento_Paypal
 Debit,Debit,module,Magento_Paypal
@@ -7242,24 +7242,24 @@ Funding,Funding,module,Magento_Paypal
 "Gift Certificate Redemption","Gift Certificate Redemption",module,Magento_Paypal
 "Hidden Virtual PayPal Debit Card Transaction","Hidden Virtual PayPal Debit Card Transaction",module,Magento_Paypal
 "Hold for Dispute Investigation","Hold for Dispute Investigation",module,Magento_Paypal
-Incentive,Incentive,module,Magento_Paypal
-"Mass Pay Payment","Mass Pay Payment",module,Magento_Paypal
-"Merchant Referral Bonus","Merchant Referral Bonus",module,Magento_Paypal
+Incentive,Incentivo,module,Magento_Paypal
+"Mass Pay Payment","Múltiplos Pagamentos",module,Magento_Paypal
+"Merchant Referral Bonus","Bónus de Referência de Comerciantes",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Mobile Payment (made via a mobile phone)",module,Magento_Paypal
-"Negative Balance","Negative Balance",module,Magento_Paypal
-"Open Authorization","Open Authorization",module,Magento_Paypal
+"Negative Balance","Saldo Negativo",module,Magento_Paypal
+"Open Authorization","Autorização Aberta",module,Magento_Paypal
 "PayPal Balance Manager function of PayPal account","PayPal Balance Manager function of PayPal account",module,Magento_Paypal
 "PayPal Buyer Warranty Bonus","PayPal Buyer Warranty Bonus",module,Magento_Paypal
 "PayPal Debit Card Cash Advance","PayPal Debit Card Cash Advance",module,Magento_Paypal
 "PayPal Debit Card Withdrawal from ATM","PayPal Debit Card Withdrawal from ATM",module,Magento_Paypal
 "PayPal Protection Bonus","PayPal Protection Bonus",module,Magento_Paypal
 "Payment Refund initiated by merchant","Reembolso de pagamento iniciada pelo comerciante",module,Magento_Paypal
-"Points Incentive Redemption","Points Incentive Redemption",module,Magento_Paypal
+"Points Incentive Redemption","Desconto de Pontos de Incentivo",module,Magento_Paypal
 "Postage Payment to either USPS or UPS","Postage Payment to either USPS or UPS",module,Magento_Paypal
 "Preapproved Payment (BillUser API, either sent or received","Preapproved Payment (BillUser API, either sent or received",module,Magento_Paypal
-Reauthorization,Reauthorization,module,Magento_Paypal
+Reauthorization,Re-autorização,module,Magento_Paypal
 "Reimbursement of Chargeback","Reimbursement of Chargeback",module,Magento_Paypal
-Reversal,Reversal,module,Magento_Paypal
+Reversal,Reversão,module,Magento_Paypal
 "Reversal of General Account Hold","Reversal of General Account Hold",module,Magento_Paypal
 "Reversal of Points Usage","Reversal of Points Usage",module,Magento_Paypal
 "Reversal of hold for Dispute Investigation","Reversal of hold for Dispute Investigation",module,Magento_Paypal
@@ -7278,9 +7278,9 @@ Void,Anular,module,Magento_Paypal
 "Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
 "--Please Select--","--Por Favor Selecione--",module,Magento_Paypal
 Daily,Diário,module,Magento_Paypal
-"Every 3 days","Every 3 days",module,Magento_Paypal
-"Every 7 days","Every 7 days",module,Magento_Paypal
-"Every 10 days","Every 10 days",module,Magento_Paypal
+"Every 3 days","A cada 3 dias",module,Magento_Paypal
+"Every 7 days","A cada 7 dias",module,Magento_Paypal
+"Every 10 days","A cada 10 dias",module,Magento_Paypal
 "Every 14 days","Every 14 days",module,Magento_Paypal
 "Every 30 days","Every 30 days",module,Magento_Paypal
 "Every 40 days","Every 40 days",module,Magento_Paypal
@@ -7297,21 +7297,21 @@ Error,Erro,module,Magento_Paypal
 Customer,Cliente,module,Magento_Paypal
 "Created At","Criado em",module,Magento_Paypal
 "Updated At","Updated At",module,Magento_Paypal
-ending,ending,module,Magento_Paypal
-expires,expires,module,Magento_Paypal
+ending,"acabando em",module,Magento_Paypal
+expires,"expira em",module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click","Not sure what PayPal payment method to use? Click",module,Magento_Paypal
-here,here,module,Magento_Paypal
-"to learn more.","to learn more.",module,Magento_Paypal
-Important:,Important:,module,Magento_Paypal
+here,aqui,module,Magento_Paypal
+"to learn more.","para saber mais.",module,Magento_Paypal
+Important:,Importante:,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
-"Credit Card Type","Credit Card Type",module,Magento_Paypal
-"Credit Card Number","Credit Card Number",module,Magento_Paypal
-"Expiration Date","Expiration Date",module,Magento_Paypal
-"Card Verification Number","Card Verification Number",module,Magento_Paypal
-"Billing Agreement #","Billing Agreement #",module,Magento_Paypal
+"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Paypal
+"Credit Card Number","Número do Cartão de Crédito",module,Magento_Paypal
+"Expiration Date","Data de Validade",module,Magento_Paypal
+"Card Verification Number","Número de Verificação de Cartão",module,Magento_Paypal
+"Billing Agreement #","Acordo de Cobrança #",module,Magento_Paypal
 "Agreement Information","Agreement Information",module,Magento_Paypal
 "Reference ID:","Reference ID:",module,Magento_Paypal
 Status:,Status:,module,Magento_Paypal
@@ -7358,7 +7358,7 @@ Continue,Próximo,module,Magento_Paypal
 "Additional Options","Additional Options",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Please Select Billing Agreement--",module,Magento_Paypal
 "Acceptance Mark","Acceptance Mark",module,Magento_Paypal
-"What is PayPal?","What is PayPal?",module,Magento_Paypal
+"What is PayPal?","O que é o PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
 "Continue to PayPal","Continue to PayPal",module,Magento_Paypal
@@ -7367,9 +7367,9 @@ Continue,Próximo,module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
 "PayPal Section","PayPal Section",module,Magento_Paypal
 "PayPal Settlement","PayPal Settlement",module,Magento_Paypal
-Fetch,Fetch,module,Magento_Paypal
-Actions,Actions,module,Magento_Paypal
-Manage,Manage,module,Magento_Paypal
+Fetch,Busca,module,Magento_Paypal
+Actions,Ações,module,Magento_Paypal
+Manage,Gerenciar,module,Magento_Paypal
 "Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
 "Merchant Location","Merchant Location",module,Magento_Paypal
 "Merchant Country","Merchant Country",module,Magento_Paypal
@@ -7391,32 +7391,32 @@ Manage,Manage,module,Magento_Paypal
 "Website Payments Pro","Website Payments Pro",module,Magento_Paypal
 "Express Checkout","Express Checkout",module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.","Add PayPal as an additional payment method to your checkout page.",module,Magento_Paypal
-"Required PayPal Settings","Required PayPal Settings",module,Magento_Paypal
+"Required PayPal Settings","Configurações de PayPal Necessárias",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","Email Associated with PayPal Merchant Account (Optional)",module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Não tem uma conta PayPal? Basta digite o seu endereço de e-mail.",module,Magento_Paypal
-"API Authentication Methods","API Authentication Methods",module,Magento_Paypal
+"API Authentication Methods","Métodos de Autenticação da API",module,Magento_Paypal
 "API Username","Nome de usuário API",module,Magento_Paypal
-"API Password","API Password",module,Magento_Paypal
-"Get Credentials from PayPal","Get Credentials from PayPal",module,Magento_Paypal
-"Sandbox Mode","Sandbox Mode",module,Magento_Paypal
-"API Uses Proxy","API Uses Proxy",module,Magento_Paypal
-"Proxy Host","Proxy Host",module,Magento_Paypal
-"Proxy Port","Proxy Port",module,Magento_Paypal
-"Enable this Solution","Enable this Solution",module,Magento_Paypal
-"Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
+"API Password","Senha da API",module,Magento_Paypal
+"Get Credentials from PayPal","Obter Credenciais da PayPal",module,Magento_Paypal
+"Sandbox Mode","Modo Sandbox",module,Magento_Paypal
+"API Uses Proxy","API usa Proxy",module,Magento_Paypal
+"Proxy Host","Host do Proxy",module,Magento_Paypal
+"Proxy Port","Porta do Proxy",module,Magento_Paypal
+"Enable this Solution","Habilitar esta Solução",module,Magento_Paypal
+"Enable In-Context Checkout Experience","Ativar Experiência Checkout no Contexto",module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
-"Merchant Account ID","Merchant Account ID",module,Magento_Paypal
-"Enable PayPal Credit","Enable PayPal Credit",module,Magento_Paypal
+"Merchant Account ID","ID da Conta de Comerciante",module,Magento_Paypal
+"Enable PayPal Credit","Ativar Crédito PayPal",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
 "Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
-"Advertise PayPal Credit","Advertise PayPal Credit",module,Magento_Paypal
+"Advertise PayPal Credit","Anunciar Crédito PayPal",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -7428,21 +7428,21 @@ Manage,Manage,module,Magento_Paypal
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
-"Publisher ID","Publisher ID",module,Magento_Paypal
+"Publisher ID","ID do Editor",module,Magento_Paypal
 "Required to display a banner","Required to display a banner",module,Magento_Paypal
 "Get Publisher ID from PayPal","Get Publisher ID from PayPal",module,Magento_Paypal
 "Home Page","Página inicial",module,Magento_Paypal
 Display,Exibir,module,Magento_Paypal
 Position,Posição,module,Magento_Paypal
 Size,Tamanho,module,Magento_Paypal
-"Catalog Category Page","Catalog Category Page",module,Magento_Paypal
-"Catalog Product Page","Catalog Product Page",module,Magento_Paypal
-"Checkout Cart Page","Checkout Cart Page",module,Magento_Paypal
+"Catalog Category Page","Página de Categoria",module,Magento_Paypal
+"Catalog Product Page","Página de Produto",module,Magento_Paypal
+"Checkout Cart Page","Página do Carrinho de Compras",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Basic Settings - PayPal Express Checkout",module,Magento_Paypal
 Title,Título,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Paypal
 "Sort Order",Ordernação,module,Magento_Paypal
-"Payment Action","Payment Action",module,Magento_Paypal
+"Payment Action","Ação de Pagamento",module,Magento_Paypal
 "Display on Product Details Page","Display on Product Details Page",module,Magento_Paypal
 "Authorization Honor Period (days)","Authorization Honor Period (days)",module,Magento_Paypal
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
@@ -7456,7 +7456,7 @@ Title,Título,module,Magento_Paypal
 "Payment Applicable From","Payment Applicable From",module,Magento_Paypal
 "Countries Payment Applicable From","Countries Payment Applicable From",module,Magento_Paypal
 "Debug Mode","Modo de depuração",module,Magento_Paypal
-"Enable SSL verification","Enable SSL verification",module,Magento_Paypal
+"Enable SSL verification","Ativar Verificação SSL",module,Magento_Paypal
 "Transfer Cart Line Items","Transfer Cart Line Items",module,Magento_Paypal
 "Transfer Shipping Options","Transfer Shipping Options",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.",module,Magento_Paypal
@@ -9763,10 +9763,10 @@ Promotions,Promoções,module,Magento_SalesRule
 "Edit Rule","Editar Regra",module,Magento_SalesRule
 "New Rule","Nova Regra",module,Magento_SalesRule
 "New Cart Price Rule","Nova Regra de Preço do Carrinho",module,Magento_SalesRule
-"Rule is not defined","Rule is not defined",module,Magento_SalesRule
+"Rule is not defined","Regra não definida",module,Magento_SalesRule
 "Invalid data provided","Os dados fornecidos são inválidos",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","Foram gerados %1 cupons.",module,Magento_SalesRule
-"Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.","Houve algum problema ao gerar os cupons. Por favor, analise o log e tente novamente.",module,Magento_SalesRule
 Catalog,Catálogo,module,Magento_SalesRule
 "The wrong rule is specified.","Foi especificada uma regra errada.",module,Magento_SalesRule
 "You saved the rule.","Você gravou a regra.",module,Magento_SalesRule
@@ -9774,14 +9774,14 @@ Catalog,Catálogo,module,Magento_SalesRule
 Alphanumeric,Alfanumérico,module,Magento_SalesRule
 Alphabetical,Alfabética,module,Magento_SalesRule
 Numeric,Numérico,module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.","We cannot create the requested Coupon Qty. Please check your settings and try again.",module,Magento_SalesRule
-"Specified rule does not allow coupons","Specified rule does not allow coupons",module,Magento_SalesRule
-"Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
-"Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
-"Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","Não conseguimos criar a quantidade solicitada de cupons. Por favor, verifique as suas configurações e tente novamente.",module,Magento_SalesRule
+"Specified rule does not allow coupons","A regra especificada não permite cupons",module,Magento_SalesRule
+"Specified rule only allows auto generated coupons","A regra especificada permite apenas cupons gerados automaticamente",module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons","A regra especificada não permite cupons gerados automaticamente",module,Magento_SalesRule
+"Error occurred when saving coupon: %1","Ocorreu um erro ao gravar o cupom: %1",module,Magento_SalesRule
 "Discount (%1)","Desconto (%1)",module,Magento_SalesRule
 Discount,Desconto,module,Magento_SalesRule
-"Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
+"Coupon with the same code","Cupom com o mesmo código",module,Magento_SalesRule
 "No Coupon","Sem cupom",module,Magento_SalesRule
 "Specific Coupon","Cupom específico",module,Magento_SalesRule
 Auto,Automático,module,Magento_SalesRule
@@ -9794,28 +9794,28 @@ Auto,Automático,module,Magento_SalesRule
 "By Percentage","Por Percentagem",module,Magento_SalesRule
 "Update product's %1 %2: %3","Atualizar produto(s) %1 %2: %3",module,Magento_SalesRule
 Subtotal,Subtotal,module,Magento_SalesRule
-"Total Items Quantity","Total Items Quantity",module,Magento_SalesRule
+"Total Items Quantity","Quantidade Total de Itens",module,Magento_SalesRule
 "Total Weight","Peso total",module,Magento_SalesRule
 "Shipping Method","Método de Entrega",module,Magento_SalesRule
-"Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
-"Shipping Region","Shipping Region",module,Magento_SalesRule
-"Shipping State/Province","Shipping State/Province",module,Magento_SalesRule
-"Shipping Country","Shipping Country",module,Magento_SalesRule
-"Product attribute combination","Product attribute combination",module,Magento_SalesRule
-"Products subselection","Products subselection",module,Magento_SalesRule
-"Conditions combination","Conditions combination",module,Magento_SalesRule
-"Cart Attribute","Cart Attribute",module,Magento_SalesRule
-"Quantity in cart","Quantity in cart",module,Magento_SalesRule
-"Price in cart","Price in cart",module,Magento_SalesRule
-"Row total in cart","Row total in cart",module,Magento_SalesRule
+"Shipping Postcode","Código de Postal de Entrega",module,Magento_SalesRule
+"Shipping Region","Região de Entrega",module,Magento_SalesRule
+"Shipping State/Province","Região/Distrito de Entrega",module,Magento_SalesRule
+"Shipping Country","País de Entrega",module,Magento_SalesRule
+"Product attribute combination","Combinação de atributos de produto",module,Magento_SalesRule
+"Products subselection","Sub-seleção de produtos",module,Magento_SalesRule
+"Conditions combination","Combinação de condições",module,Magento_SalesRule
+"Cart Attribute","Atributo de Carrinho",module,Magento_SalesRule
+"Quantity in cart","Quantidade no carrinho",module,Magento_SalesRule
+"Price in cart","Preço no carrinho",module,Magento_SalesRule
+"Row total in cart","Total de linha no carrinho",module,Magento_SalesRule
 "Conditions Combination","Combinação de Condições",module,Magento_SalesRule
-"Cart Item Attribute","Cart Item Attribute",module,Magento_SalesRule
+"Cart Item Attribute","Atributo de Item do Carrinho",module,Magento_SalesRule
 "Product Attribute","Atributo do Produto",module,Magento_SalesRule
-FOUND,FOUND,module,Magento_SalesRule
-"NOT FOUND","NOT FOUND",module,Magento_SalesRule
-"If an item is %1 in the cart with %2 of these conditions true:","If an item is %1 in the cart with %2 of these conditions true:",module,Magento_SalesRule
-"total quantity","total quantity",module,Magento_SalesRule
-"total amount","total amount",module,Magento_SalesRule
+FOUND,ENCONTRADO,module,Magento_SalesRule
+"NOT FOUND","NÃO ENCONTRADO",module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","Se um item estiver %1 no carrinho e %2 destas condições forem verdadeiras:",module,Magento_SalesRule
+"total quantity","quantidade total",module,Magento_SalesRule
+"total amount","montante total",module,Magento_SalesRule
 is,é,module,Magento_SalesRule
 "is not","não é",module,Magento_SalesRule
 "equals or greater than","é igual ou maior que",module,Magento_SalesRule
@@ -9824,54 +9824,54 @@ is,é,module,Magento_SalesRule
 "less than","menos que",module,Magento_SalesRule
 "is one of","é um dos",module,Magento_SalesRule
 "is not one of","não é um dos",module,Magento_SalesRule
-"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:",module,Magento_SalesRule
-"Percent of product price discount","Percent of product price discount",module,Magento_SalesRule
-"Fixed amount discount","Fixed amount discount",module,Magento_SalesRule
-"Fixed amount discount for whole cart","Fixed amount discount for whole cart",module,Magento_SalesRule
-"Buy X get Y free (discount amount is Y)","Buy X get Y free (discount amount is Y)",module,Magento_SalesRule
+"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Se %1 %2 %3 para uma sub-seleção de itens no carrinho com uma correspondendo %4 destas condições:",module,Magento_SalesRule
+"Percent of product price discount","Percentagem do desconto do preço do produto",module,Magento_SalesRule
+"Fixed amount discount","Desconto de valor fixo",module,Magento_SalesRule
+"Fixed amount discount for whole cart","Desconto de valor fixo para todo o carrinho",module,Magento_SalesRule
+"Buy X get Y free (discount amount is Y)","Compre X receba Y grátis (o valor do desconto é Y)",module,Magento_SalesRule
 Active,Ativo,module,Magento_SalesRule
 Inactive,Inativo,module,Magento_SalesRule
-"Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
-"Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
-"Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
-"Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
-"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
+"Specified rule does not allow automatic coupon generation","A regra especificada não permite a geração de cupons automática",module,Magento_SalesRule
+"Error occurred when generating coupons: %1","Ocorreu um erro ao gerar cupons: %1",module,Magento_SalesRule
+"Some coupons are invalid.","Alguns cupons são inválidos.",module,Magento_SalesRule
+"Item totals are not set for the rule.","Os totais dos itens não estão definidos para a regra.",module,Magento_SalesRule
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Regras de Preço do Carrinho baseadas em ""%2"" atributos foram desativadas.",module,Magento_SalesRule
 "Apply Discount Code","Aplicar Cupom de Desconto",module,Magento_SalesRule
 "Enter discount code","Inserir cupom de desconto",module,Magento_SalesRule
 "Apply Discount","Aplicar Desconto",module,Magento_SalesRule
-"Cancel coupon","Cancel coupon",module,Magento_SalesRule
-"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
-Promotion,Promotion,module,Magento_SalesRule
-"Auto Generated Specific Coupon Codes","Auto Generated Specific Coupon Codes",module,Magento_SalesRule
+"Cancel coupon","Cancelar cupom",module,Magento_SalesRule
+"Your coupon was successfully removed.","Seu cupom foi removido com sucesso.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Seu cupom foi aplicado com sucesso.",module,Magento_SalesRule
+Promotion,Promoção,module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes","Códigos de Cupom Gerados Automaticamente Específicos",module,Magento_SalesRule
 "Web Site",Website,module,Magento_SalesRule
 Priority,Prioridade,module,Magento_SalesRule
 "Cart Price Rule","Regra de preço no carrinho",module,Magento_SalesRule
-Back,Back,module,Magento_SalesRule
-"Currently Active","Currently Active",module,Magento_SalesRule
+Back,Voltar,module,Magento_SalesRule
+"Currently Active","Atualmente Ativo",module,Magento_SalesRule
 "Rule Information","Informações da Regra",module,Magento_SalesRule
 "Rule Name","Nome da regra",module,Magento_SalesRule
 Description,Descrição,module,Magento_SalesRule
 Websites,Websites,module,Magento_SalesRule
 "Customer Groups","Grupos de Cliente",module,Magento_SalesRule
 Coupon,Cupom,module,Magento_SalesRule
-"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
-"If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
-"Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
+"Use Auto Generation","Usar Geração Automática",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","Se você selecionar e gravar a regra irá conseguir gerar múltiplos códigos de cupom.",module,Magento_SalesRule
+"Uses per Coupon","Usos por Cupom",module,Magento_SalesRule
 "Uses per Customer","Usos por cliente",module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Limite de uso imposto apenas para clientes com sessão iniciada.",module,Magento_SalesRule
 From,De,module,Magento_SalesRule
 To,Até,module,Magento_SalesRule
-"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
+"Public In RSS Feed","Público No Feed RSS",module,Magento_SalesRule
 Apply,Aplicar,module,Magento_SalesRule
 "Discount Amount","Quantidade do Desconto",module,Magento_SalesRule
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
-"Discount amount is applied to subtotal only","Discount amount is applied to subtotal only",module,Magento_SalesRule
-"Discount amount is applied to subtotal and shipping amount separately","Discount amount is applied to subtotal and shipping amount separately",module,Magento_SalesRule
-"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRule
+"Maximum Qty Discount is Applied To","Desconto Máximo Quantidade é Aplicado Para",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Incremento de Desconto de Quantidade (Compre X)",module,Magento_SalesRule
+"Discount amount is applied to subtotal only","Valor do desconto é aplicado somente ao subtotal",module,Magento_SalesRule
+"Discount amount is applied to subtotal and shipping amount separately","Valor do desconto é aplicado aos valores de subtotal e frete separadamente",module,Magento_SalesRule
+"Apply to Shipping Amount","Aplicar ao Valor de Entrega",module,Magento_SalesRule
 "Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_SalesRule
-"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRule
+"Default Rule Label for All Store Views","Rótulo de Regra Padrão para Todas as Visões de Loja",module,Magento_SalesRule
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Ocorreu um erro durante o processamento; A data de expiração do cupom com id %1 não foi atualizada. A mensagem de erro foi: %2",module,Magento_SalesRuleStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.",Todos.,module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
@@ -10105,7 +10105,7 @@ Store,Loja,module,Magento_Search
 Marketing,Marketing,module,Magento_Search
 "Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Os Sinónimos de Pesquisa não são suportados pelo motor de pesquisa %1. Quaisquer sinónimos que introduza não serão usados.",module,Magento_Search
 "This synonym group no longer exists.","Este grupo de sinónimos já não existe.",module,Magento_Search
-"You saved the synonym group.","You saved the synonym group.",module,Magento_Search
+"You saved the synonym group.","Grupo de sinônimos salvo.",module,Magento_Search
 "The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Os termos que introduziu, (%1), pertencem a 1 grupo de sinónimos existente, %2. Selecione a opção ""Combinar sinónimos existentes"" para que os termos possam ser combinados.",module,Magento_Search
 "The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Os termos que introduziu, (%1), pertencem a %2 grupos de sinônimos existentes, %3 e %4. Selecione a opção ""Combinar sinônimos existentes"" para que os termos possam ser combinados.",module,Magento_Search
 "You deleted the search.","Você excluiu a pesquisa.",module,Magento_Search
@@ -10117,17 +10117,17 @@ Marketing,Marketing,module,Magento_Search
 Reports,Relatórios,module,Magento_Search
 "Search Terms Report","Relatório de termos de pesquisa",module,Magento_Search
 "You saved the search term.","Você salvou o termo de pesquisa.",module,Magento_Search
-"Something went wrong while saving the search query.","Something went wrong while saving the search query.",module,Magento_Search
+"Something went wrong while saving the search query.","Algo deu errado ao gravar a query de pesquisa.",module,Magento_Search
 "You already have an identical search term query.","Já tem uma query de pesquisa idêntica.",module,Magento_Search
 "Your search query can't be longer than %1, so we shortened your query.","A sua query de pesquisa não pode ser superior a %1, por isso encurtámos a sua query.",module,Magento_Search
-"Synonym group with id %1 cannot be deleted. %2","Synonym group with id %1 cannot be deleted. %2",module,Magento_Search
-"Merge conflict with existing synonym group(s): %1","Merge conflict with existing synonym group(s): %1",module,Magento_Search
+"Synonym group with id %1 cannot be deleted. %2","O grupo de sinônimos com id %1 não pode ser removido. %2",module,Magento_Search
+"Merge conflict with existing synonym group(s): %1","Resolver conflito com grupos de sinônimos existentes: %1",module,Magento_Search
 "All Websites","Todos os sites",module,Magento_Search
-"All Store Views","All Store Views",module,Magento_Search
+"All Store Views","Todas as Visões de Loja",module,Magento_Search
 "All Store Views","Todas as Visões de Loja",module,Magento_Search
 Delete,Excluir,module,Magento_Search
-"Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
-View/Edit,View/Edit,module,Magento_Search
+"Are you sure you want to delete synonym group with id: %1?","Deseja realmente excluir este grupo de sinônimos (id: %1)?",module,Magento_Search
+View/Edit,Ver/Editar,module,Magento_Search
 "Search entire store here...","Pesquisa em toda loja...",module,Magento_Search
 "There are no search terms available.","Não há nenhum termo de pesquisa disponível.",module,Magento_Search
 "Search Engine","Motor de busca",module,Magento_Search
