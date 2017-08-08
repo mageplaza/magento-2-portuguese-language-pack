@@ -7120,7 +7120,7 @@ Never,Nunca,module,Magento_Paypal
 "Buyer's Tax ID Type","Os compradores Imposto Tipo ID",module,Magento_Paypal
 Chargeback,Chargeback,module,Magento_Paypal
 Complaint,Complaint,module,Magento_Paypal
-Dispute,Dispute,module,Magento_Paypal
+Dispute,Disputa,module,Magento_Paypal
 "Matched Address only (no ZIP)","Matched Address only (no ZIP)",module,Magento_Paypal
 "Matched Address only (no ZIP) International","Matched Address only (no ZIP) International",module,Magento_Paypal
 "No Details matched","No Details matched",module,Magento_Paypal
@@ -7687,7 +7687,7 @@ Delete,Excluir,module,Magento_ProductVideo
 "YouTube API Key","Chave de API do Youtube",module,Magento_ProductVideo
 "Autostart base video","Iniciar automaticamente o vídeo base",module,Magento_ProductVideo
 "Show related video","Mostrar vídeos relacionados",module,Magento_ProductVideo
-"Auto restart video","Auto restart video",module,Magento_ProductVideo
+"Auto restart video","Reiniciar vídeo automaticamente",module,Magento_ProductVideo
 "Images And Videos","Imagens e Vídeos",module,Magento_ProductVideo
 "Images And Videos","Imagens e Vídeos",module,Magento_ProductVideoStaging
 "Edit Catalog Price Rules","Editar as Regras de preço do catálogo",module,Magento_PromotionPermissions
@@ -10355,7 +10355,7 @@ Number,Número,module,Magento_Shipping
 Action,Ação,module,Magento_Shipping
 "Are you sure?","Você tem certeza?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Informações de Transporte e Manuseio",module,Magento_Shipping
-"Track Order","Track Order",module,Magento_Shipping
+"Track Order","Rastrear Pedido",module,Magento_Shipping
 "No shipping information available","No shipping information available",module,Magento_Shipping
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
 "Track this shipment","Track this shipment",module,Magento_Shipping
