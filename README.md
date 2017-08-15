@@ -33,7 +33,7 @@ Install the Portuguese language pack via composer is never easier.
 **Install Portuguese pack**:
 
 ```
-composer require mageplaza/magento-2-portuguese-language-pack
+composer require mageplaza/magento-2-portuguese-language-pack:dev-master
 php bin/magento setup:static-content:deploy pt_BR
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -44,7 +44,7 @@ php bin/magento cache:flush
 **Update  Portuguese pack**:
 
 ```
-composer update mageplaza/magento-2-portuguese-language-pack
+composer update mageplaza/magento-2-portuguese-language-pack:dev-master
 php bin/magento setup:static-content:deploy pt_BR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
