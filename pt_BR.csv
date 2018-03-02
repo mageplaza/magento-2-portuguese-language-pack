@@ -256,8 +256,8 @@ Edit,Editar,module,Magento_AdvancedSearch
 "These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
 "File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Falha a sincronizar dados para o Magento Business Intelligence service.",module,Magento_Analytics
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Repetir Sincronização</a>",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Mensagem de erro",module,Magento_Analytics
@@ -265,14 +265,14 @@ TestMessage,TestMessage,module,Magento_Analytics
 "Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
 "Advanced Reporting","Relatórios Avançados",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"View details","View details",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ganhe novos pontos de vista e tome controlo dos resultados do seu negócio, usando os nossos relatórios dynamic product, pedidos, e clientes, trabalhados de acordo com os seus dados de clientes.",module,Magento_Analytics
+"View details","Ver detalhes",module,Magento_Analytics
+"Go to Advanced Reporting","Ir para Relatóros avançados",module,Magento_Analytics
 "An error occurred while subscription process.","Ocorreu um erro durante o processo de inscrição.",module,Magento_Analytics
 Analytics,Analítica,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,Configuração,module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
+"Business Intelligence","Inteligência de Negócio BI",module,Magento_Analytics
 "BI Essentials","Essenciais de BI",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
@@ -9644,12 +9644,12 @@ Comment,Comentar,module,Magento_Sales
 "Comment added","Comentário Adicionado",module,Magento_Sales
 "Transaction Data","Dados da Transação",module,Magento_Sales
 "Transaction ID","ID Transação",module,Magento_Sales
-"Parent Transaction ID","ID da Última Transação",module,Magento_Sales
+"Parent Transaction ID","ID da Transacção pai",module,Magento_Sales
 "Order ID","ID do Pedido",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
 "Created At","Criado em",module,Magento_Sales
-"Child Transactions","Child Transactions",module,Magento_Sales
+"Child Transactions","Transacções filhas",module,Magento_Sales
 "Transaction Details","Detalhes da transação",module,Magento_Sales
 Items,Itens,module,Magento_Sales
 "Gift Message for this Order","Mensagem de presente para este pedido",module,Magento_Sales
@@ -9727,40 +9727,40 @@ Create,Criar,module,Magento_Sales
 "Sales Emails Section","Seção de E-mail de vendas",module,Magento_Sales
 General,Geral,module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
-"Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Escolher se o IP do cliente é exibido em Pedidos, Faturas, Envios e memos de créditos.",module,Magento_Sales
+"Checkout Totals Sort Order","Totais de checkout ordenados por pedido",module,Magento_Sales
 "Allow Reorder","Permitir Recompra",module,Magento_Sales
 "Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
-"Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
-"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
-"Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
-"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","Logotipo para impressões PDF (200x50)",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Seu logotipo padrão será usado em documentos PDF e HTML.<br />(jpeg, tiff, png) Se a sua imagem PDF estiver distorcida, tente usar um tamanho de imagem maior.",module,Magento_Sales
+"Logo for HTML Print View","Logotipo para impressão de visualização HTML",module,Magento_Sales
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logotipo para apenas para documentos HTML. Se vazio, o padrão será usado.<br/>(jpeg, gif, png)",module,Magento_Sales
 Address,Endereço,module,Magento_Sales
-"Minimum Order Amount","Valor Mínimo de Encomenda",module,Magento_Sales
+"Minimum Order Amount","Quantidade de pedido mínimo",module,Magento_Sales
 Enable,Habilitado,module,Magento_Sales
 "Minimum Amount","Quantidade mínima",module,Magento_Sales
-"Subtotal after discount","Subtotal after discount",module,Magento_Sales
+"Subtotal after discount","Subtotal após desconto",module,Magento_Sales
 "Include Tax to Amount","Incluso o imposto sobre a quantidade",module,Magento_Sales
 "Description Message","Mensagem de descrição",module,Magento_Sales
-"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
-"Error to Show in Shopping Cart","Error to Show in Shopping Cart",module,Magento_Sales
-"Validate Each Address Separately in Multi-address Checkout","Validate Each Address Separately in Multi-address Checkout",module,Magento_Sales
-"Multi-address Description Message","Multi-address Description Message",module,Magento_Sales
-"We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty.",module,Magento_Sales
-"Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart",module,Magento_Sales
-"We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty.",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Esta mensagem será exibida no carrinho de compras quando o subtotal (após desconto) for menor que a quantia mínima permitida.",module,Magento_Sales
+"Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras",module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout","Valide cada endereço separadamente num checkout de endereços múltiplos",module,Magento_Sales
+"Multi-address Description Message","Multi-Endereço mensagem de descrição",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","Usaremos a descrição padrão acima caso deixe isto vazio.",module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras Multi-Endereço",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","Usaremos a mensagem padrão acima caso deixe este campo vazio.",module,Magento_Sales
 Dashboard,"Painel de Controle",module,Magento_Sales
-"Use Aggregated Data","Use Aggregated Data",module,Magento_Sales
-"Orders Cron Settings","Orders Cron Settings",module,Magento_Sales
-"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
+"Use Aggregated Data","Usar dados agregados",module,Magento_Sales
+"Orders Cron Settings","Configurações de pedidos do Cron",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Tempo de vida (minutos) de um pedido de pagamento",module,Magento_Sales
 "Sales Emails","E-mails de vendas",module,Magento_Sales
-"Asynchronous sending","Asynchronous sending",module,Magento_Sales
+"Asynchronous sending","Envio asincrono",module,Magento_Sales
 Enabled,Habilitado,module,Magento_Sales
-"New Order Confirmation Email Sender","New Order Confirmation Email Sender",module,Magento_Sales
-"New Order Confirmation Template","New Order Confirmation Template",module,Magento_Sales
+"New Order Confirmation Email Sender","E-mail de origem de confirmação de novos pedidos",module,Magento_Sales
+"New Order Confirmation Template","Template de confirmação de novos pedidos",module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sales
-"New Order Confirmation Template for Guest","New Order Confirmation Template for Guest",module,Magento_Sales
-"Send Order Email Copy To","Send Order Email Copy To",module,Magento_Sales
+"New Order Confirmation Template for Guest","Template para convidado para confirmação de pedido",module,Magento_Sales
+"Send Order Email Copy To","Enviar cópia de pedido para",module,Magento_Sales
 Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Email Copy Method","Método de Envio da Cópia do E-mail de Pedido",module,Magento_Sales
 "Order Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
@@ -9770,10 +9770,10 @@ Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Comments Email Copy Method","Método de Envio da Cópia do E-mail de Comentário de Pedido",module,Magento_Sales
 "Invoice Email Sender","Remetente do E-mail de Fatura",module,Magento_Sales
 "Invoice Email Template","Modelo do E-mail de Fatura",module,Magento_Sales
-"Invoice Email Template for Guest","Invoice Email Template for Guest",module,Magento_Sales
-"Send Invoice Email Copy To","Send Invoice Email Copy To",module,Magento_Sales
-"Send Invoice Email Copy Method","Send Invoice Email Copy Method",module,Magento_Sales
-"Invoice Comment Email Sender","Invoice Comment Email Sender",module,Magento_Sales
+"Invoice Email Template for Guest","Template de fatura para convidado",module,Magento_Sales
+"Send Invoice Email Copy To","Enviar cópia de fatura para",module,Magento_Sales
+"Send Invoice Email Copy Method","Método de cópia para envio de fatura de e-mail",module,Magento_Sales
+"Invoice Comment Email Sender","Comentário de origem para fatura",module,Magento_Sales
 "Invoice Comment Email Template","Invoice Comment Email Template",module,Magento_Sales
 "Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest",module,Magento_Sales
 "Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To",module,Magento_Sales
