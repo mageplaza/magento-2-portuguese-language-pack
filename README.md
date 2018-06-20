@@ -1,6 +1,8 @@
 ## Magento 2 Portuguese Language Pack
 
+With **Magento 2 Portuguese Language Pack** tutorial, it is achievable to use the native language - Portuguese instead of the Magento 2 default language on your store. Maybe you are wondering why should we do that? Meanwhile, English is the second language, that is authenticated by the community in the world. Actually, the language always creates an invisible connection among people who come from other countries. This is also the helpful advice in business.
 
+Therefore, so as to enhance customer experience on your Magento 2 store, optimizing the site performance is really important while the language is the thing you need to change firsly into the Portuguese language. Regardless of products and services you are providing, you will be closer to the Portuguese consumers if the store displays as a native shop in Portugal.
 
 Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento-2-portuguese-language-pack.html)
 
@@ -17,7 +19,7 @@ Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento
 
 This is status of Portuguese Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/93?title=translated)
+![language pack](http://progressed.io/bar/76?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -37,7 +39,7 @@ Install the Portuguese language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-portuguese-language-pack:dev-master
-php bin/magento setup:static-content:deploy pt_BR
+php bin/magento setup:static-content:deploy pt_PT
 php bin/magento cache:flush
 
 ```
@@ -47,7 +49,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-portuguese-language-pack:dev-master
-php bin/magento setup:static-content:deploy pt_BR
+php bin/magento setup:static-content:deploy pt_PT
 php bin/magento cache:flush
 
 ```
@@ -79,7 +81,7 @@ Unzip the Portuguese language pack to Magento 2 root folder. In this guide, we e
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/pt_br
+unzip master.zip app/i18n/Mageplaza/pt_pt
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -100,7 +102,7 @@ To download and install Portuguese pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `pt_BR.zip` into `app/i18n/mageplaza/pt_BR/pt_BR.csv`
+Unzip the compressed file and upload file `pt_PT.zip` into `app/i18n/mageplaza/pt_PT/pt_PT.csv`
 
 #### Step 2: Flush cache
 
@@ -115,7 +117,7 @@ Now time to active the Portuguese language pack for your Magento 2 store. From M
 
 ## 4. How to contribute
 
-Contribute to this language at https://crowdin.com/project/magento-2/pt-BR
+Contribute to this language at https://crowdin.com/project/magento-2/pt-PT
 
 ## 5. Supported Magento versions
 

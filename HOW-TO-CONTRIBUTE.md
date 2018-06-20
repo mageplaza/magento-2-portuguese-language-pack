@@ -16,7 +16,7 @@ Let's me explain the workflow:
 
 - [github_contributions.csv](https://github.com/mageplaza/magento-2-portuguese-language-pack/blob/master/github_contributions.csv) has been contributed by Mageplaza community.
 
-- We will merge two files: crowdin_pull.csv and github_contributions.csv into [pt_BR.csv](https://github.com/mageplaza/magento-2-portuguese-language-pack/blob/master/pt_BR.csv). Your Magento 2 store will use this csv file.
+- We will merge two files: crowdin_pull.csv and github_contributions.csv into [pt_PT.csv](https://github.com/mageplaza/magento-2-portuguese-language-pack/blob/master/pt_PT.csv). Your Magento 2 store will use this csv file.
 
 So, you should contribute to `github_contributions.csv` file.
 
