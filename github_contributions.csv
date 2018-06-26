@@ -1,1 +1,14 @@
 Mageplaza,Mageplaza
+VAT Number,CPF,module,Magento_Backend
+Validate VAT Number,Validar número CPF/CNPJ,module,Magento_Customer
+Error during VAT Number verification.,Erro durante verificação do CPF/CNPJ.,module,Magento_Customer
+VAT Number is valid.,Número de CPF/CNPJ é válido.,module,Magento_Customer
+Please enter a valid VAT number.,"Por favor, insira um número válido de CPF/CNPJ.",module,Magento_Customer
+VAT Number,CPF/CNPJ,module,Magento_Customer
+Tax/VAT number,CPF/CNPJ,module,Magento_Customer
+Show VAT Number on Storefront,Mostrar CNPJ na Frente de Loja,module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o CNPJ na Frente de Loja, configure o Mostrar CNPJ na Frente de Loja como Sim.",module,Magento_Customer
+Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
+Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
+Tax VAT Number,CPF/CNPJ,module,Magento_Customer
+VAT Number,CPF,module,Magento_CustomerCustomAttributes
