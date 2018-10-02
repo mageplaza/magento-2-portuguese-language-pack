@@ -265,43 +265,43 @@ Introduza um formato suportado e tente novamente.",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
 "Advanced Reporting","Advanced Reporting",module,Magento_Analytics
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Go to Advanced Reporting","Ir para avançado relatórios",module,Magento_Analytics
 "Analytics","Analítica",module,Magento_Analytics
 "API","API",module,Magento_Analytics
 "Configuration","Configuração",module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
+"Business Intelligence","Inteligência de negócios",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.","Este serviço fornece um conjunto dinâmico de relatórios sobre seu negócio.
 Os seus relatórios podem ser acessados com segurança em um painel personalizado fora do painel de administração clicando no link ""Relatórios Avançados"". </br> Para obter mais informações, consulte nossos <a href=""https://magento.com/legal/terms/cloud-terms""> termos e condições</a>.",module,Magento_Analytics
-"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
-"Industry","Industry",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"Advanced Reporting Service","Serviço de informação avançado",module,Magento_Analytics
+"Time of day to send data","Hora do dia para enviar dados",module,Magento_Analytics
+"Industry","Indústria",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","A fim de personalizar a sua experiência de Advanced Reporting, selecione por favor sua indústria.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Sabe mais sobre Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence oferece-lhe um caminho simples e claro para se tornar mais dados impulsionados.</br> Saiba mais sobre <a target=""_blank"" href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentials e BI Pro</a> tiers.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
-"Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
-"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
-"Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Auto Parts","Peças auto",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Vestuário bebê/infantil, artes e brinquedos",module,Magento_Analytics
+"Beauty and Cosmetics","Beleza e cosméticos",module,Magento_Analytics
+"Books, Music and Magazines","Livros, música e revistas",module,Magento_Analytics
+"Crafts and Stationery","Artesanato e artigos de papelaria",module,Magento_Analytics
+"Consumer Electronics","Electrónica de consumo",module,Magento_Analytics
+"Deal Site","Site de negócio",module,Magento_Analytics
+"Fashion Apparel and Accessories","Acessórios e vestuário de moda",module,Magento_Analytics
+"Food, Beverage and Grocery","Alimentos, bebidas e mercearia",module,Magento_Analytics
+"Home Goods and Furniture","Móveis e utensílios para casa",module,Magento_Analytics
+"Home Improvement","Obras em casa",module,Magento_Analytics
+"Jewelry and Watches","Joias e relógios",module,Magento_Analytics
+"Mass Merchant","Comerciante em massa",module,Magento_Analytics
+"Office Supplies","Material de escritório",module,Magento_Analytics
+"Outdoor and Camping Gear","Equipamento ao ar livre e Camping",module,Magento_Analytics
+"Pet Goods","Produtos do animal de estimação",module,Magento_Analytics
+"Pharma and Medical Devices","Dispositivos médicos e farmacêuticos",module,Magento_Analytics
+"Technology B2B","Tecnologia B2B",module,Magento_Analytics
 "Other","Outro(s)",module,Magento_Analytics
 "Back","Voltar",module,Magento_AsynchronousOperations
 "Done","Concluído",module,Magento_AsynchronousOperations
