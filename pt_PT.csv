@@ -1013,15 +1013,15 @@ Os seus relatórios podem ser acessados com segurança em um painel personalizad
 "Dynamic Block","Bloco dinâmico",module,Magento_Banner
 "Dynamic Block Type","Tipo de bloco dinâmico",module,Magento_Banner
 "Visibility","Visibilidade",module,Magento_Banner
-"Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
-"Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
+"Are you sure you want to delete these dynamic blocks?","Tem certeza de que deseja excluir este bloco dinâmico?",module,Magento_Banner
+"Related Dynamic Blocks","Blocos dinâmicos relacionados",module,Magento_Banner
 "Position","Posição",module,Magento_Banner
 "This rule no longer exists.","Esta regra já não existe.",module,Magento_Banner
-"You deleted the dynamic block.","You deleted the dynamic block.",module,Magento_Banner
+"You deleted the dynamic block.","Removeu o bloco dinâmico.",module,Magento_Banner
 "Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
 "We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
 "This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
+"Edit Dynamic Block","Editar bloco dinâmico",module,Magento_Banner
 "Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
 "You deleted %1 record(s).","Apagou %1 registo(s).",module,Magento_Banner
 "Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
@@ -1055,16 +1055,16 @@ Os seus relatórios podem ser acessados com segurança em um painel personalizad
 "Dynamic Block Inline Template","Dynamic Block Inline Template",module,Magento_Banner
 "Name","Nome",module,Magento_Banner
 "Status Label","Etiqueta do estado",module,Magento_Banner
-"General Information","General Information",module,Magento_Banner
+"General Information","Informação Geral",module,Magento_Banner
 "Back","Voltar",module,Magento_Banner
 "Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
-"Use Default Value","Use Default Value",module,Magento_Banner
+"Use Default Value","Usar o Valor Pré-definido",module,Magento_Banner
 "Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
-"Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
-"Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
+"Add Cart Price Rules","Adicionar Regras de Preço de Carrinho",module,Magento_Banner
+"Related Catalog Price Rule","Regra de Preço de Catálogo Relacionada",module,Magento_Banner
 "Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
 "Cancel","Cancelar",module,Magento_Banner
-"Add Selected","Add Selected",module,Magento_Banner
+"Add Selected","Adicionar Selecionadas",module,Magento_Banner
 "Remove","Eliminar",module,Magento_Banner
 "All Segments","All Segments",module,Magento_BannerCustomerSegment
 "Customer Segment","Customer Segment",module,Magento_BannerCustomerSegment
@@ -1087,7 +1087,7 @@ Os seus relatórios podem ser acessados com segurança em um painel personalizad
 "expires","expira em",module,Magento_Braintree
 "PayPal","PayPal",module,Magento_Braintree
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Braintree
-"Transaction was failed.","Transaction was failed.",module,Magento_Braintree
+"Transaction was failed.","A transação não foi efetuada.",module,Magento_Braintree
 "Credit Card Type","Tipo de cartão de crédito",module,Magento_Braintree
 "Credit Card Number","Número de cartão de crédito",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Por favor insira um número de cartão de crédito válido",module,Magento_Braintree
