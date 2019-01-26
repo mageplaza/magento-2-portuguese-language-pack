@@ -91,8 +91,11 @@ Unzip the Portuguese language pack to Magento 2 root folder. In this guide, we e
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/pt_pt
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-portuguese-language-pack` to `pt_pt`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -112,7 +115,11 @@ To download and install Portuguese pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `pt_PT.zip` into `app/i18n/mageplaza/pt_PT/pt_PT.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_pt/pt_PT.csv`
+
+See this screenshot
+
+![Portuguese pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
