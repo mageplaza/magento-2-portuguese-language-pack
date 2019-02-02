@@ -13,3 +13,6 @@ Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
 Tax VAT Number,CPF/CNPJ,module,Magento_Customer
 VAT Number,CPF,module,Magento_CustomerCustomAttributes
 from,desde,theme,frontend/Magento/luma
+"Company Name:","Empresa:",module,Magento_Company
+"Company Name","Empresa",module,Magento_Company
+"Company Address","Morada da empresa"
