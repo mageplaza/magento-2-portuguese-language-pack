@@ -21,7 +21,7 @@ Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento
 
 This is status of Portuguese Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/0?title=translated)
+![language pack](http://progressed.io/bar/75?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -123,7 +123,7 @@ Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/
 
 See this screenshot
 
-![Portuguese pack](https://cdn2.mageplaza.com/media/general2/tS668yC.png)
+![Portuguese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
 #### Step 2: Flush cache
 
