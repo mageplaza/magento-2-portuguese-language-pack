@@ -119,11 +119,13 @@ To download and install Portuguese pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_pt/pt_PT.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_pt/`
 
-See this screenshot
+See this screenshot:
 
 ![Portuguese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **pt_pt**
 
 #### Step 2: Flush cache
 
