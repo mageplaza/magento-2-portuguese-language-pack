@@ -6,7 +6,7 @@ Therefore, so as to enhance customer experience on your Magento 2 store, optimiz
 
 Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento-2-portuguese-language-pack.html)
 
-![Mageplaza Portuguese language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Portuguese language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
