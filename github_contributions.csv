@@ -1,18 +1,30 @@
 Mageplaza,Mageplaza
-VAT Number,CPF,module,Magento_Backend
-Validate VAT Number,Validar número CPF/CNPJ,module,Magento_Customer
-Error during VAT Number verification.,Erro durante verificação do CPF/CNPJ.,module,Magento_Customer
-VAT Number is valid.,Número de CPF/CNPJ é válido.,module,Magento_Customer
-Please enter a valid VAT number.,"Por favor, insira um número válido de CPF/CNPJ.",module,Magento_Customer
-VAT Number,CPF/CNPJ,module,Magento_Customer
-Tax/VAT number,CPF/CNPJ,module,Magento_Customer
-Show VAT Number on Storefront,Mostrar CNPJ na Frente de Loja,module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o CNPJ na Frente de Loja, configure o Mostrar CNPJ na Frente de Loja como Sim.",module,Magento_Customer
-Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
-Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
-Tax VAT Number,CPF/CNPJ,module,Magento_Customer
-VAT Number,CPF,module,Magento_CustomerCustomAttributes
+VAT Number,NIF,module,Magento_Backend
+Validate VAT Number,Validar o NIF,module,Magento_Customer
+Error during VAT Number verification.,Erro durante verificação do NIF.,module,Magento_Customer
+VAT Number is valid.,NIF válido.,module,Magento_Customer
+Please enter a valid VAT number.,"Por favor, insira um NIF válido.",module,Magento_Customer
+VAT Number,NIF,module,Magento_Customer
+Tax/VAT number,NIF,module,Magento_Customer
+Show VAT Number on Storefront,Mostrar o NIF na Frente de Loja,module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o NIF na Frente de Loja, configure o Mostrar NIF na Frente de Loja como Sim.",module,Magento_Customer
+Show Tax/VAT Number,Mostrar o NIF,module,Magento_Customer
+Show Tax/VAT Number,Mostrar o NIF,module,Magento_Customer
+Tax VAT Number,NIF,module,Magento_Customer
+VAT Number,NIF,module,Magento_CustomerCustomAttributes
 from,desde,theme,frontend/Magento/luma
 "Company Name:","Empresa:",module,Magento_Company
 "Company Name","Empresa",module,Magento_Company
 "Company Address","Morada da empresa"
+"This customer couldn't be found. Verify the customer and try again.","Cliente não encontrado. Verifique o cliente e tente novamente.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Loja não encontrada. Verifique a loja e tente novamente..",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ocorreu um erro. Consulte os logs de erro para detalhes.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Apenas pode terminar a encomenda numa loja ativa. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","O item da encomenda tem de ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","O item proposto precisa ser recebido. Escolha o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","O item proposto precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","O ID do item da lista de desejos precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","O ID do item da lista de desejos precisa ser carregado. Carregue o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","O ficheiro está corrompido e não pode ser usado.",module,Magento_AdvancedCheckout
+"We don't have as many ""%1"" as you requested.","Não temos a quantidade de ""%1"" que pediu.",module,Magento_CatalogInventory
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","Não temos a quantidade que pediu, vamos encomendar as restantes %1 unidades.",module,Magento_InventorySales
