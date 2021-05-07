@@ -1,18 +1,48 @@
 Mageplaza,Mageplaza
-VAT Number,CPF,module,Magento_Backend
-Validate VAT Number,Validar número CPF/CNPJ,module,Magento_Customer
-Error during VAT Number verification.,Erro durante verificação do CPF/CNPJ.,module,Magento_Customer
-VAT Number is valid.,Número de CPF/CNPJ é válido.,module,Magento_Customer
-Please enter a valid VAT number.,"Por favor, insira um número válido de CPF/CNPJ.",module,Magento_Customer
-VAT Number,CPF/CNPJ,module,Magento_Customer
-Tax/VAT number,CPF/CNPJ,module,Magento_Customer
-Show VAT Number on Storefront,Mostrar CNPJ na Frente de Loja,module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o CNPJ na Frente de Loja, configure o Mostrar CNPJ na Frente de Loja como Sim.",module,Magento_Customer
-Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
-Show Tax/VAT Number,Mostrar CPF/CNPJ,module,Magento_Customer
-Tax VAT Number,CPF/CNPJ,module,Magento_Customer
-VAT Number,CPF,module,Magento_CustomerCustomAttributes
+VAT Number,NIF,module,Magento_Backend
+Validate VAT Number,Validar o NIF,module,Magento_Customer
+Error during VAT Number verification.,Erro durante verificação do NIF.,module,Magento_Customer
+VAT Number is valid.,NIF válido.,module,Magento_Customer
+Please enter a valid VAT number.,"Por favor, insira um NIF válido.",module,Magento_Customer
+VAT Number,NIF,module,Magento_Customer
+Tax/VAT number,NIF,module,Magento_Customer
+Show VAT Number on Storefront,Mostrar o NIF na Frente de Loja,module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o NIF na Frente de Loja, configure o Mostrar NIF na Frente de Loja como Sim.",module,Magento_Customer
+Show Tax/VAT Number,Mostrar o NIF,module,Magento_Customer
+Show Tax/VAT Number,Mostrar o NIF,module,Magento_Customer
+Tax VAT Number,NIF,module,Magento_Customer
+VAT Number,NIF,module,Magento_CustomerCustomAttributes
 from,desde,theme,frontend/Magento/luma
 "Company Name:","Empresa:",module,Magento_Company
 "Company Name","Empresa",module,Magento_Company
 "Company Address","Morada da empresa"
+"This customer couldn't be found. Verify the customer and try again.","Cliente não encontrado. Verifique o cliente e tente novamente.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Loja não encontrada. Verifique a loja e tente novamente..",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ocorreu um erro. Consulte os logs de erro para detalhes.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Apenas pode terminar a encomenda numa loja ativa. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","O item da encomenda tem de ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","O item proposto precisa ser recebido. Escolha o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","O item proposto precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","O ID do item da lista de desejos precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","O ID do item da lista de desejos precisa ser carregado. Carregue o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","O ficheiro está corrompido e não pode ser usado.",module,Magento_AdvancedCheckout
+"We don't have as many ""%1"" as you requested.","Não temos a quantidade de ""%1"" que pediu.",module,Magento_CatalogInventory
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","Não temos a quantidade que pediu, vamos encomendar as restantes %1 unidades.",module,Magento_InventorySales
+"Something went wrong while saving the page. Please refresh the page and try again.","Algo correu mal enquanto guardavamos a página. Por favor recarregue a página e tente novamente",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Adicionou %1 ao seu <a href=""%2"">carrinho</a>.",module,Magento_Checkout
+"Please select at least one product to add to cart","Por favor selecione pelo menos um produto para o carrinho",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","O item cotado não foi encontrado. Verifique o item e tente novamente.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","O pedido não foi colocado. Primeiro, aceite os termos e condições, depois tente novamente colocar o pedidor.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","O produto não foi encontrado. Verifique o produto e tente novamente.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Um erro no servidor impediu o registo do seu pedido. Por favor tente colocar o pedido novamente.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","O endereço de envio está em falta. Coloque o endereço e tente novamente.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","A informação de envio não foi guardada. Verifique os dados e tente novamente.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","O método de envio não pode definido num carrinho vazio. Adicione items ao carrinho e tente novamente.",module,Magento_Checkout
+"Billing Address","Morada de Faturação",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Algo correu mal com o seu pedido. Por favor tente mais tarde.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Falta o método de envio. Escolha o método de envio e tente novamente.",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Ver Items de venda cruzada no carrinho.",module,Magento_Checkout
+"Unable to place order. Please try again later.","Não foi possível efetuar a encomenda. Por favor, tente novamente mais tarde.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Por favor especifique o ID de região no endereço de envio.",module,Magento_Checkout
+"Stored Payment Method was successfully removed","O método de pagamento foi removido com sucesso.",module,Magento_Vault
+"No payment tokens are available for the specified order payment.","Nenhuns tokens de pagamento estão disponiveis para a ordem de pagamento designada.",module,Magento_Vault
