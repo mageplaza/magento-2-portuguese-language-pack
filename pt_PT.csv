@@ -219,16 +219,16 @@
 "Order by SKU Template","Ordenar por template de SKU",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","SKU não foi encontrado no catálogo.",module,Magento_AdvancedCheckout
 "This file needs to be in .csv format.","O ficheiro tem que estar no formato CSV.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Cliente não encontrado. Verifique o cliente e tente novamente.",module,Magento_AdvancedCheckout
 "This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ocorreu um erro. Consulte os logs de erro para detalhes.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Apenas pode terminar a encomenda numa loja ativa. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","O item da encomenda tem de ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","O item proposto precisa ser recebido. Escolha o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","O item proposto precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","O ID do item da lista de desejos precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","O ID do item da lista de desejos precisa ser carregado. Carregue o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","O ficheiro está corrompido e não pode ser usado.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Por favor, corrija os dados enviados.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Não foi encontrado o modelo de entidade '%1'",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
@@ -886,7 +886,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "City","Cidade",module,Magento_Backend
 "Street Address","Morada",module,Magento_Backend
 "Street Address Line 2","Morada (Linha 2)",module,Magento_Backend
-"VAT Number","Número de Contribuinte",module,Magento_Backend
+"VAT Number","NIF",module,Magento_Backend
 "Single-Store Mode","Modo de Loja Única",module,Magento_Backend
 "Enable Single-Store Mode","Ativar Modo Loja Única",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Esta definição não será considerada se o sistema possuir mais de uma vista de loja.",module,Magento_Backend
@@ -2784,11 +2784,12 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The fewest you may purchase is %1.","A quantidade mínima de compra é %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","O máximo que pode comprar é %1.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","Não temos a quantidade de ""%1"" que pediu.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Não temos tantas unidades do produto ""%1"" que pediu, mas iremos encomendar as restantes %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, por isso vamos encomendar as restantes %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Pode comprar o artigo %1 apenas em múltiplos de %2.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","Pode comprar este produto apenas em quantidades de %1 de cada vez.",module,Magento_CatalogInventory
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","Não temos a quantidade que pediu, vamos encomendar as restantes %1 unidades.",module,Magento_InventorySales
 "Decimal qty increments is not allowed.","Não são permitidos incrementos de qtd decimais.",module,Magento_CatalogInventory
 "Stock Status","Estado do Stock",module,Magento_CatalogInventory
 "Quantity","Quantidade",module,Magento_CatalogInventory
@@ -3400,22 +3401,22 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Require Customer To Be Logged In To Checkout","O cliente tem de ter sessão iniciada para efetuar o checkout",module,Magento_Checkout
 "Maximum Display Recently Added Item(s)","Número Máximo de Itens Mostrado nos Itens Adicionados Recentemente",module,Magento_Checkout
 "of","de",module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
-"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.","Algo correu mal enquanto guardavamos a página. Por favor recarregue a página e tente novamente",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Adicionou %1 ao seu <a href=""%2"">carrinho</a>.",module,Magento_Checkout
+"Please select at least one product to add to cart","Por favor selecione pelo menos um produto para o carrinho",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","O item cotado não foi encontrado. Verifique o item e tente novamente.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","O pedido não foi colocado. Primeiro, aceite os termos e condições, depois tente novamente colocar o pedidor.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","O produto não foi encontrado. Verifique o produto e tente novamente.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Um erro no servidor impediu o registo do seu pedido. Por favor tente colocar o pedido novamente.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","O endereço de envio está em falta. Coloque o endereço e tente novamente.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","A informação de envio não foi guardada. Verifique os dados e tente novamente.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","O método de envio não pode definido num carrinho vazio. Adicione items ao carrinho e tente novamente.",module,Magento_Checkout
 "Billing Address","Morada de Faturação",module,Magento_Checkout
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Algo correu mal com o seu pedido. Por favor tente mais tarde.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Falta o método de envio. Escolha o método de envio e tente novamente.",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Ver Items de venda cruzada no carrinho.",module,Magento_Checkout
 "Unable to place order. Please try again later.","Não foi possível efetuar a encomenda. Por favor, tente novamente mais tarde.",module,Magento_Checkout
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Por favor especifique o ID de região no endereço de envio.",module,Magento_Checkout
 "Terms and Conditions","Termos e Condições",module,Magento_CheckoutAgreements
 "Add New Condition","Adicionar Nova Condição",module,Magento_CheckoutAgreements
 "Save Condition","Gravar Condição",module,Magento_CheckoutAgreements
@@ -3730,7 +3731,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Companies","Companies",module,Magento_Company
 "Add New Company","Add New Company",module,Magento_Company
 "(me)","(me)",module,Magento_Company
-"Company Name:","Company Name:",module,Magento_Company
+"Company Name:","Empresa:",module,Magento_Company
 "Company Legal Name:","Company Legal Name:",module,Magento_Company
 "Company Email:","Company Email:",module,Magento_Company
 "VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
@@ -3863,7 +3864,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit","Editar",module,Magento_Company
 "Delete","Eliminar",module,Magento_Company
 "Duplicate","Duplicate",module,Magento_Company
-"Company Name","Company Name",module,Magento_Company
+"Company Name","Empresa",module,Magento_Company
+"Company Address","Morada da empresa",module,Magento_Company
 "Customer Type:","Customer Type:",module,Magento_Company
 "Company:","Company:",module,Magento_Company
 "Company Information","Company Information",module,Magento_Company
@@ -4813,7 +4815,7 @@ new products will be created. Use this step to customize images and price for yo
 "Something went wrong while validating the VAT ID.","Algo correu mal durante a validação do NIF.",module,Magento_Customer
 "The customer would belong to Customer Group %s.","O cliente iria pertencer ao Grupo de Cliente %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Ocorreu um erro na deteção do Grupo de Cliente.",module,Magento_Customer
-"Validate VAT Number","Validar NIF",module,Magento_Customer
+"Validate VAT Number","Validar o NIF",module,Magento_Customer
 "Customer Login","Login",module,Magento_Customer
 "Create New Customer Account","Criar nova conta de cliente",module,Magento_Customer
 "Date of Birth","Data de Nascimento",module,Magento_Customer
@@ -4960,10 +4962,10 @@ new products will be created. Use this step to customize images and price for yo
 "You can't delete group ""%1"".","Não pode eliminar o grupo ""%1"".",module,Magento_Customer
 "Customer Group already exists.","O Grupo de Cliente já existe.",module,Magento_Customer
 "Cannot delete group.","Não é possível apagar o grupo.",module,Magento_Customer
-"Error during VAT Number verification.","Erro durante a verificação do NIF.",module,Magento_Customer
+"Error during VAT Number verification.","Erro durante verificação do NIF.",module,Magento_Customer
 "PHP SOAP extension is required.","A extensão SOAP para PHP é necessária.",module,Magento_Customer
-"VAT Number is valid.","O NIF é válido.",module,Magento_Customer
-"Please enter a valid VAT number.","Por favor insira um NIF válido.",module,Magento_Customer
+"VAT Number is valid.","NIF válido.",module,Magento_Customer
+"Please enter a valid VAT number.","Por favor, insira um NIF válido.",module,Magento_Customer
 "Your VAT ID was successfully validated.","O seu NIF foi validado com sucesso.",module,Magento_Customer
 "You will be charged tax.","Irão ser cobrados impostos.",module,Magento_Customer
 "You will not be charged tax.","Não serão cobrados impostos.",module,Magento_Customer
@@ -5036,7 +5038,7 @@ new products will be created. Use this step to customize images and price for yo
 "Address","Morada",module,Magento_Customer
 "Street Address","Morada",module,Magento_Customer
 "Street Address %1","Morada %1",module,Magento_Customer
-"VAT Number","Número de Contribuinte",module,Magento_Customer
+"VAT Number","NIF",module,Magento_Customer
 "City","Cidade",module,Magento_Customer
 "State/Province","Concelho/Distrito",module,Magento_Customer
 "Please select a region, state or province.","Por favor selecione a região, concelho ou distrito.",module,Magento_Customer
@@ -5081,7 +5083,7 @@ new products will be created. Use this step to customize images and price for yo
 "Fax","Fax",module,Magento_Customer
 "Gender","Sexo",module,Magento_Customer
 "Name","Nome",module,Magento_Customer
-"Tax/VAT number","Número de Identificação Fiscal (NIF)",module,Magento_Customer
+"Tax/VAT number","NIF",module,Magento_Customer
 "Phone Number","Número de Telefone",module,Magento_Customer
 "Welcome to %store_name","Bem-vindo(a) à %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
@@ -5145,8 +5147,8 @@ new products will be created. Use this step to customize images and price for yo
 "Validation Error Group","Grupo de Erro de Validação",module,Magento_Customer
 "Validate on Each Transaction","Validar em Cada Transação",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Valor Pré-definido para Desativar Mudanças de Grupo Automáticas Baseadas em NIF",module,Magento_Customer
-"Show VAT Number on Storefront","Mostrar NIF na Loja",module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o NIF na Loja, defina a opção Mostrar NIF na Loja para Sim.",module,Magento_Customer
+"Show VAT Number on Storefront","Mostrar o NIF na Frente de Loja",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar o NIF na Frente de Loja, configure o Mostrar NIF na Frente de Loja como Sim.",module,Magento_Customer
 "Default Email Domain","Domínio de Email Pré-definido",module,Magento_Customer
 "Default Welcome Email","Email de Boas Vindas Pré-definido",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O template de email é escolhido com base no tema de recurso quando a opção ""Default"" está selecionada.",module,Magento_Customer
@@ -5192,7 +5194,7 @@ O template de email é escolhido com base no tema de recurso quando a opção ""
 "The suffix that goes after name (Jr., Sr., etc.)","O sufixo que aparece depois do nome (Jr. Sr., etc.)",module,Magento_Customer
 "Suffix Dropdown Options","Opções de Menu de Sufixo",module,Magento_Customer
 "Show Date of Birth","Mostrar Data de Nascimento",module,Magento_Customer
-"Show Tax/VAT Number","Mostrar NIF",module,Magento_Customer
+"Show Tax/VAT Number","Mostrar o NIF",module,Magento_Customer
 "Show Gender","Mostrar Género",module,Magento_Customer
 "Show Telephone","Mostrar telefone",module,Magento_Customer
 "Show Company","Mostrar empresa",module,Magento_Customer
@@ -5524,7 +5526,7 @@ O template de email é escolhido com base no tema de recurso quando a opção ""
 "Address","Morada",module,Magento_CustomerCustomAttributes
 "Street Address","Morada",module,Magento_CustomerCustomAttributes
 "Street Address %1","Morada %1",module,Magento_CustomerCustomAttributes
-"VAT Number","Número de Contribuinte",module,Magento_CustomerCustomAttributes
+"VAT Number","NIF",module,Magento_CustomerCustomAttributes
 "City","Cidade",module,Magento_CustomerCustomAttributes
 "State/Province","Concelho/Distrito",module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Por favor selecione a região, concelho ou distrito.",module,Magento_CustomerCustomAttributes
@@ -6455,7 +6457,7 @@ O template de email é escolhido com base no tema de recurso quando a opção ""
 "City","Cidade",module,Magento_Email
 "Street Address 1","Morada (Linha 1)",module,Magento_Email
 "Street Address 2","Morada (Linha 2)",module,Magento_Email
-"VAT Number","Número de Contribuinte",module,Magento_Email
+"VAT Number","NIF",module,Magento_Email
 "Store Contact Information","Informação de Contacto da Loja",module,Magento_Email
 "%1","%1",module,Magento_Email
 "Template Variables","Variáveis do Template",module,Magento_Email
@@ -15501,7 +15503,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "No token found.","Nenhum token encontrado.",module,Magento_Vault
 "Wrong request.","Pedido Errado.",module,Magento_Vault
 "Deletion failure. Please try again.","Falha de exclusão. Por favor, tente novamente.",module,Magento_Vault
-"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
+"Stored Payment Method was successfully removed","O método de pagamento foi removido com sucesso.",module,Magento_Vault
 "Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
 "No available payment tokens for specified order payment.","Nenhum tokens de pagamento disponíveis para ordem pagamento especificada.",module,Magento_Vault
 "Card Number","Número do Cartão",module,Magento_Vault
@@ -15513,7 +15515,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Delete","Eliminar",module,Magento_Vault
 "PayPal Account","Conta PayPal",module,Magento_Vault
 "Cancel","Cancelar",module,Magento_Vault
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment.",module,Magento_Vault
+"No payment tokens are available for the specified order payment.","Nenhuns tokens de pagamento estão disponiveis para a ordem de pagamento designada.",module,Magento_Vault
 "Credit Card was successfully removed","Cartão de Crédito foi removido com êxito",module,Magento_Vault
 "My Credit Cards","Os Meus Cartões de Crédito",module,Magento_Vault
 "You have no credit cards.","Você não tem nenhum cartão de crédito.",module,Magento_Vault
