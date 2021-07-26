@@ -1,8 +1,6 @@
 ## Magento 2 Portuguese Language Pack
 
-With **Magento 2 Portuguese Language Pack** tutorial, it is achievable to use the native language - Portuguese instead of the Magento 2 default language on your store. Maybe you are wondering why should we do that? Meanwhile, English is the second language, that is authenticated by the community in the world. Actually, the language always creates an invisible connection among people who come from other countries. This is also the helpful advice in business.
-
-Therefore, so as to enhance customer experience on your Magento 2 store, optimizing the site performance is really important while the language is the thing you need to change firsly into the Portuguese language. Regardless of products and services you are providing, you will be closer to the Portuguese consumers if the store displays as a native shop in Portugal.
+With **Magento 2 Portuguese Language Pack** tutorial, it is achievable to use the native language - Portuguese instead of the Magento 2 default language on your store. Maybe you are wondering why should we do that? Meanwhile, English is the second language, that is authenticated by the community in the world. Actually, the language always creates an invisible connection among people who come from other countries. This is also the helpful advice in business. Therefore, so as to enhance customer experience on your Magento 2 store, optimizing the site performance is really important while the language is the thing you need to change firsly into the Portuguese language. Regardless of products and services you are providing, you will be closer to the Portuguese consumers if the store displays as a native shop in Portugal.
 
 Read more [Magento 2 Portuguese Language Pack](https://www.mageplaza.com/magento-2-portuguese-language-pack.html)
 
@@ -29,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-portuguese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Portuguese Language Pack
 
@@ -40,17 +38,17 @@ Install the Portuguese language pack via composer is never easier.
 
 **Install Portuguese pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-portuguese-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-portuguese-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy pt_PT
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-portuguese-language-pack:dev-master
@@ -166,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
